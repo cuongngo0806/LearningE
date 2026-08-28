@@ -1,0 +1,5130 @@
+{
+  "version": 1,
+  "profile": {
+    "nativeLanguage": "Vietnamese",
+    "englishLevel": "A2",
+    "toeicLevel": "300-400",
+    "targetToeic": 800,
+    "focus": [
+      "vocabulary",
+      "sentence_patterns",
+      "thinking_in_english",
+      "writing",
+      "speaking"
+    ]
+  },
+  "vocabulary": {
+    "help": {
+      "word": "help",
+      "meaning": "giúp đỡ",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "examples": [
+        "Can you help me with this?",
+        "Can you help me?",
+        "Can you help me carry this?"
+      ],
+      "collocations": [
+        "help me",
+        "help someone with something",
+        "help me + verb"
+      ],
+      "mastery": 0.39999999999999997,
+      "encounters": 7,
+      "correctUses": 7,
+      "wrongUses": 0,
+      "recognitionMastery": 0.42,
+      "productionMastery": 0.84,
+      "firstSeen": "2026-08-23T15:04:24.333Z",
+      "lastSeen": "2026-08-23T15:31:23.491Z",
+      "nextReview": "2026-08-25T15:31:23.491Z",
+      "contexts": [
+        "Bạn có thể giúp tôi không?",
+        "Bạn có thể giúp tôi nấu ăn tối nay không?",
+        "Anh có thể giúp tôi dọn dẹp nhà cửa không?",
+        "Bạn có thể giúp tôi mang túi này không?"
+      ]
+    },
+    "wake up": {
+      "word": "wake up",
+      "meaning": "thức dậy",
+      "partOfSpeech": "phrasal verb",
+      "level": "A2",
+      "examples": [
+        "I wake up at 6 a.m. every day.",
+        "I wake up at six o'clock every day.",
+        "I wake up at 6 a.m.",
+        "She wakes up early.",
+        "I wake up at 7am every day."
+      ],
+      "collocations": [
+        "wake up early",
+        "wake up late",
+        "wake up at [time]"
+      ],
+      "mastery": 0.35,
+      "encounters": 6,
+      "correctUses": 6,
+      "wrongUses": 0,
+      "recognitionMastery": 0.36,
+      "productionMastery": 0.72,
+      "firstSeen": "2026-08-23T15:11:23.517Z",
+      "lastSeen": "2026-08-24T15:02:16.169Z",
+      "nextReview": "2026-08-26T15:02:16.169Z",
+      "contexts": [
+        "Buổi sáng, tôi thức dậy lúc sáu giờ.",
+        "Tôi thức dậy lúc 6 giờ sáng.",
+        "Sau khi thức dậy, tôi dọn giường."
+      ]
+    },
+    "morning": {
+      "word": "morning",
+      "meaning": "buổi sáng",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "examples": [
+        "See you tomorrow morning."
+      ],
+      "collocations": [
+        "in the morning",
+        "this morning",
+        "tomorrow morning",
+        "early morning"
+      ],
+      "mastery": 0.25,
+      "encounters": 8,
+      "correctUses": 6,
+      "wrongUses": 2,
+      "recognitionMastery": 0.36,
+      "productionMastery": 0.62,
+      "firstSeen": "2026-08-23T15:11:53.911Z",
+      "lastSeen": "2026-08-23T15:58:51.572Z",
+      "nextReview": "2026-08-24T15:58:51.572Z",
+      "contexts": [
+        "Buổi sáng, tôi thức dậy lúc sáu giờ.",
+        "Tôi thường mang laptop đến văn phòng vào buổi sáng.",
+        "Bạn có thể mang theo sạc dự phòng đến văn phòng vào sáng mai không?"
+      ]
+    },
+    "cook": {
+      "word": "cook",
+      "meaning": "nấu ăn",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "examples": [
+        "cook dinner",
+        "cook tonight",
+        "I like to cook dinner.",
+        "She cooks dinner every day."
+      ],
+      "collocations": [
+        "cook dinner",
+        "cook a meal"
+      ],
+      "mastery": 0.25,
+      "encounters": 4,
+      "correctUses": 4,
+      "wrongUses": 0,
+      "recognitionMastery": 0.24,
+      "productionMastery": 0.48,
+      "firstSeen": "2026-08-23T15:12:33.581Z",
+      "lastSeen": "2026-08-24T15:03:25.297Z",
+      "nextReview": "2026-08-25T15:03:25.297Z",
+      "contexts": [
+        "Bạn có thể giúp tôi nấu ăn tối nay không?",
+        "Cô ấy muốn nấu bữa sáng cho gia đình."
+      ]
+    },
+    "usually": {
+      "word": "usually",
+      "meaning": "thường",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "examples": [
+        "She usually walks to work.",
+        "I usually wake up at 7am.",
+        "I usually walk in the park every morning."
+      ],
+      "collocations": [
+        "usually + V"
+      ],
+      "mastery": 0.3,
+      "encounters": 6,
+      "correctUses": 5,
+      "wrongUses": 1,
+      "recognitionMastery": 0.3,
+      "productionMastery": 0.6,
+      "firstSeen": "2026-08-23T15:13:51.903Z",
+      "lastSeen": "2026-08-25T16:30:09.585Z",
+      "nextReview": "2026-08-26T16:30:09.585Z",
+      "contexts": [
+        "Cô ấy thường đi bộ đến công ty.",
+        "Tôi thường mang laptop đến văn phòng vào buổi sáng.",
+        "Tôi thường đi bộ trong công viên mỗi buổi sáng."
+      ]
+    },
+    "walk": {
+      "word": "walk",
+      "meaning": "đi bộ",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "examples": [
+        "She walks to work every day.",
+        "She walks to work.",
+        "I walk every morning.",
+        "I walk to school every day.",
+        "is walking"
+      ],
+      "collocations": [
+        "walk in the park"
+      ],
+      "mastery": 0.25,
+      "encounters": 9,
+      "correctUses": 6,
+      "wrongUses": 2,
+      "recognitionMastery": 0.41,
+      "productionMastery": 0.62,
+      "firstSeen": "2026-08-23T15:13:51.903Z",
+      "lastSeen": "2026-08-25T16:38:45.698Z",
+      "nextReview": "2026-08-26T16:38:45.698Z",
+      "contexts": [
+        "Cô ấy thường đi bộ đến công ty.",
+        "Tôi thường đi bộ trong công viên mỗi buổi sáng.",
+        "Gia đình tôi đang đi dạo trong công viên lúc này.",
+        "Tuần tới, tôi sẽ đi bộ trong công viên với gia đình tôi."
+      ]
+    },
+    "office": {
+      "word": "office",
+      "meaning": "công ty/văn phòng",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "examples": [
+        "He works at the office.",
+        "She walks to the office.",
+        "He works at an office downtown.",
+        "at the office",
+        "in the office"
+      ],
+      "collocations": [
+        "go to the office",
+        "work in an office",
+        "at the office",
+        "in the office"
+      ],
+      "mastery": 0.35,
+      "encounters": 11,
+      "correctUses": 7,
+      "wrongUses": 2,
+      "recognitionMastery": 0.52,
+      "productionMastery": 0.79,
+      "firstSeen": "2026-08-23T15:13:51.903Z",
+      "lastSeen": "2026-08-23T15:58:51.572Z",
+      "nextReview": "2026-08-25T15:58:51.572Z",
+      "contexts": [
+        "Cô ấy thường đi bộ đến công ty.",
+        "Tôi thường mang laptop đến văn phòng vào buổi sáng.",
+        "Tôi thường làm việc trên máy tính xách tay ở văn phòng.",
+        "Bạn có thể mang theo sạc dự phòng đến văn phòng vào sáng mai không?"
+      ]
+    },
+    "company": {
+      "word": "company",
+      "meaning": "công ty",
+      "partOfSpeech": "noun",
+      "level": "B1",
+      "examples": [
+        "She works for a big company.",
+        "She walks to the office (not 'to company').",
+        "My company is growing fast.",
+        "She works for a tech company.",
+        "She works for a large company."
+      ],
+      "collocations": [
+        "work for a company",
+        "start a company",
+        "my company",
+        "a big company",
+        "company policy",
+        "run a company",
+        "join a company"
+      ],
+      "mastery": 0.25,
+      "encounters": 7,
+      "correctUses": 5,
+      "wrongUses": 2,
+      "recognitionMastery": 0.3,
+      "productionMastery": 0.55,
+      "firstSeen": "2026-08-23T15:24:55.319Z",
+      "lastSeen": "2026-08-23T15:55:35.875Z",
+      "nextReview": "2026-08-24T15:55:35.875Z",
+      "contexts": [
+        "Cô ấy thường đi bộ đến công ty.",
+        "Công ty tôi mua máy tính mới cho mỗi nhân viên.",
+        "Sau khi công ty lắp đặt wifi mới, mọi người làm việc nhanh hơn."
+      ]
+    },
+    "work": {
+      "word": "work",
+      "meaning": "nơi làm việc",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "examples": [
+        "work on my laptop",
+        "work at the office",
+        "Everyone works faster now."
+      ],
+      "collocations": [
+        "go to work",
+        "walk to work",
+        "work on",
+        "work at",
+        "work faster",
+        "work hard",
+        "work well"
+      ],
+      "mastery": 0.3,
+      "encounters": 5,
+      "correctUses": 5,
+      "wrongUses": 0,
+      "recognitionMastery": 0.3,
+      "productionMastery": 0.6,
+      "firstSeen": "2026-08-23T15:25:41.149Z",
+      "lastSeen": "2026-08-23T15:55:35.875Z",
+      "nextReview": "2026-08-24T15:55:35.875Z",
+      "contexts": [
+        "Cô ấy thường đi bộ đến công ty.",
+        "Tôi thường làm việc trên máy tính xách tay ở văn phòng.",
+        "Sau khi công ty lắp đặt wifi mới, mọi người làm việc nhanh hơn."
+      ]
+    },
+    "breakfast": {
+      "word": "breakfast",
+      "meaning": "bữa sáng",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "examples": [
+        "eat breakfast",
+        "have breakfast",
+        "We eat breakfast together every day.",
+        "She eats breakfast at 7am.",
+        "We had breakfast together."
+      ],
+      "collocations": [
+        "eat breakfast",
+        "have breakfast",
+        "cook breakfast"
+      ],
+      "mastery": 0.35,
+      "encounters": 8,
+      "correctUses": 7,
+      "wrongUses": 1,
+      "recognitionMastery": 0.42,
+      "productionMastery": 0.79,
+      "firstSeen": "2026-08-23T15:26:23.326Z",
+      "lastSeen": "2026-08-24T15:08:03.734Z",
+      "nextReview": "2026-08-26T15:08:03.734Z",
+      "contexts": [
+        "Chúng tôi ăn sáng cùng nhau mỗi ngày.",
+        "Trước khi đi ra ngoài, tôi ăn sáng.",
+        "Cô ấy muốn nấu bữa sáng cho gia đình.",
+        "Sau khi ăn sáng xong, cả gia đình tôi đi ra ngoài."
+      ]
+    },
+    "together": {
+      "word": "together",
+      "meaning": "cùng nhau",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "examples": [
+        "We eat breakfast together every day.",
+        "We work together.",
+        "They study together.",
+        "We are working together.",
+        "They live together."
+      ],
+      "collocations": [
+        "work together",
+        "live together",
+        "study together"
+      ],
+      "mastery": 0.5499999999999999,
+      "encounters": 10,
+      "correctUses": 10,
+      "wrongUses": 0,
+      "recognitionMastery": 0.6000000000000001,
+      "productionMastery": 1,
+      "firstSeen": "2026-08-23T15:26:23.326Z",
+      "lastSeen": "2026-08-25T16:07:18.117Z",
+      "nextReview": "2026-08-29T16:07:18.117Z",
+      "contexts": [
+        "Chúng tôi ăn sáng cùng nhau mỗi ngày.",
+        "Ngay bây giờ, cả gia đình tôi đang chuẩn bị bữa tối cùng nhau.",
+        "Chúng tôi đã làm việc cùng nhau từ năm 2020.",
+        "Tuần trước, chúng tôi đã làm việc cùng nhau để hoàn thành dự án."
+      ]
+    },
+    "clean": {
+      "word": "clean",
+      "meaning": "dọn dẹp",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "examples": [
+        "I need to clean my room.",
+        "I clean the keyboard every day.",
+        "She cleans her desk after work."
+      ],
+      "collocations": [
+        "clean the keyboard",
+        "clean the table",
+        "clean the house"
+      ],
+      "mastery": 0.2,
+      "encounters": 3,
+      "correctUses": 3,
+      "wrongUses": 0,
+      "recognitionMastery": 0.18,
+      "productionMastery": 0.36,
+      "firstSeen": "2026-08-23T15:27:20.288Z",
+      "lastSeen": "2026-08-23T15:41:09.631Z",
+      "nextReview": "2026-08-24T15:41:09.631Z",
+      "contexts": [
+        "Anh có thể giúp tôi dọn dẹp nhà cửa không?",
+        "Sau khi tắt máy tính, tôi luôn lau sạch bàn phím."
+      ]
+    },
+    "market": {
+      "word": "market",
+      "meaning": "chợ",
+      "partOfSpeech": "noun",
+      "level": "B1",
+      "examples": [
+        "I go to the market every morning.",
+        "go to the market",
+        "at the technology market",
+        "a growing market for phones",
+        "a growing market"
+      ],
+      "collocations": [
+        "go to the market",
+        "tech market",
+        "local market",
+        "market for",
+        "technology market",
+        "open market"
+      ],
+      "mastery": 0.25,
+      "encounters": 5,
+      "correctUses": 4,
+      "wrongUses": 1,
+      "recognitionMastery": 0.24,
+      "productionMastery": 0.48,
+      "firstSeen": "2026-08-23T15:28:17.637Z",
+      "lastSeen": "2026-08-23T15:51:59.281Z",
+      "nextReview": "2026-08-24T15:51:59.281Z",
+      "contexts": [
+        "Tôi cần đi chợ mua rau.",
+        "Chúng tôi cần mua một chiếc điện thoại mới ở chợ công nghệ."
+      ]
+    },
+    "vegetables": {
+      "word": "vegetables",
+      "meaning": "rau củ",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "examples": [
+        "I buy fresh vegetables.",
+        "buy vegetables",
+        "I eat vegetables every day.",
+        "She likes fresh vegetables.",
+        "Vegetables are good for you."
+      ],
+      "collocations": [
+        "buy vegetables"
+      ],
+      "mastery": 0.49999999999999994,
+      "encounters": 16,
+      "correctUses": 12,
+      "wrongUses": 4,
+      "recognitionMastery": 0.7200000000000002,
+      "productionMastery": 1,
+      "firstSeen": "2026-08-23T15:28:17.637Z",
+      "lastSeen": "2026-08-27T15:35:39.232Z",
+      "nextReview": "2026-08-29T15:35:39.232Z",
+      "contexts": [
+        "Tôi cần đi chợ mua rau.",
+        "Gia đình tôi ăn rau mỗi ngày.",
+        "Tôi ăn rau mỗi ngày vì nó tốt cho sức khỏe.",
+        "Hiện tại, cô ấy đang nấu rau cho bữa tối.",
+        "Cô ấy luôn ăn rau vào mỗi bữa tối.",
+        "Ngay bây giờ, tôi đang nấu rau cho bữa tối.",
+        "Vào cuối tuần sau, tôi sẽ trồng rau trong vườn.",
+        "Cô ấy nấu rau một cách nhanh chóng để cả nhà có thể ăn tối đúng giờ."
+      ]
+    },
+    "relax": {
+      "word": "relax",
+      "meaning": "thư giãn",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "examples": [
+        "He watches TV to relax.",
+        "I relaxed at home last weekend.",
+        "I read books to relax.",
+        "I like to relax after work.",
+        "I relax after work."
+      ],
+      "collocations": [],
+      "mastery": 0.35,
+      "encounters": 7,
+      "correctUses": 6,
+      "wrongUses": 0,
+      "recognitionMastery": 0.41,
+      "productionMastery": 0.72,
+      "firstSeen": "2026-08-23T15:29:36.627Z",
+      "lastSeen": "2026-08-24T14:57:32.446Z",
+      "nextReview": "2026-08-26T14:57:32.446Z",
+      "contexts": [
+        "Sau khi làm việc, anh ấy xem tivi để thư giãn.",
+        "My weekend",
+        "Tôi thường xem TV lúc 8 giờ tối để thư giãn.",
+        "Chị tôi muốn thư giãn sau giờ làm mỗi buổi tối."
+      ]
+    },
+    "watch tv": {
+      "word": "watch TV",
+      "meaning": "xem tivi",
+      "partOfSpeech": "verb phrase",
+      "level": "A2",
+      "examples": [
+        "I watch TV every evening.",
+        "I want to watch TV after dinner."
+      ],
+      "collocations": [
+        "watch TV",
+        "watch television",
+        "watch a movie"
+      ],
+      "mastery": 0.35,
+      "encounters": 6,
+      "correctUses": 6,
+      "wrongUses": 0,
+      "recognitionMastery": 0.36,
+      "productionMastery": 0.72,
+      "firstSeen": "2026-08-23T15:29:36.627Z",
+      "lastSeen": "2026-08-24T14:55:28.190Z",
+      "nextReview": "2026-08-26T14:55:28.190Z",
+      "contexts": [
+        "Sau khi làm việc, anh ấy xem tivi để thư giãn.",
+        "Tôi thường xem TV lúc 8 giờ tối để thư giãn.",
+        "Sau khi tôi làm xong bài tập, tôi muốn xem TV."
+      ]
+    },
+    "carry": {
+      "word": "carry",
+      "meaning": "mang, vác (theo người)",
+      "partOfSpeech": "verb",
+      "level": "B1",
+      "examples": [
+        "Can you carry this box for me?",
+        "She carried the baby upstairs.",
+        "I carry my laptop to work.",
+        "Can you carry this bag?",
+        "Can you carry this bag for me?"
+      ],
+      "collocations": [
+        "carry a bag",
+        "carry something heavy",
+        "carry a laptop",
+        "carry a power bank"
+      ],
+      "mastery": 0.2,
+      "encounters": 9,
+      "correctUses": 4,
+      "wrongUses": 5,
+      "recognitionMastery": 0.24,
+      "productionMastery": 0.43,
+      "firstSeen": "2026-08-23T15:30:35.495Z",
+      "lastSeen": "2026-08-23T15:58:51.572Z",
+      "nextReview": "2026-08-24T15:58:51.572Z",
+      "contexts": [
+        "Bạn có thể giúp tôi mang túi này không?",
+        "Tôi thường mang laptop đến văn phòng vào buổi sáng.",
+        "Bạn có thể mang theo sạc dự phòng đến văn phòng vào sáng mai không?"
+      ]
+    },
+    "read": {
+      "word": "read",
+      "meaning": "đọc",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "examples": [
+        "I read a book every night."
+      ],
+      "collocations": [
+        "read a book",
+        "read the news"
+      ],
+      "mastery": 0.2,
+      "encounters": 3,
+      "correctUses": 3,
+      "wrongUses": 0,
+      "recognitionMastery": 0.18,
+      "productionMastery": 0.36,
+      "firstSeen": "2026-08-23T15:32:18.405Z",
+      "lastSeen": "2026-08-23T15:33:00.781Z",
+      "nextReview": "2026-08-24T15:33:00.781Z",
+      "contexts": [
+        "Trước khi đi ngủ, tôi thường đọc sách."
+      ]
+    },
+    "sleep": {
+      "word": "sleep",
+      "meaning": "ngủ",
+      "partOfSpeech": "verb/noun",
+      "level": "A2",
+      "examples": [
+        "I will sleep earlier tonight.",
+        "She sleeps 8 hours a day.",
+        "She sleeps eight hours a day.",
+        "She goes to sleep at 10pm."
+      ],
+      "collocations": [
+        "go to sleep",
+        "before sleep (less natural alone)",
+        "before bed",
+        "sleep early",
+        "sleep well",
+        "sleep late",
+        "sleep early/late"
+      ],
+      "mastery": 0.25,
+      "encounters": 6,
+      "correctUses": 5,
+      "wrongUses": 1,
+      "recognitionMastery": 0.3,
+      "productionMastery": 0.55,
+      "firstSeen": "2026-08-23T15:32:18.405Z",
+      "lastSeen": "2026-08-25T16:02:48.443Z",
+      "nextReview": "2026-08-26T16:02:48.443Z",
+      "contexts": [
+        "Trước khi đi ngủ, tôi thường đọc sách.",
+        "Cuối tuần sau, tôi sẽ ngủ sớm hơn để có sức khỏe tốt."
+      ]
+    },
+    "bed": {
+      "word": "bed",
+      "meaning": "giường/đi ngủ",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "examples": [
+        "Before bed, I brush my teeth.",
+        "I make my bed every morning.",
+        "Before I go to bed, I check the door.",
+        "I read a book before bed.",
+        "I went to bed at 10pm."
+      ],
+      "collocations": [
+        "make the bed",
+        "go to bed",
+        "in bed",
+        "get out of bed"
+      ],
+      "mastery": 0.35,
+      "encounters": 11,
+      "correctUses": 8,
+      "wrongUses": 2,
+      "recognitionMastery": 0.53,
+      "productionMastery": 0.86,
+      "firstSeen": "2026-08-23T15:33:00.781Z",
+      "lastSeen": "2026-08-25T16:19:54.546Z",
+      "nextReview": "2026-08-27T16:19:54.546Z",
+      "contexts": [
+        "Trước khi đi ngủ, tôi thường đọc sách.",
+        "Sau khi thức dậy, tôi dọn giường.",
+        "Trước khi đi ngủ, tôi kiểm tra cửa.",
+        "Tối qua tôi đi ngủ rất muộn vì tôi làm việc chăm chỉ.",
+        "Anh ấy đi ngủ lúc 11 giờ tối mỗi ngày.",
+        "Tuần trước, cô ấy đi ngủ muộn vì làm việc chăm chỉ."
+      ]
+    },
+    "weekend": {
+      "word": "weekend",
+      "meaning": "cuối tuần",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "examples": [
+        "I relax at the weekend.",
+        "This weekend, we are preparing for the exam.",
+        "We relax on the weekend.",
+        "This weekend we are studying.",
+        "This weekend, we are preparing for the important exam."
+      ],
+      "collocations": [
+        "this weekend",
+        "on weekends",
+        "on the weekend",
+        "at the weekend"
+      ],
+      "mastery": 0.35,
+      "encounters": 9,
+      "correctUses": 7,
+      "wrongUses": 1,
+      "recognitionMastery": 0.47,
+      "productionMastery": 0.7899999999999999,
+      "firstSeen": "2026-08-23T15:34:07.316Z",
+      "lastSeen": "2026-08-27T14:54:38.775Z",
+      "nextReview": "2026-08-29T14:54:38.775Z",
+      "contexts": [
+        "Cuối tuần, gia đình tôi thường đi dạo trong công viên.",
+        "Vào cuối tuần này, chúng tôi đang chuẩn bị cho kỳ thi quan trọng.",
+        "Vào cuối tuần sau, tôi sẽ trồng rau trong vườn.",
+        "Chúng tôi cần lên một kế hoạch cẩn thận trước khi đưa cả gia đình đến công viên vào cuối tuần."
+      ]
+    },
+    "family": {
+      "word": "family",
+      "meaning": "gia đình",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "examples": [
+        "My family is happy.",
+        "I live with my family.",
+        "my family",
+        "a big family"
+      ],
+      "collocations": [
+        "my family",
+        "family member",
+        "live with my family",
+        "start a family"
+      ],
+      "mastery": 1,
+      "encounters": 21,
+      "correctUses": 20,
+      "wrongUses": 0,
+      "recognitionMastery": 1,
+      "productionMastery": 1,
+      "firstSeen": "2026-08-23T15:34:07.316Z",
+      "lastSeen": "2026-08-27T15:35:39.232Z",
+      "nextReview": "2026-09-26T15:35:39.232Z",
+      "contexts": [
+        "Cuối tuần, gia đình tôi thường đi dạo trong công viên.",
+        "Thành công của cô ấy luôn luôn phụ thuộc vào gia đình cô ấy.",
+        "Gia đình tôi đang đi dạo trong công viên lúc này.",
+        "Tôi đã sống cùng gia đình tôi từ năm 2015.",
+        "Anh ấy đã phụ thuộc vào gia đình anh ấy trong nhiều năm.",
+        "Tuần tới, tôi sẽ đi bộ trong công viên với gia đình tôi.",
+        "Chúng tôi cần lên một kế hoạch cẩn thận trước khi đưa cả gia đình đến công viên vào cuối tuần.",
+        "Cô ấy nấu rau một cách nhanh chóng để cả nhà có thể ăn tối đúng giờ."
+      ]
+    },
+    "park": {
+      "word": "park",
+      "meaning": "công viên",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "examples": [
+        "We meet in the park."
+      ],
+      "collocations": [
+        "walk in the park",
+        "go to the park",
+        "at the park",
+        "in the park"
+      ],
+      "mastery": 0.6,
+      "encounters": 11,
+      "correctUses": 11,
+      "wrongUses": 0,
+      "recognitionMastery": 0.6600000000000001,
+      "productionMastery": 1,
+      "firstSeen": "2026-08-23T15:34:07.316Z",
+      "lastSeen": "2026-08-27T14:54:38.775Z",
+      "nextReview": "2026-08-31T14:54:38.775Z",
+      "contexts": [
+        "Cuối tuần, gia đình tôi thường đi dạo trong công viên.",
+        "Tôi thường đi bộ trong công viên mỗi buổi sáng.",
+        "Gia đình tôi đang đi dạo trong công viên lúc này.",
+        "Hôm qua, tôi đã sạc điện thoại của tôi ở công viên.",
+        "Tuần tới, tôi sẽ đi bộ trong công viên với gia đình tôi.",
+        "Chúng tôi cần lên một kế hoạch cẩn thận trước khi đưa cả gia đình đến công viên vào cuối tuần."
+      ]
+    },
+    "charge": {
+      "word": "charge",
+      "meaning": "sạc (pin)",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "examples": [
+        "Charge your phone every night.",
+        "I need to charge my laptop.",
+        "I am charging my phone.",
+        "Can you charge my laptop?",
+        "I charged my laptop overnight."
+      ],
+      "collocations": [
+        "charge the battery",
+        "charge a device",
+        "charge the phone",
+        "charge a phone",
+        "charge a battery"
+      ],
+      "mastery": 0.39999999999999997,
+      "encounters": 7,
+      "correctUses": 7,
+      "wrongUses": 0,
+      "recognitionMastery": 0.42,
+      "productionMastery": 0.84,
+      "firstSeen": "2026-08-23T15:38:53.571Z",
+      "lastSeen": "2026-08-25T16:40:27.642Z",
+      "nextReview": "2026-08-27T16:40:27.642Z",
+      "contexts": [
+        "Bạn cần phải sạc điện thoại trước khi đi ngủ.",
+        "Tôi đang sạc điện thoại của tôi ngay bây giờ.",
+        "Hôm qua, tôi đã sạc điện thoại của tôi ở công viên.",
+        "Cô ấy sẽ sạc điện thoại trước khi ra ngoài vào ngày mai."
+      ]
+    },
+    "phone": {
+      "word": "phone",
+      "meaning": "điện thoại",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "examples": [
+        "My phone is dead.",
+        "She bought a new phone."
+      ],
+      "collocations": [],
+      "mastery": 0.39999999999999997,
+      "encounters": 7,
+      "correctUses": 7,
+      "wrongUses": 0,
+      "recognitionMastery": 0.42,
+      "productionMastery": 0.84,
+      "firstSeen": "2026-08-23T15:38:53.571Z",
+      "lastSeen": "2026-08-25T16:40:27.642Z",
+      "nextReview": "2026-08-27T16:40:27.642Z",
+      "contexts": [
+        "Bạn cần phải sạc điện thoại trước khi đi ngủ.",
+        "Tôi đang sạc điện thoại của tôi ngay bây giờ.",
+        "Hôm qua, tôi đã sạc điện thoại của tôi ở công viên.",
+        "Cô ấy sẽ sạc điện thoại trước khi ra ngoài vào ngày mai."
+      ]
+    },
+    "fix": {
+      "word": "fix",
+      "meaning": "sửa",
+      "partOfSpeech": "verb",
+      "level": "B1",
+      "examples": [
+        "Can you fix this printer?",
+        "I need to fix my computer.",
+        "I need to fix my bike.",
+        "We need to fix the printer.",
+        "Can you fix my computer?"
+      ],
+      "collocations": [
+        "fix a problem",
+        "fix a machine",
+        "fix the car",
+        "fix the problem"
+      ],
+      "mastery": 0.2,
+      "encounters": 3,
+      "correctUses": 3,
+      "wrongUses": 0,
+      "recognitionMastery": 0.18,
+      "productionMastery": 0.36,
+      "firstSeen": "2026-08-23T15:41:46.121Z",
+      "lastSeen": "2026-08-24T15:05:44.059Z",
+      "nextReview": "2026-08-25T15:05:44.059Z",
+      "contexts": [
+        "Bạn có thể sửa cái máy in này không?",
+        "Tôi cần sửa cái máy in.",
+        "Chúng tôi cần sửa máy in trước 9 giờ sáng."
+      ]
+    },
+    "printer": {
+      "word": "printer",
+      "meaning": "máy in",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "examples": [
+        "The printer is broken."
+      ],
+      "collocations": [
+        "fix the printer",
+        "turn on the printer"
+      ],
+      "mastery": 0.2,
+      "encounters": 3,
+      "correctUses": 3,
+      "wrongUses": 0,
+      "recognitionMastery": 0.18,
+      "productionMastery": 0.36,
+      "firstSeen": "2026-08-23T15:41:46.121Z",
+      "lastSeen": "2026-08-24T15:05:44.059Z",
+      "nextReview": "2026-08-25T15:05:44.059Z",
+      "contexts": [
+        "Bạn có thể sửa cái máy in này không?",
+        "Tôi cần sửa cái máy in.",
+        "Chúng tôi cần sửa máy in trước 9 giờ sáng."
+      ]
+    },
+    "my": {
+      "word": "my",
+      "meaning": "của tôi (sở hữu)",
+      "partOfSpeech": "possessive adjective",
+      "level": "A1",
+      "examples": [
+        "my email",
+        "my phone"
+      ],
+      "collocations": [
+        "my email",
+        "my phone",
+        "check my email"
+      ],
+      "mastery": 0.3,
+      "encounters": 6,
+      "correctUses": 5,
+      "wrongUses": 1,
+      "recognitionMastery": 0.3,
+      "productionMastery": 0.6,
+      "firstSeen": "2026-08-23T15:53:01.017Z",
+      "lastSeen": "2026-08-24T14:57:32.446Z",
+      "nextReview": "2026-08-25T14:57:32.446Z",
+      "contexts": [
+        "Trước khi đi làm, tôi luôn kiểm tra email trên điện thoại.",
+        "Trước khi tôi ra ngoài, tôi cần sạc pin dự phòng của tôi.",
+        "Gia đình tôi ăn rau mỗi ngày.",
+        "Bạn có thể giúp tôi đổi điện thoại cũ của tôi không?",
+        "Chị tôi muốn thư giãn sau giờ làm mỗi buổi tối."
+      ]
+    },
+    "power bank": {
+      "word": "power bank",
+      "meaning": "sạc dự phòng",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "examples": [
+        "I always carry a power bank when I travel.",
+        "I need to charge my power bank."
+      ],
+      "collocations": [],
+      "mastery": 0.25,
+      "encounters": 5,
+      "correctUses": 4,
+      "wrongUses": 0,
+      "recognitionMastery": 0.29,
+      "productionMastery": 0.48,
+      "firstSeen": "2026-08-23T15:57:30.493Z",
+      "lastSeen": "2026-08-24T14:56:36.772Z",
+      "nextReview": "2026-08-25T14:56:36.772Z",
+      "contexts": [
+        "Bạn có thể mang theo sạc dự phòng đến văn phòng vào sáng mai không?",
+        "Bạn có thể đổi cái sạc dự phòng này giúp tôi được không?",
+        "Trước khi tôi ra ngoài, tôi cần sạc pin dự phòng của tôi.",
+        "Tôi cần mua một cái sạc dự phòng mới ở chợ công nghệ."
+      ]
+    },
+    "take a rest": {
+      "word": "take a rest",
+      "meaning": "nghỉ ngơi",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "examples": [
+        "I took a rest on Saturday.",
+        "I want to take a rest after work.",
+        "She needs to take a rest.",
+        "I need to take a rest after a long day."
+      ],
+      "collocations": [
+        "take a short rest",
+        "take a quick rest",
+        "need a rest",
+        "take a rest for a while"
+      ],
+      "mastery": 0.25,
+      "encounters": 6,
+      "correctUses": 4,
+      "wrongUses": 0,
+      "recognitionMastery": 0.34,
+      "productionMastery": 0.48,
+      "firstSeen": "2026-08-23T16:02:15.588Z",
+      "lastSeen": "2026-08-24T14:55:57.077Z",
+      "nextReview": "2026-08-25T14:55:57.077Z",
+      "contexts": [
+        "My weekend",
+        "Sau khi làm việc xong, tôi muốn nghỉ ngơi một chút.",
+        "Trước khi bạn ra ngoài, hãy nghỉ ngơi một chút."
+      ]
+    },
+    "go out": {
+      "word": "go out",
+      "meaning": "đi ra ngoài chơi",
+      "partOfSpeech": "phrasal verb",
+      "level": "A2",
+      "examples": [
+        "We went out for lunch.",
+        "I go out with friends on weekends.",
+        "He wants to go out tonight.",
+        "He wants to go out after eating dinner.",
+        "family goes out"
+      ],
+      "collocations": [
+        "go out with friends",
+        "go out tonight",
+        "goes out",
+        "went out",
+        "go out for a walk",
+        "go out together"
+      ],
+      "mastery": 0.3,
+      "encounters": 8,
+      "correctUses": 6,
+      "wrongUses": 1,
+      "recognitionMastery": 0.41,
+      "productionMastery": 0.67,
+      "firstSeen": "2026-08-23T16:02:15.588Z",
+      "lastSeen": "2026-08-24T15:08:03.734Z",
+      "nextReview": "2026-08-25T15:08:03.734Z",
+      "contexts": [
+        "My weekend",
+        "Trước khi bạn ra ngoài, hãy nghỉ ngơi một chút.",
+        "Trước khi đi ra ngoài, tôi ăn sáng.",
+        "Anh ấy muốn đi ra ngoài sau khi ăn tối.",
+        "Sau khi ăn sáng xong, cả gia đình tôi đi ra ngoài."
+      ]
+    },
+    "size": {
+      "word": "size",
+      "meaning": "kích cỡ",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "examples": [
+        "What size do you wear?",
+        "This shirt is the wrong size.",
+        "This size is too small."
+      ],
+      "collocations": [],
+      "mastery": 0.2,
+      "encounters": 3,
+      "correctUses": 3,
+      "wrongUses": 0,
+      "recognitionMastery": 0.18,
+      "productionMastery": 0.36,
+      "firstSeen": "2026-08-23T16:04:20.290Z",
+      "lastSeen": "2026-08-24T15:04:10.724Z",
+      "nextReview": "2026-08-25T15:04:10.724Z",
+      "contexts": [
+        "Returning an item",
+        "Bạn mặc size nào?"
+      ]
+    },
+    "exchange": {
+      "word": "exchange",
+      "meaning": "đổi hàng",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "examples": [
+        "I'd like to exchange this shirt for a bigger one.",
+        "Can I exchange this shirt for a bigger size?",
+        "Can I exchange this shirt for a different size?",
+        "Can you help me exchange this?",
+        "I want to exchange my ticket."
+      ],
+      "collocations": [],
+      "mastery": 0.2,
+      "encounters": 4,
+      "correctUses": 3,
+      "wrongUses": 0,
+      "recognitionMastery": 0.22999999999999998,
+      "productionMastery": 0.36,
+      "firstSeen": "2026-08-23T16:04:20.290Z",
+      "lastSeen": "2026-08-24T14:53:39.401Z",
+      "nextReview": "2026-08-25T14:53:39.401Z",
+      "contexts": [
+        "Returning an item",
+        "Bạn có thể đổi cái sạc dự phòng này giúp tôi được không?",
+        "Bạn có thể giúp tôi đổi điện thoại cũ của tôi không?"
+      ]
+    },
+    "success": {
+      "word": "success",
+      "meaning": "thành công",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "examples": [
+        "Her success surprised everyone.",
+        "The company's success depends on teamwork.",
+        "Success depends on hard work.",
+        "Her success depends on hard work.",
+        "She achieved great success."
+      ],
+      "collocations": [
+        "achieve success",
+        "success of",
+        "success of/in",
+        "great success",
+        "huge success",
+        "big success"
+      ],
+      "mastery": 0.05,
+      "encounters": 10,
+      "correctUses": 5,
+      "wrongUses": 4,
+      "recognitionMastery": 0.35,
+      "productionMastery": 0.45,
+      "firstSeen": "2026-08-24T16:51:19.250Z",
+      "lastSeen": "2026-08-25T16:35:31.415Z",
+      "nextReview": "2026-08-25T16:35:31.415Z",
+      "contexts": [
+        "Sự thành công của công ty phụ thuộc vào sự chăm chỉ của mọi nhân viên.",
+        "Thành công phụ thuộc vào sự chăm chỉ, vì vậy anh ấy luôn cố gắng mỗi ngày.",
+        "Thành công của cô ấy luôn luôn phụ thuộc vào gia đình cô ấy.",
+        "Cô ấy đã đạt được thành công lớn vào năm ngoái."
+      ]
+    },
+    "depend on": {
+      "word": "depend on",
+      "meaning": "phụ thuộc vào",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "examples": [
+        "Success depends on hard work.",
+        "It depends on the weather.",
+        "She depends on her parents.",
+        "She depends on her parents for money.",
+        "He depends on his parents."
+      ],
+      "collocations": [
+        "depend on",
+        "depends on",
+        "depended on",
+        "depend on someone",
+        "depend on something",
+        "depend on someone/something"
+      ],
+      "mastery": 0.3,
+      "encounters": 8,
+      "correctUses": 5,
+      "wrongUses": 2,
+      "recognitionMastery": 0.35,
+      "productionMastery": 0.6,
+      "firstSeen": "2026-08-24T16:51:19.250Z",
+      "lastSeen": "2026-08-25T16:38:20.162Z",
+      "nextReview": "2026-08-26T16:38:20.162Z",
+      "contexts": [
+        "Sự thành công của công ty phụ thuộc vào sự chăm chỉ của mọi nhân viên.",
+        "Thành công phụ thuộc vào sự chăm chỉ, vì vậy anh ấy luôn cố gắng mỗi ngày.",
+        "Thành công của cô ấy luôn luôn phụ thuộc vào gia đình cô ấy.",
+        "Anh ấy đã phụ thuộc vào gia đình anh ấy trong nhiều năm."
+      ]
+    },
+    "hard work": {
+      "word": "hard work",
+      "meaning": "sự chăm chỉ",
+      "partOfSpeech": "noun phrase",
+      "level": "A2",
+      "examples": [
+        "Hard work leads to good results.",
+        "I worked hard yesterday.",
+        "I worked hard.",
+        "She works hard every day."
+      ],
+      "collocations": [
+        "hard work of",
+        "through hard work",
+        "work hard",
+        "hard-working"
+      ],
+      "mastery": 0.25,
+      "encounters": 6,
+      "correctUses": 4,
+      "wrongUses": 2,
+      "recognitionMastery": 0.24,
+      "productionMastery": 0.48,
+      "firstSeen": "2026-08-24T16:52:19.429Z",
+      "lastSeen": "2026-08-25T16:09:38.405Z",
+      "nextReview": "2026-08-26T16:09:38.405Z",
+      "contexts": [
+        "Sự thành công của công ty phụ thuộc vào sự chăm chỉ của mọi nhân viên.",
+        "Tối qua tôi đi ngủ rất muộn vì tôi làm việc chăm chỉ.",
+        "Thành công phụ thuộc vào sự chăm chỉ, vì vậy anh ấy luôn cố gắng mỗi ngày.",
+        "Năm sau, công ty sẽ thành công nếu mọi người làm việc chăm chỉ."
+      ]
+    },
+    "know": {
+      "word": "know",
+      "meaning": "biết, quen biết",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "examples": [
+        "I have known him for years.",
+        "I have known her since 2015."
+      ],
+      "collocations": [
+        "know someone for + time",
+        "know someone since",
+        "know someone",
+        "known for"
+      ],
+      "mastery": 0.2,
+      "encounters": 3,
+      "correctUses": 3,
+      "wrongUses": 0,
+      "recognitionMastery": 0.18,
+      "productionMastery": 0.36,
+      "firstSeen": "2026-08-25T16:08:05.731Z",
+      "lastSeen": "2026-08-25T16:21:24.982Z",
+      "nextReview": "2026-08-26T16:21:24.982Z",
+      "contexts": [
+        "Tôi đã biết cô ấy được năm năm rồi.",
+        "Tôi đã biết anh ấy từ năm 2020."
+      ]
+    },
+    "succeed": {
+      "word": "succeed",
+      "meaning": "thành công",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "examples": [
+        "She will succeed if she tries hard.",
+        "The company succeeded last year.",
+        "The company will succeed if everyone works hard.",
+        "He succeeded in the exam.",
+        "She succeeded in her career."
+      ],
+      "collocations": [
+        "succeed in doing something",
+        "succeed in + noun/gerund"
+      ],
+      "mastery": 0.25,
+      "encounters": 10,
+      "correctUses": 6,
+      "wrongUses": 4,
+      "recognitionMastery": 0.36,
+      "productionMastery": 0.6,
+      "firstSeen": "2026-08-25T16:09:38.405Z",
+      "lastSeen": "2026-08-25T16:25:39.640Z",
+      "nextReview": "2026-08-26T16:25:39.640Z",
+      "contexts": [
+        "Năm sau, công ty sẽ thành công nếu mọi người làm việc chăm chỉ.",
+        "Hôm qua, anh ấy đã thành công trong kỳ thi khó.",
+        "Năm sau, anh ấy sẽ thành công nếu anh ấy tiếp tục làm việc chăm chỉ."
+      ]
+    },
+    "hard": {
+      "word": "hard",
+      "meaning": "chăm chỉ",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "examples": [
+        "a hard exam",
+        "a hard question",
+        "She works hard.",
+        "He studies hard for exams.",
+        "She studies hard."
+      ],
+      "collocations": [
+        "work hard",
+        "hard exam",
+        "hard question",
+        "study hard",
+        "try hard"
+      ],
+      "mastery": 0.65,
+      "encounters": 14,
+      "correctUses": 13,
+      "wrongUses": 1,
+      "recognitionMastery": 0.7800000000000002,
+      "productionMastery": 1,
+      "firstSeen": "2026-08-25T16:10:14.341Z",
+      "lastSeen": "2026-08-25T16:25:39.640Z",
+      "nextReview": "2026-08-29T16:25:39.640Z",
+      "contexts": [
+        "Năm sau, công ty sẽ thành công nếu mọi người làm việc chăm chỉ.",
+        "Hôm qua, anh ấy đã thành công trong kỳ thi khó.",
+        "Tuần trước, cô ấy đi ngủ muộn vì làm việc chăm chỉ.",
+        "Cô ấy đã làm việc chăm chỉ được ba năm rồi.",
+        "Năm sau, anh ấy sẽ thành công nếu anh ấy tiếp tục làm việc chăm chỉ."
+      ]
+    },
+    "menu": {
+      "word": "menu",
+      "meaning": "danh sách món ăn",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0,
+      "encounters": 1,
+      "correctUses": 0,
+      "wrongUses": 0,
+      "recognitionMastery": 0.05,
+      "productionMastery": 0,
+      "firstSeen": "2026-08-25T16:42:58.181Z",
+      "lastSeen": "2026-08-25T16:42:58.181Z",
+      "nextReview": "2026-08-25T16:42:58.181Z",
+      "contexts": [
+        "Ordering at a restaurant"
+      ]
+    },
+    "dish": {
+      "word": "dish",
+      "meaning": "món ăn",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0,
+      "encounters": 1,
+      "correctUses": 0,
+      "wrongUses": 0,
+      "recognitionMastery": 0.05,
+      "productionMastery": 0,
+      "firstSeen": "2026-08-25T16:42:58.181Z",
+      "lastSeen": "2026-08-25T16:42:58.181Z",
+      "nextReview": "2026-08-25T16:42:58.181Z",
+      "contexts": [
+        "Ordering at a restaurant"
+      ]
+    },
+    "drink": {
+      "word": "drink",
+      "meaning": "đồ uống",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0.15000000000000002,
+      "encounters": 2,
+      "correctUses": 2,
+      "wrongUses": 0,
+      "recognitionMastery": 0.12,
+      "productionMastery": 0.24,
+      "firstSeen": "2026-08-25T16:44:32.576Z",
+      "lastSeen": "2026-08-25T16:45:40.662Z",
+      "nextReview": "2026-08-25T16:45:40.662Z",
+      "contexts": [
+        "Ordering at a restaurant"
+      ]
+    },
+    "order": {
+      "word": "order",
+      "meaning": "gọi món",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0.1,
+      "encounters": 2,
+      "correctUses": 1,
+      "wrongUses": 0,
+      "recognitionMastery": 0.11,
+      "productionMastery": 0.12,
+      "firstSeen": "2026-08-25T16:44:32.576Z",
+      "lastSeen": "2026-08-25T16:45:40.662Z",
+      "nextReview": "2026-08-25T16:45:40.662Z",
+      "contexts": [
+        "Ordering at a restaurant"
+      ]
+    },
+    "careful": {
+      "word": "careful",
+      "meaning": "cẩn thận",
+      "partOfSpeech": "adjective",
+      "level": "A2",
+      "examples": [
+        "a careful plan",
+        "a careful driver"
+      ],
+      "collocations": [
+        "careful plan",
+        "careful decision"
+      ],
+      "mastery": 0.1,
+      "encounters": 2,
+      "correctUses": 1,
+      "wrongUses": 1,
+      "recognitionMastery": 0.06,
+      "productionMastery": 0.12,
+      "firstSeen": "2026-08-27T14:48:37.835Z",
+      "lastSeen": "2026-08-27T14:53:12.590Z",
+      "nextReview": "2026-08-27T14:53:12.590Z",
+      "contexts": [
+        "Chúng tôi cần lên một kế hoạch cẩn thận trước khi đưa cả gia đình đến công viên vào cuối tuần."
+      ]
+    },
+    "quickly": {
+      "word": "quickly",
+      "meaning": "một cách nhanh chóng",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "examples": [
+        "She finished her homework quickly."
+      ],
+      "collocations": [
+        "work quickly",
+        "respond quickly"
+      ],
+      "mastery": 0.1,
+      "encounters": 1,
+      "correctUses": 1,
+      "wrongUses": 0,
+      "recognitionMastery": 0.06,
+      "productionMastery": 0.12,
+      "firstSeen": "2026-08-27T15:16:26.460Z",
+      "lastSeen": "2026-08-27T15:16:26.460Z",
+      "nextReview": "2026-08-27T15:16:26.460Z",
+      "contexts": [
+        "Cô ấy nấu rau một cách nhanh chóng để cả nhà có thể ăn tối đúng giờ."
+      ]
+    }
+  },
+  "patterns": {
+    "can_you_verb": {
+      "id": "can_you_verb",
+      "pattern": "Can you + verb?",
+      "meaning": "Bạn có thể ... không?",
+      "usage": "",
+      "examples": [],
+      "mastery": 0.65,
+      "correctUses": 15,
+      "incorrectUses": 3,
+      "commonErrors": [],
+      "firstSeen": "2026-08-23T15:04:24.333Z",
+      "lastSeen": "2026-08-25T16:45:40.662Z",
+      "nextReview": "2026-08-29T16:45:40.662Z"
+    },
+    "time_expression": {
+      "id": "time_expression",
+      "pattern": "Next year, ...",
+      "meaning": "chỉ thời điểm cụ thể",
+      "usage": "",
+      "examples": [],
+      "mastery": 1,
+      "correctUses": 34,
+      "incorrectUses": 10,
+      "commonErrors": [],
+      "firstSeen": "2026-08-23T15:11:23.517Z",
+      "lastSeen": "2026-08-25T16:10:14.341Z",
+      "nextReview": "2026-09-24T16:10:14.341Z"
+    },
+    "adverb_frequency_position": {
+      "id": "adverb_frequency_position",
+      "pattern": "subject + always + verb",
+      "meaning": "vị trí trạng từ tần suất trước động từ thường",
+      "usage": "",
+      "examples": [],
+      "mastery": 0.6,
+      "correctUses": 12,
+      "incorrectUses": 1,
+      "commonErrors": [],
+      "firstSeen": "2026-08-23T15:24:55.319Z",
+      "lastSeen": "2026-08-23T15:53:31.545Z",
+      "nextReview": "2026-08-27T15:53:31.545Z"
+    },
+    "need_to_verb": {
+      "id": "need_to_verb",
+      "pattern": "need to + verb",
+      "meaning": "cần làm gì",
+      "usage": "",
+      "examples": [],
+      "mastery": 0.35,
+      "correctUses": 10,
+      "incorrectUses": 5,
+      "commonErrors": [],
+      "firstSeen": "2026-08-23T15:28:17.637Z",
+      "lastSeen": "2026-08-27T14:54:38.775Z",
+      "nextReview": "2026-08-29T14:54:38.775Z"
+    },
+    "after_clause": {
+      "id": "after_clause",
+      "pattern": "After + -ing / After + subject + verb",
+      "meaning": "sau khi làm gì",
+      "usage": "",
+      "examples": [],
+      "mastery": 0.5499999999999999,
+      "correctUses": 16,
+      "incorrectUses": 6,
+      "commonErrors": [],
+      "firstSeen": "2026-08-23T15:29:36.627Z",
+      "lastSeen": "2026-08-24T15:08:03.734Z",
+      "nextReview": "2026-08-28T15:08:03.734Z"
+    },
+    "before_clause": {
+      "id": "before_clause",
+      "pattern": "before + clause/gerund",
+      "meaning": "trước khi",
+      "usage": "",
+      "examples": [],
+      "mastery": 0.6,
+      "correctUses": 13,
+      "incorrectUses": 2,
+      "commonErrors": [],
+      "firstSeen": "2026-08-23T15:32:18.405Z",
+      "lastSeen": "2026-08-27T14:54:38.775Z",
+      "nextReview": "2026-08-31T14:54:38.775Z"
+    },
+    "want_to": {
+      "id": "want_to",
+      "pattern": "want to + verb",
+      "meaning": "expressing desire",
+      "usage": "",
+      "examples": [],
+      "mastery": 0.5499999999999999,
+      "correctUses": 11,
+      "incorrectUses": 1,
+      "commonErrors": [],
+      "firstSeen": "2026-08-23T16:04:20.290Z",
+      "lastSeen": "2026-08-24T15:06:29.657Z",
+      "nextReview": "2026-08-28T15:06:29.657Z"
+    },
+    "question_form": {
+      "id": "question_form",
+      "pattern": "What + [noun] + do + subject + verb?",
+      "meaning": "Cấu trúc câu hỏi với 'do'",
+      "usage": "",
+      "examples": [],
+      "mastery": 0.1,
+      "correctUses": 1,
+      "incorrectUses": 1,
+      "commonErrors": [],
+      "firstSeen": "2026-08-24T15:03:50.480Z",
+      "lastSeen": "2026-08-24T15:04:10.724Z",
+      "nextReview": "2026-08-24T15:04:10.724Z"
+    },
+    "word_form_noun": {
+      "id": "word_form_noun",
+      "pattern": "art/adj + NOUN",
+      "meaning": "using correct noun form",
+      "usage": "",
+      "examples": [
+        "The decision was final."
+      ],
+      "mastery": 0.05,
+      "correctUses": 2,
+      "incorrectUses": 2,
+      "commonErrors": [],
+      "firstSeen": "2026-08-24T16:51:19.250Z",
+      "lastSeen": "2026-08-24T16:52:38.357Z",
+      "nextReview": "2026-08-24T16:52:38.357Z"
+    },
+    "present_simple": {
+      "id": "present_simple",
+      "pattern": "S + V(s)",
+      "meaning": "hiện tại đơn",
+      "usage": "",
+      "examples": [
+        "He works every day."
+      ],
+      "mastery": 0.44999999999999996,
+      "correctUses": 9,
+      "incorrectUses": 2,
+      "commonErrors": [],
+      "firstSeen": "2026-08-25T15:51:39.395Z",
+      "lastSeen": "2026-08-25T16:31:46.883Z",
+      "nextReview": "2026-08-27T16:31:46.883Z"
+    },
+    "present_continuous": {
+      "id": "present_continuous",
+      "pattern": "S + am/is/are + V-ing",
+      "meaning": "đang xảy ra",
+      "usage": "",
+      "examples": [
+        "She is working now."
+      ],
+      "mastery": 0.6,
+      "correctUses": 13,
+      "incorrectUses": 3,
+      "commonErrors": [],
+      "firstSeen": "2026-08-25T15:53:05.760Z",
+      "lastSeen": "2026-08-25T16:33:11.519Z",
+      "nextReview": "2026-08-29T16:33:11.519Z"
+    },
+    "past_simple": {
+      "id": "past_simple",
+      "pattern": "S + V2",
+      "meaning": "hành động đã xảy ra trong quá khứ",
+      "usage": "",
+      "examples": [
+        "I went home."
+      ],
+      "mastery": 0.39999999999999997,
+      "correctUses": 8,
+      "incorrectUses": 2,
+      "commonErrors": [],
+      "firstSeen": "2026-08-25T15:55:40.113Z",
+      "lastSeen": "2026-08-25T16:35:31.415Z",
+      "nextReview": "2026-08-27T16:35:31.415Z"
+    },
+    "present_perfect_duration": {
+      "id": "present_perfect_duration",
+      "pattern": "have/has + V3 + for/since",
+      "meaning": "diễn tả hành động bắt đầu trong quá khứ và tiếp tục đến hiện tại",
+      "usage": "",
+      "examples": [
+        "I have worked here for 5 years."
+      ],
+      "mastery": 0.44999999999999996,
+      "correctUses": 12,
+      "incorrectUses": 6,
+      "commonErrors": [],
+      "firstSeen": "2026-08-25T15:57:12.360Z",
+      "lastSeen": "2026-08-25T16:38:20.162Z",
+      "nextReview": "2026-08-27T16:38:20.162Z"
+    },
+    "future_will": {
+      "id": "future_will",
+      "pattern": "S + will + V",
+      "meaning": "future intention/plan",
+      "usage": "",
+      "examples": [
+        "I will call you."
+      ],
+      "mastery": 1,
+      "correctUses": 20,
+      "incorrectUses": 1,
+      "commonErrors": [],
+      "firstSeen": "2026-08-25T16:01:02.792Z",
+      "lastSeen": "2026-08-25T16:40:27.642Z",
+      "nextReview": "2026-09-24T16:40:27.642Z"
+    },
+    "S + V(s)": {
+      "id": "S + V(s)",
+      "pattern": "S + V(s)",
+      "meaning": "Chủ ngữ số ít + động từ thêm s/es (hiện tại đơn)",
+      "usage": "",
+      "examples": [],
+      "mastery": 0.1,
+      "correctUses": 3,
+      "incorrectUses": 2,
+      "commonErrors": [],
+      "firstSeen": "2026-08-25T16:12:25.257Z",
+      "lastSeen": "2026-08-25T16:31:46.882Z",
+      "nextReview": "2026-08-25T16:31:46.882Z"
+    },
+    "S + am/is/are + V-ing": {
+      "id": "S + am/is/are + V-ing",
+      "pattern": "S + am/is/are + V-ing",
+      "meaning": "thì hiện tại tiếp diễn",
+      "usage": "",
+      "examples": [],
+      "mastery": 0.15000000000000002,
+      "correctUses": 2,
+      "incorrectUses": 0,
+      "commonErrors": [],
+      "firstSeen": "2026-08-25T16:13:50.708Z",
+      "lastSeen": "2026-08-25T16:32:20.784Z",
+      "nextReview": "2026-08-25T16:32:20.784Z"
+    },
+    "S + V2": {
+      "id": "S + V2",
+      "pattern": "S + V2 (past simple)",
+      "meaning": "Chủ ngữ + động từ quá khứ đơn",
+      "usage": "",
+      "examples": [],
+      "mastery": 0.3,
+      "correctUses": 6,
+      "incorrectUses": 4,
+      "commonErrors": [],
+      "firstSeen": "2026-08-25T16:17:25.580Z",
+      "lastSeen": "2026-08-25T16:35:31.415Z",
+      "nextReview": "2026-08-26T16:35:31.415Z"
+    },
+    "have/has + V3 + for": {
+      "id": "have/has + V3 + for",
+      "pattern": "have/has + V3 + for",
+      "meaning": "diễn tả hành động bắt đầu trong quá khứ và kéo dài đến hiện tại",
+      "usage": "",
+      "examples": [],
+      "mastery": 0,
+      "correctUses": 0,
+      "incorrectUses": 1,
+      "commonErrors": [],
+      "firstSeen": "2026-08-25T16:22:00.948Z",
+      "lastSeen": "2026-08-25T16:22:00.948Z",
+      "nextReview": "2026-08-25T16:22:00.948Z"
+    },
+    "word_form_adj": {
+      "id": "word_form_adj",
+      "pattern": "ADJECTIVE + noun",
+      "meaning": "describing a noun with an adjective, not an adverb",
+      "usage": "",
+      "examples": [
+        "a successful project"
+      ],
+      "mastery": 0.25,
+      "correctUses": 4,
+      "incorrectUses": 1,
+      "commonErrors": [],
+      "firstSeen": "2026-08-27T14:48:37.835Z",
+      "lastSeen": "2026-08-27T14:54:38.776Z",
+      "nextReview": "2026-08-28T14:54:38.776Z"
+    },
+    "word_form_adv": {
+      "id": "word_form_adv",
+      "pattern": "verb + ADVERB",
+      "meaning": "adjective to adverb",
+      "usage": "",
+      "examples": [
+        "She works carefully."
+      ],
+      "mastery": 0.35,
+      "correctUses": 6,
+      "incorrectUses": 2,
+      "commonErrors": [],
+      "firstSeen": "2026-08-27T14:57:17.593Z",
+      "lastSeen": "2026-08-27T15:35:39.233Z",
+      "nextReview": "2026-08-29T15:35:39.233Z"
+    }
+  },
+  "mistakes": {
+    "spelling:6 a.m.": {
+      "id": "mistake_mt5y362l5dx7dx",
+      "type": "spelling",
+      "patternId": "c4",
+      "original": "6. am",
+      "correction": "6 a.m.",
+      "explanation": "Khi viết giờ với 'a.m.', không đặt dấu chấm ngay sau số. Viết là '6 a.m.' hoặc '6:00 am'.",
+      "count": 2,
+      "mastery": 0.15000000000000002,
+      "firstSeen": "2026-08-23T15:11:23.517Z",
+      "lastSeen": "2026-08-23T15:11:53.911Z"
+    },
+    "grammar:can you help me cook dinner tonight?": {
+      "id": "mistake_mt5y4o4t60im9p",
+      "type": "grammar",
+      "original": "Can you help me cook dinner?",
+      "correction": "Can you help me cook dinner tonight?",
+      "explanation": "Câu thiếu trạng từ chỉ thời gian 'tonight' để dịch đúng nghĩa 'tối nay'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:12:33.581Z",
+      "lastSeen": "2026-08-23T15:12:33.581Z"
+    },
+    "spelling:usually": {
+      "id": "mistake_mt5y6ckfa8lsua",
+      "type": "spelling",
+      "original": "ussually",
+      "correction": "usually",
+      "explanation": "Chỉ có một chữ 's' sau 'u': u-s-u-a-l-l-y.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:13:51.903Z",
+      "lastSeen": "2026-08-23T15:13:51.903Z"
+    },
+    "article:to work / to the office": {
+      "id": "mistake_mt5ykkgowxq5l7",
+      "type": "article",
+      "original": "to company",
+      "correction": "to work / to the office",
+      "explanation": "'company' là danh từ đếm được, cần 'the company' hoặc dùng 'work'/'office' để chỉ nơi làm việc.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:24:55.319Z",
+      "lastSeen": "2026-08-23T15:24:55.319Z"
+    },
+    "article:to the office": {
+      "id": "mistake_mt5yl5vsabanxn",
+      "type": "article",
+      "patternId": "c4",
+      "original": "to office",
+      "correction": "to the office",
+      "explanation": "'Office' là danh từ đếm được số ít, cần có mạo từ 'the' hoặc dùng 'work' (không cần mạo từ).",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:25:23.080Z",
+      "lastSeen": "2026-08-23T15:25:23.080Z"
+    },
+    "spelling:every day": {
+      "id": "mistake_mt5ymgdbx2pfzq",
+      "type": "spelling",
+      "patternId": "time_expression",
+      "original": "everyday",
+      "correction": "every day",
+      "explanation": "'Everyday' (1 từ) là tính từ nghĩa 'thường ngày, bình thường' (vd: everyday life). 'Every day' (2 từ) là trạng từ chỉ tần suất, nghĩa 'mỗi ngày'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:26:23.326Z",
+      "lastSeen": "2026-08-23T15:26:23.326Z"
+    },
+    "spelling:every day.": {
+      "id": "mistake_mt5ymxtvba14n8",
+      "type": "spelling",
+      "original": "every day",
+      "correction": "every day.",
+      "explanation": "Nhớ thêm dấu chấm kết thúc câu.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:26:45.954Z",
+      "lastSeen": "2026-08-23T15:26:45.954Z"
+    },
+    "grammar:need to go": {
+      "id": "mistake_mt5yowklf4u9xt",
+      "type": "grammar",
+      "patternId": "need_to_verb",
+      "original": "need go",
+      "correction": "need to go",
+      "explanation": "'need' phải đi với 'to' + động từ nguyên mẫu: need to + V",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:28:17.637Z",
+      "lastSeen": "2026-08-23T15:28:17.637Z"
+    },
+    "article:the market": {
+      "id": "mistake_mt5yowkl344k14",
+      "type": "article",
+      "original": "market",
+      "correction": "the market",
+      "explanation": "Danh từ 'market' chỉ nơi cụ thể cần mạo từ 'the'",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:28:17.637Z",
+      "lastSeen": "2026-08-23T15:28:17.637Z"
+    },
+    "grammar:vegetables": {
+      "id": "mistake_mt5yowklbti2y9",
+      "type": "grammar",
+      "original": "vegetable",
+      "correction": "vegetables",
+      "explanation": "Danh từ đếm được số nhiều cần thêm 's'",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:28:17.637Z",
+      "lastSeen": "2026-08-23T15:28:17.637Z"
+    },
+    "spelling:after work, he watches": {
+      "id": "mistake_mt5yqlircqmmxj",
+      "type": "spelling",
+      "original": "After work, He watches",
+      "correction": "After work, he watches",
+      "explanation": "Chỉ viết hoa chữ cái đầu câu, không viết hoa 'he' giữa câu.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:29:36.627Z",
+      "lastSeen": "2026-08-23T15:29:36.627Z"
+    },
+    "vocabulary:carry": {
+      "id": "mistake_mt5yruxzssia4u",
+      "type": "vocabulary",
+      "original": "bring",
+      "correction": "carry",
+      "explanation": "'Bring' nghĩa là mang đến một nơi khác, còn 'carry' nghĩa là mang/vác theo người - phù hợp hơn khi nói về túi xách.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:30:35.495Z",
+      "lastSeen": "2026-08-23T15:30:35.495Z"
+    },
+    "article:this bag": {
+      "id": "mistake_mt5yruxznqszjc",
+      "type": "article",
+      "original": "the bag",
+      "correction": "this bag",
+      "explanation": "'Túi này' chỉ một túi cụ thể đang được nhắc tới, nên dùng 'this' thay vì 'the'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:30:35.495Z",
+      "lastSeen": "2026-08-23T15:30:35.495Z"
+    },
+    "article:a book": {
+      "id": "mistake_mt5yu2clxjpyk4",
+      "type": "article",
+      "original": "the book",
+      "correction": "a book",
+      "explanation": "Dùng 'a book' vì đây là thói quen chung, không nói đến một cuốn sách cụ thể.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:32:18.405Z",
+      "lastSeen": "2026-08-23T15:32:18.405Z"
+    },
+    "naturalness:before going to bed / before i go to sleep": {
+      "id": "mistake_mt5yu2clim71g2",
+      "type": "naturalness",
+      "patternId": "before_clause",
+      "original": "Before sleep",
+      "correction": "Before going to bed / Before I go to sleep",
+      "explanation": "'Before sleep' nghe không tự nhiên; người bản ngữ thường nói 'before bed' hoặc dùng mệnh đề đầy đủ.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:32:18.405Z",
+      "lastSeen": "2026-08-23T15:32:18.405Z"
+    },
+    "naturalness:before bed / before going to bed": {
+      "id": "mistake_mt5yulr3h81ie1",
+      "type": "naturalness",
+      "patternId": "before_clause",
+      "original": "Before sleep",
+      "correction": "Before bed / Before going to bed",
+      "explanation": "'Sleep' thường dùng như động từ (go to sleep) hoặc trong cụm cố định; 'bed' tự nhiên hơn khi làm danh từ sau 'before'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:32:43.551Z",
+      "lastSeen": "2026-08-23T15:32:43.551Z"
+    },
+    "spelling:my family": {
+      "id": "mistake_mt5ywedwrf6hon",
+      "type": "spelling",
+      "original": "My family",
+      "correction": "my family",
+      "explanation": "Không viết hoa chữ giữa câu trừ khi là danh từ riêng",
+      "count": 2,
+      "mastery": 0.15000000000000002,
+      "firstSeen": "2026-08-23T15:34:07.316Z",
+      "lastSeen": "2026-08-23T15:34:32.201Z"
+    },
+    "grammar:walks": {
+      "id": "mistake_mt5ywedw3mrix8",
+      "type": "grammar",
+      "patternId": "c4",
+      "original": "walk",
+      "correction": "walks",
+      "explanation": "Chủ ngữ số ít (family) cần động từ thêm 's' ở thì hiện tại đơn",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:34:07.316Z",
+      "lastSeen": "2026-08-23T15:34:07.316Z"
+    },
+    "grammar:i usually carry my laptop to the office in the morning.": {
+      "id": "mistake_mt5yzlxplu3x9w",
+      "type": "grammar",
+      "original": "I usually bring laptop go to the office in the morning",
+      "correction": "I usually carry my laptop to the office in the morning.",
+      "explanation": "Compare your sentence with the corrected version.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:36:37.069Z",
+      "lastSeen": "2026-08-23T15:36:37.069Z"
+    },
+    "word_order:carry my laptop": {
+      "id": "mistake_mt5z0f7k59hr4t",
+      "type": "word_order",
+      "patternId": "c3",
+      "original": "bring laptop go",
+      "correction": "carry my laptop",
+      "explanation": "Không cần 'go' vì 'carry...to' đã diễn tả di chuyển đến nơi.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:37:15.008Z",
+      "lastSeen": "2026-08-23T15:37:15.008Z"
+    },
+    "article:my laptop / the laptop": {
+      "id": "mistake_mt5z0f7ktgojvd",
+      "type": "article",
+      "patternId": "c3",
+      "original": "laptop",
+      "correction": "my laptop / the laptop",
+      "explanation": "Danh từ đếm được số ít cần mạo từ hoặc từ sở hữu.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:37:15.008Z",
+      "lastSeen": "2026-08-23T15:37:15.008Z"
+    },
+    "grammar:need to charge": {
+      "id": "mistake_mt5z2j9fxh0q84",
+      "type": "grammar",
+      "patternId": "need_to_verb",
+      "original": "should charge",
+      "correction": "need to charge",
+      "explanation": "Bài yêu cầu cấu trúc 'need to + verb' để diễn tả sự cần thiết, không dùng 'should'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:38:53.571Z",
+      "lastSeen": "2026-08-23T15:38:53.571Z"
+    },
+    "grammar:before going to bed / before you go to bed": {
+      "id": "mistake_mt5z2j9foh5ztl",
+      "type": "grammar",
+      "patternId": "before_clause",
+      "original": "before go to bed",
+      "correction": "before going to bed / before you go to bed",
+      "explanation": "Sau 'before' cần V-ing hoặc chủ ngữ + động từ chia, không dùng động từ nguyên mẫu.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:38:53.571Z",
+      "lastSeen": "2026-08-23T15:38:53.571Z"
+    },
+    "grammar:after i turn off the computer / after turning off the computer": {
+      "id": "mistake_mt5z4o79klol3j",
+      "type": "grammar",
+      "patternId": "after_clause",
+      "original": "After turn off the computer",
+      "correction": "After I turn off the computer / After turning off the computer",
+      "explanation": "Sau 'after', bạn cần chủ ngữ + động từ chia, hoặc dùng động từ dạng V-ing (gerund).",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:40:33.285Z",
+      "lastSeen": "2026-08-23T15:40:33.285Z"
+    },
+    "article:new computers": {
+      "id": "mistake_mt5z7f7suxpl5l",
+      "type": "article",
+      "original": "the new computer",
+      "correction": "new computers",
+      "explanation": "No article needed here, and since it's for multiple employees, use plural 'computers'.",
+      "count": 2,
+      "mastery": 0.15000000000000002,
+      "firstSeen": "2026-08-23T15:42:41.608Z",
+      "lastSeen": "2026-08-23T15:43:39.784Z"
+    },
+    "vocabulary:per employee / for each employee": {
+      "id": "mistake_mt5z7f7sti1sq1",
+      "type": "vocabulary",
+      "original": "per staff",
+      "correction": "per employee / for each employee",
+      "explanation": "'Staff' refers to a group as a whole, not individuals, so it doesn't fit with 'per' or 'each'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:42:41.608Z",
+      "lastSeen": "2026-08-23T15:42:41.608Z"
+    },
+    "spelling:employee.": {
+      "id": "mistake_mt5z91t9zkaxrw",
+      "type": "spelling",
+      "original": "employee",
+      "correction": "employee.",
+      "explanation": "Thiếu dấu chấm cuối câu.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:43:57.549Z",
+      "lastSeen": "2026-08-23T15:43:57.549Z"
+    },
+    "spelling:technology": {
+      "id": "mistake_mt5zisy6iyddrf",
+      "type": "spelling",
+      "patternId": "c4",
+      "original": "technologi",
+      "correction": "technology",
+      "explanation": "Correct spelling ends in '-gy', not '-gi'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:51:32.622Z",
+      "lastSeen": "2026-08-23T15:51:32.622Z"
+    },
+    "article:at the technology market": {
+      "id": "mistake_mt5zisy6na8ldg",
+      "type": "article",
+      "patternId": "c4",
+      "original": "at technologi market",
+      "correction": "at the technology market",
+      "explanation": "Use 'the' before a specific place like 'the technology market'.",
+      "count": 2,
+      "mastery": 0.15000000000000002,
+      "firstSeen": "2026-08-23T15:51:32.622Z",
+      "lastSeen": "2026-08-23T15:51:47.500Z"
+    },
+    "article:my email on my phone": {
+      "id": "mistake_mt5zkp5mt02fwz",
+      "type": "article",
+      "patternId": "c4",
+      "original": "the email on the phone",
+      "correction": "my email on my phone",
+      "explanation": "Khi nói về email/điện thoại cá nhân của mình, dùng tính từ sở hữu 'my' thay vì mạo từ 'the'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:53:01.017Z",
+      "lastSeen": "2026-08-23T15:53:01.017Z"
+    },
+    "naturalness:before going to work": {
+      "id": "mistake_mt5zkp5m6n7kwn",
+      "type": "naturalness",
+      "patternId": "c1",
+      "original": "Before working",
+      "correction": "Before going to work",
+      "explanation": "'Đi làm' mang nghĩa cụ thể là 'go to work', không chỉ đơn thuần là 'làm việc'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:53:01.017Z",
+      "lastSeen": "2026-08-23T15:53:01.017Z"
+    },
+    "naturalness:on my phone": {
+      "id": "mistake_mt5zlcpl2bm4j2",
+      "type": "naturalness",
+      "patternId": "c4",
+      "original": "on the phone",
+      "correction": "on my phone",
+      "explanation": "Dùng tính từ sở hữu 'my' để rõ nghĩa là điện thoại của bạn, tránh nhầm với nghĩa 'đang gọi điện'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:53:31.545Z",
+      "lastSeen": "2026-08-23T15:53:31.545Z"
+    },
+    "vocabulary:company": {
+      "id": "mistake_mt5zmirgz3m3ca",
+      "type": "vocabulary",
+      "patternId": "c1",
+      "original": "computer",
+      "correction": "company",
+      "explanation": "The sentence is about a business (công ty), not a machine (máy tính).",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:54:26.044Z",
+      "lastSeen": "2026-08-23T15:54:26.044Z"
+    },
+    "tense:installed": {
+      "id": "mistake_mt5zmirgzhb7au",
+      "type": "tense",
+      "patternId": "c1",
+      "original": "setup",
+      "correction": "installed",
+      "explanation": "Use the past simple form of 'install' for a completed action in the 'after' clause.",
+      "count": 2,
+      "mastery": 0.15000000000000002,
+      "firstSeen": "2026-08-23T15:54:26.044Z",
+      "lastSeen": "2026-08-23T15:55:18.151Z"
+    },
+    "spelling:everyone": {
+      "id": "mistake_mt5zmirgnwy5t9",
+      "type": "spelling",
+      "patternId": "c2",
+      "original": "Everyone",
+      "correction": "everyone",
+      "explanation": "Don't capitalize words in the middle of a sentence unless they're proper nouns.",
+      "count": 3,
+      "mastery": 0.10000000000000002,
+      "firstSeen": "2026-08-23T15:54:26.044Z",
+      "lastSeen": "2026-08-25T16:09:38.405Z"
+    },
+    "grammar:can you bring a power bank to the office tomorrow morning?": {
+      "id": "mistake_mt5zpch90b2xq5",
+      "type": "grammar",
+      "original": "Can you bring your",
+      "correction": "Can you bring a power bank to the office tomorrow morning?",
+      "explanation": "Compare your sentence with the corrected version.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:56:37.869Z",
+      "lastSeen": "2026-08-23T15:56:37.869Z"
+    },
+    "vocabulary:a power bank": {
+      "id": "mistake_mt5zqh329dmsu4",
+      "type": "vocabulary",
+      "original": "power",
+      "correction": "a power bank",
+      "explanation": "'Power' một mình không chỉ thiết bị sạc dự phòng - cần thêm 'bank' và dùng mạo từ 'a'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:57:30.493Z",
+      "lastSeen": "2026-08-23T15:57:30.493Z"
+    },
+    "grammar:tomorrow morning": {
+      "id": "mistake_mt5zqh32k5cpex",
+      "type": "grammar",
+      "patternId": "time_expression",
+      "original": "in the morning",
+      "correction": "tomorrow morning",
+      "explanation": "Câu gốc chỉ rõ 'sáng mai' - cần thêm 'tomorrow' để giữ đúng nghĩa thời gian.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:57:30.493Z",
+      "lastSeen": "2026-08-23T15:57:30.493Z"
+    },
+    "preposition:tomorrow morning": {
+      "id": "mistake_mt5zraboo1medx",
+      "type": "preposition",
+      "patternId": "time_expression",
+      "original": "in the tomorrow morning",
+      "correction": "tomorrow morning",
+      "explanation": "Time expressions with 'tomorrow' don't use 'in the'. Compare: 'in the morning' (general) vs 'tomorrow morning' (specific, no preposition).",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T15:58:08.388Z",
+      "lastSeen": "2026-08-23T15:58:08.388Z"
+    },
+    "tense:i slept": {
+      "id": "mistake_mt5zwl2cd3hsby",
+      "type": "tense",
+      "original": "I'm sleep",
+      "correction": "I slept",
+      "explanation": "Q1 asks about last weekend (past), so use past tense 'slept', not present 'I'm sleep'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T16:02:15.588Z",
+      "lastSeen": "2026-08-23T16:02:15.588Z"
+    },
+    "preposition:i spent time with my family": {
+      "id": "mistake_mt5zwl2c9o2cjs",
+      "type": "preposition",
+      "original": "I spend time for my family",
+      "correction": "I spent time with my family",
+      "explanation": "Use 'with' when talking about spending time with people, not 'for'. Also, 'spend' should be past tense 'spent' since it's about last weekend.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T16:02:15.588Z",
+      "lastSeen": "2026-08-23T16:02:15.588Z"
+    },
+    "grammar:i would like to play with my nephew again": {
+      "id": "mistake_mt5zwl2ckzp48u",
+      "type": "grammar",
+      "original": "I like play with my nephew again",
+      "correction": "I would like to play with my nephew again",
+      "explanation": "After 'like/would like', use 'to + verb': 'to play', not just 'play'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T16:02:15.588Z",
+      "lastSeen": "2026-08-23T16:02:15.588Z"
+    },
+    "article:it's the wrong size": {
+      "id": "mistake_mt5zz9aa7vedun",
+      "type": "article",
+      "original": "it's wrong size",
+      "correction": "it's the wrong size",
+      "explanation": "Use 'the' before a specific noun like 'size' when referring to a particular problem.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T16:04:20.290Z",
+      "lastSeen": "2026-08-23T16:04:20.290Z"
+    },
+    "grammar:after i finish work / after finishing work": {
+      "id": "mistake_mt60oltxu7a7co",
+      "type": "grammar",
+      "patternId": "after_clause",
+      "original": "After finish working",
+      "correction": "After I finish work / After finishing work",
+      "explanation": "'After' followed by a clause needs subject+verb (After I finish work) or a gerund (After finishing work), not the base verb.",
+      "count": 2,
+      "mastery": 0.15000000000000002,
+      "firstSeen": "2026-08-23T16:24:02.949Z",
+      "lastSeen": "2026-08-24T14:49:09.506Z"
+    },
+    "grammar:i want to take a rest": {
+      "id": "mistake_mt60oltxnf62eo",
+      "type": "grammar",
+      "original": "I want to",
+      "correction": "I want to take a rest",
+      "explanation": "The sentence is incomplete - 'want to' needs a verb to complete the idea.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-23T16:24:02.949Z",
+      "lastSeen": "2026-08-23T16:24:02.949Z"
+    },
+    "spelling:...take a rest.": {
+      "id": "mistake_mt7cqwkzkxty7k",
+      "type": "spelling",
+      "original": "...take a rest",
+      "correction": "...take a rest.",
+      "explanation": "Thiếu dấu chấm câu cuối câu.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-24T14:49:31.763Z",
+      "lastSeen": "2026-08-24T14:49:31.763Z"
+    },
+    "word_order:can you exchange...?": {
+      "id": "mistake_mt7croql0hrvrm",
+      "type": "word_order",
+      "patternId": "can_you_verb",
+      "original": "You can exchange...?",
+      "correction": "Can you exchange...?",
+      "explanation": "Trong câu hỏi với 'can', trợ động từ 'can' phải đứng trước chủ ngữ: Can + subject + verb?",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-24T14:50:08.253Z",
+      "lastSeen": "2026-08-24T14:50:08.253Z"
+    },
+    "tense:i usually watch tv": {
+      "id": "mistake_mt7cu4nfi3yxb1",
+      "type": "tense",
+      "patternId": "c2",
+      "original": "I usually watches TV",
+      "correction": "I usually watch TV",
+      "explanation": "Chủ ngữ 'I' luôn đi với động từ nguyên mẫu (không thêm 's'), khác với 'he/she/it'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-24T14:52:02.187Z",
+      "lastSeen": "2026-08-24T14:52:02.187Z"
+    },
+    "spelling:8 p.m.": {
+      "id": "mistake_mt7cu4nf1js91p",
+      "type": "spelling",
+      "patternId": "c3",
+      "original": "8 p.m",
+      "correction": "8 p.m.",
+      "explanation": "'p.m.' cần dấu chấm sau cả hai chữ cái.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-24T14:52:02.187Z",
+      "lastSeen": "2026-08-24T14:52:02.187Z"
+    },
+    "naturalness:at 8 p.m.": {
+      "id": "mistake_mt7cv9lexpnapl",
+      "type": "naturalness",
+      "patternId": "time_expression",
+      "original": "at 20:00 pm",
+      "correction": "at 8 p.m.",
+      "explanation": "24-hour format (20:00) and 12-hour format with a.m./p.m. shouldn't be combined. Choose one: 'at 8 p.m.' or 'at 20:00'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-24T14:52:55.250Z",
+      "lastSeen": "2026-08-24T14:52:55.250Z"
+    },
+    "spelling:...to relax.": {
+      "id": "mistake_mt7cvmnmhfjyb0",
+      "type": "spelling",
+      "original": "...to relax",
+      "correction": "...to relax.",
+      "explanation": "Nhớ thêm dấu chấm cuối câu.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-24T14:53:12.178Z",
+      "lastSeen": "2026-08-24T14:53:12.178Z"
+    },
+    "spelling:exercises": {
+      "id": "mistake_mt7cy13onvcsqh",
+      "type": "spelling",
+      "patternId": "after_clause",
+      "original": "excercies",
+      "correction": "exercises",
+      "explanation": "Spelling: 'exercises' has an 's' after 'exer', not 'excer'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-24T14:55:04.212Z",
+      "lastSeen": "2026-08-24T14:55:04.212Z"
+    },
+    "word_order:after i finish my homework, i want to watch tv.": {
+      "id": "mistake_mt7cy13o8eky4p",
+      "type": "word_order",
+      "patternId": "after_clause",
+      "original": "After I finish excercies, I want to watch TV",
+      "correction": "After I finish my homework, I want to watch TV.",
+      "explanation": "Add a comma after the introductory clause and a period at the end.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-24T14:55:04.212Z",
+      "lastSeen": "2026-08-24T14:55:04.212Z"
+    },
+    "vocabulary:finish my homework": {
+      "id": "mistake_mt7cyjlqn5fymi",
+      "type": "vocabulary",
+      "patternId": "c1",
+      "original": "finish exercises",
+      "correction": "finish my homework",
+      "explanation": "‘Bài tập’ in this context usually means ‘homework’; also add the possessive ‘my’ for natural English.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-24T14:55:28.190Z",
+      "lastSeen": "2026-08-24T14:55:28.190Z"
+    },
+    "preposition:at the technology market": {
+      "id": "mistake_mt7d00isa02epy",
+      "type": "preposition",
+      "original": "in the technology market",
+      "correction": "at the technology market",
+      "explanation": "With markets and specific locations, 'at' is more commonly used than 'in' in English.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-24T14:56:36.772Z",
+      "lastSeen": "2026-08-24T14:56:36.772Z"
+    },
+    "tense:sister wants": {
+      "id": "mistake_mt7d0pmilyasea",
+      "type": "tense",
+      "patternId": "want_to",
+      "original": "sister want",
+      "correction": "sister wants",
+      "explanation": "With third person singular subjects (she/he/it/your sister), add -s to the verb: 'wants to relax'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-24T14:57:09.306Z",
+      "lastSeen": "2026-08-24T14:57:09.306Z"
+    },
+    "vocabulary:every evening": {
+      "id": "mistake_mt7d17hb3ck16x",
+      "type": "vocabulary",
+      "original": "every night",
+      "correction": "every evening",
+      "explanation": "'Buổi tối' thường dịch là 'evening' (khoảng 6-10pm) thay vì 'night' (khuya hơn).",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-24T14:57:32.446Z",
+      "lastSeen": "2026-08-24T14:57:32.446Z"
+    },
+    "vocabulary:make my bed": {
+      "id": "mistake_mt7d5v2fykhxzp",
+      "type": "vocabulary",
+      "patternId": "c2",
+      "original": "clean my bed",
+      "correction": "make my bed",
+      "explanation": "'Make the bed' là cụm từ cố định (collocation) để chỉ hành động dọn/xếp giường sau khi ngủ dậy, không dùng 'clean' ở đây.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-24T15:01:09.639Z",
+      "lastSeen": "2026-08-24T15:01:09.639Z"
+    },
+    "article:breakfast": {
+      "id": "mistake_mt7d8bd6mepqy3",
+      "type": "article",
+      "original": "the breakfast",
+      "correction": "breakfast",
+      "explanation": "Meal names (breakfast, lunch, dinner) don't use 'the' in general statements.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-24T15:03:04.074Z",
+      "lastSeen": "2026-08-24T15:03:04.074Z"
+    },
+    "grammar:what size do you wear?": {
+      "id": "mistake_mt7d9b68oe6djy",
+      "type": "grammar",
+      "patternId": "question_form",
+      "original": "What size you wear?",
+      "correction": "What size do you wear?",
+      "explanation": "Câu hỏi thì hiện tại đơn với động từ thường cần trợ động từ 'do/does' trước chủ ngữ.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-24T15:03:50.480Z",
+      "lastSeen": "2026-08-24T15:03:50.480Z"
+    },
+    "grammar:after eating dinner / after he eats dinner": {
+      "id": "mistake_mt7dcblc80j9g3",
+      "type": "grammar",
+      "patternId": "after_clause",
+      "original": "after eat dinner",
+      "correction": "after eating dinner / after he eats dinner",
+      "explanation": "Sau 'after' cần V-ing hoặc chủ ngữ + động từ chia, không dùng động từ nguyên mẫu.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-24T15:06:10.992Z",
+      "lastSeen": "2026-08-24T15:06:10.992Z"
+    },
+    "grammar:goes out": {
+      "id": "mistake_mt7ddkpl0p12t4",
+      "type": "grammar",
+      "patternId": "c3",
+      "original": "go out",
+      "correction": "goes out",
+      "explanation": "'Family' as a single unit takes a singular verb in this context (goes).",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-24T15:07:09.465Z",
+      "lastSeen": "2026-08-24T15:07:09.465Z"
+    },
+    "vocabulary:my whole family / my entire family": {
+      "id": "mistake_mt7ddkplbkfppj",
+      "type": "vocabulary",
+      "patternId": "c2",
+      "original": "my family",
+      "correction": "my whole family / my entire family",
+      "explanation": "'Cả gia đình' emphasizes the whole family, so you need 'whole' or 'entire'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-24T15:07:09.465Z",
+      "lastSeen": "2026-08-24T15:07:09.465Z"
+    },
+    "word_order:my whole family": {
+      "id": "mistake_mt7ded34ckurth",
+      "type": "word_order",
+      "patternId": "c2",
+      "original": "whole my family",
+      "correction": "my whole family",
+      "explanation": "Possessive adjectives (my, your, his...) come before descriptive words like 'whole' or 'entire'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-24T15:07:46.240Z",
+      "lastSeen": "2026-08-24T15:07:46.240Z"
+    },
+    "vocabulary:success": {
+      "id": "mistake_mt7h3j2rnrhlqm",
+      "type": "vocabulary",
+      "patternId": "word_form_noun",
+      "original": "succeed",
+      "correction": "success",
+      "explanation": "'Succeed' is a verb; the noun form is 'success'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-24T16:51:19.250Z",
+      "lastSeen": "2026-08-24T16:51:19.250Z"
+    },
+    "grammar:depends on": {
+      "id": "mistake_mt7h3j2rklimeh",
+      "type": "grammar",
+      "original": "dependent",
+      "correction": "depends on",
+      "explanation": "You need the verb 'depend' with 's' for third person singular, plus preposition 'on': 'depends on'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-24T16:51:19.250Z",
+      "lastSeen": "2026-08-24T16:51:19.250Z"
+    },
+    "vocabulary:the hard work": {
+      "id": "mistake_mt7h3j2r5acwv8",
+      "type": "vocabulary",
+      "original": "workhard",
+      "correction": "the hard work",
+      "explanation": "'Hard work' is an adjective + noun combination, not one word. Add the article 'the' before it.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-24T16:51:19.250Z",
+      "lastSeen": "2026-08-24T16:51:19.250Z"
+    },
+    "word_order:the hard work of every employee": {
+      "id": "mistake_mt7h4tidzbvmfx",
+      "type": "word_order",
+      "patternId": "c3",
+      "original": "the work hard of every employee",
+      "correction": "the hard work of every employee",
+      "explanation": "In English, adjectives usually come before nouns: 'hard' + 'work', not 'work' + 'hard'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-24T16:52:19.429Z",
+      "lastSeen": "2026-08-24T16:52:19.429Z"
+    },
+    "tense:i eat": {
+      "id": "mistake_mt8uenibfvoj1y",
+      "type": "tense",
+      "patternId": "present_simple",
+      "original": "I eats",
+      "correction": "I eat",
+      "explanation": "Với chủ ngữ 'I', động từ không thêm -s trong thì hiện tại đơn. Chỉ thêm -s/-es với he/she/it.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T15:51:39.395Z",
+      "lastSeen": "2026-08-25T15:51:39.395Z"
+    },
+    "vocabulary:vegetables": {
+      "id": "mistake_mt8uenib1m1xwq",
+      "type": "vocabulary",
+      "original": "vegetable",
+      "correction": "vegetables",
+      "explanation": "Nên dùng số nhiều 'vegetables' vì nói chung về rau củ.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T15:51:39.395Z",
+      "lastSeen": "2026-08-25T15:51:39.395Z"
+    },
+    "spelling:health": {
+      "id": "mistake_mt8uenibq3agkw",
+      "type": "spelling",
+      "original": "healt",
+      "correction": "health",
+      "explanation": "Lỗi chính tả nhỏ, thiếu chữ 'h' cuối.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T15:51:39.395Z",
+      "lastSeen": "2026-08-25T15:51:39.395Z"
+    },
+    "naturalness:good for my health": {
+      "id": "mistake_mt8ufidexfm1jz",
+      "type": "naturalness",
+      "patternId": "c4",
+      "original": "good for health",
+      "correction": "good for my health",
+      "explanation": "Trong tiếng Anh, thường dùng tính từ sở hữu (my/your/our) trước 'health' để câu tự nhiên hơn.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T15:52:19.394Z",
+      "lastSeen": "2026-08-25T15:52:19.394Z"
+    },
+    "grammar:is preparing": {
+      "id": "mistake_mt8ugi5c4uujqc",
+      "type": "grammar",
+      "patternId": "present_continuous",
+      "original": "preparing",
+      "correction": "is preparing",
+      "explanation": "Present continuous requires 'is/am/are' + V-ing. The subject 'my whole family' is singular, so use 'is'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T15:53:05.760Z",
+      "lastSeen": "2026-08-25T15:53:05.760Z"
+    },
+    "preposition:preparing dinner": {
+      "id": "mistake_mt8ugi5cnrhi1j",
+      "type": "preposition",
+      "original": "preparing for dinner",
+      "correction": "preparing dinner",
+      "explanation": "'Prepare' takes a direct object without 'for' when it means to make something (e.g., prepare dinner, prepare a meal).",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T15:53:05.760Z",
+      "lastSeen": "2026-08-25T15:53:05.760Z"
+    },
+    "naturalness:right now": {
+      "id": "mistake_mt8uhgmoa1nyho",
+      "type": "naturalness",
+      "original": "Now",
+      "correction": "Right now",
+      "explanation": "Instruction specifically asked for 'right now' as the time expression.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T15:53:50.448Z",
+      "lastSeen": "2026-08-25T15:53:50.448Z"
+    },
+    "spelling:my whole family": {
+      "id": "mistake_mt8uhgmoct1p77",
+      "type": "spelling",
+      "original": "My whole family",
+      "correction": "my whole family",
+      "explanation": "No need to capitalize 'my' mid-sentence.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T15:53:50.448Z",
+      "lastSeen": "2026-08-25T15:53:50.448Z"
+    },
+    "vocabulary:last night": {
+      "id": "mistake_mt8ujt8xggbikm",
+      "type": "vocabulary",
+      "original": "Last evening",
+      "correction": "Last night",
+      "explanation": "'Tối qua' before sleeping is usually 'last night', not 'evening'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T15:55:40.113Z",
+      "lastSeen": "2026-08-25T15:55:40.113Z"
+    },
+    "tense:i went to bed": {
+      "id": "mistake_mt8ujt8xsqzbe1",
+      "type": "tense",
+      "original": "I go to slept",
+      "correction": "I went to bed",
+      "explanation": "Past simple requires 'went' (not 'go'), and the fixed phrase is 'go to bed', not 'go to slept'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T15:55:40.113Z",
+      "lastSeen": "2026-08-25T15:55:40.113Z"
+    },
+    "word_order:i worked hard": {
+      "id": "mistake_mt8ujt8x10y5te",
+      "type": "word_order",
+      "original": "I hard work",
+      "correction": "I worked hard",
+      "explanation": "Adverb 'hard' comes after the verb: 'worked hard', and the verb must be past tense.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T15:55:40.113Z",
+      "lastSeen": "2026-08-25T15:55:40.113Z"
+    },
+    "tense:have worked": {
+      "id": "mistake_mt8ulsfcnjlmr0",
+      "type": "tense",
+      "patternId": "present_perfect_duration",
+      "original": "worked",
+      "correction": "have worked",
+      "explanation": "'since 2020' báo hiệu cần dùng hiện tại hoàn thành, không dùng quá khứ đơn.",
+      "count": 2,
+      "mastery": 0.15000000000000002,
+      "firstSeen": "2026-08-25T15:57:12.360Z",
+      "lastSeen": "2026-08-25T15:59:32.197Z"
+    },
+    "article:next weekend": {
+      "id": "mistake_mt8uqq88dg64wq",
+      "type": "article",
+      "patternId": "time_expression",
+      "original": "The next weekend",
+      "correction": "Next weekend",
+      "explanation": "Time expressions like 'next weekend', 'next week' don't take 'the' before them.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:01:02.792Z",
+      "lastSeen": "2026-08-25T16:01:02.792Z"
+    },
+    "grammar:to be good for my health / for good health": {
+      "id": "mistake_mt8uqq88zrtuqi",
+      "type": "grammar",
+      "patternId": "c3",
+      "original": "to good for health",
+      "correction": "to be good for my health / for good health",
+      "explanation": "You need a verb (be) or should use a noun phrase (good health) - 'to good' alone is not grammatical.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:01:02.792Z",
+      "lastSeen": "2026-08-25T16:01:02.792Z"
+    },
+    "grammar:to have good health": {
+      "id": "mistake_mt8ursjep8dxcb",
+      "type": "grammar",
+      "patternId": "c3",
+      "original": "to good health",
+      "correction": "to have good health",
+      "explanation": "'To' here introduces a purpose, so you need a verb after it: 'to have good health'. Alternatively, use 'for good health' without a verb.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:01:52.442Z",
+      "lastSeen": "2026-08-25T16:01:52.442Z"
+    },
+    "grammar:next weekend, i will sleep earlier to have good health.": {
+      "id": "mistake_mt8uscqman0mua",
+      "type": "grammar",
+      "original": "Next weekend, I'll go to bed earlier to have good health",
+      "correction": "Next weekend, I will sleep earlier to have good health.",
+      "explanation": "Compare your sentence with the corrected version.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:02:18.621Z",
+      "lastSeen": "2026-08-25T16:02:18.621Z"
+    },
+    "article:success": {
+      "id": "mistake_mt8uu8phapvtdu",
+      "type": "article",
+      "patternId": "c1",
+      "original": "The success",
+      "correction": "Success",
+      "explanation": "General/abstract nouns like 'success' don't take 'the' when speaking generally.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:03:46.709Z",
+      "lastSeen": "2026-08-25T16:03:46.709Z"
+    },
+    "tense:depends": {
+      "id": "mistake_mt8uu8pharz5mz",
+      "type": "tense",
+      "patternId": "c1",
+      "original": "depend",
+      "correction": "depends",
+      "explanation": "Present simple needs -s for he/she/it/singular subjects like 'success'.",
+      "count": 2,
+      "mastery": 0.15000000000000002,
+      "firstSeen": "2026-08-25T16:03:46.709Z",
+      "lastSeen": "2026-08-25T16:31:16.399Z"
+    },
+    "vocabulary:so": {
+      "id": "mistake_mt8uu8phd3da7p",
+      "type": "vocabulary",
+      "patternId": "c2",
+      "original": "because",
+      "correction": "so",
+      "explanation": "'vì vậy' introduces a result, so English 'so' fits, not 'because' (which introduces a reason).",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:03:46.709Z",
+      "lastSeen": "2026-08-25T16:03:46.709Z"
+    },
+    "tense:tries": {
+      "id": "mistake_mt8uu8phpmat5i",
+      "type": "tense",
+      "patternId": "c3",
+      "original": "try",
+      "correction": "tries",
+      "explanation": "Present simple with 'he' needs -s: he tries.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:03:46.709Z",
+      "lastSeen": "2026-08-25T16:03:46.709Z"
+    },
+    "spelling:vegetables": {
+      "id": "mistake_mt8uwye9mkrb44",
+      "type": "spelling",
+      "original": "vegrtables",
+      "correction": "vegetables",
+      "explanation": "Lỗi chính tả nhỏ, kiểm tra lại thứ tự chữ cái.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:05:53.313Z",
+      "lastSeen": "2026-08-25T16:05:53.313Z"
+    },
+    "tense:right now,": {
+      "id": "mistake_mt8uwye9u66ufx",
+      "type": "tense",
+      "patternId": "time_expression",
+      "original": "(empty)",
+      "correction": "Right now,",
+      "explanation": "Bài yêu cầu dùng cụm 'Right now' để mở đầu câu theo hướng dẫn.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:05:53.313Z",
+      "lastSeen": "2026-08-25T16:05:53.313Z"
+    },
+    "tense:worked": {
+      "id": "mistake_mt8uy7eueyeoag",
+      "type": "tense",
+      "patternId": "past_simple",
+      "original": "have worked",
+      "correction": "worked",
+      "explanation": "'Last week' là mốc thời gian đã qua, cụ thể, nên dùng quá khứ đơn, không dùng hiện tại hoàn thành.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:06:51.654Z",
+      "lastSeen": "2026-08-25T16:06:51.654Z"
+    },
+    "grammar:i have known her": {
+      "id": "mistake_mt8uzskj6f7r91",
+      "type": "grammar",
+      "patternId": "present_perfect_duration",
+      "original": "I known she",
+      "correction": "I have known her",
+      "explanation": "Thì hiện tại hoàn thành cần trợ động từ 'have/has' trước động từ quá khứ phân từ (known).",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:08:05.731Z",
+      "lastSeen": "2026-08-25T16:08:05.731Z"
+    },
+    "grammar:her": {
+      "id": "mistake_mt8uzskj6wegd5",
+      "type": "grammar",
+      "original": "she",
+      "correction": "her",
+      "explanation": "Sau động từ cần dùng tân ngữ (object pronoun): her, không phải she.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:08:05.731Z",
+      "lastSeen": "2026-08-25T16:08:05.731Z"
+    },
+    "preposition:for five years": {
+      "id": "mistake_mt8uzskj575933",
+      "type": "preposition",
+      "patternId": "time_expression",
+      "original": "about 5 years",
+      "correction": "for five years",
+      "explanation": "Dùng 'for' để chỉ khoảng thời gian kéo dài, không dùng 'about'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:08:05.731Z",
+      "lastSeen": "2026-08-25T16:08:05.731Z"
+    },
+    "spelling:five": {
+      "id": "mistake_mt8v0tv20ni23y",
+      "type": "spelling",
+      "original": "5",
+      "correction": "five",
+      "explanation": "In formal English sentences, small numbers are usually written as words.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:08:54.062Z",
+      "lastSeen": "2026-08-25T16:08:54.062Z"
+    },
+    "spelling:succeed": {
+      "id": "mistake_mt8v1s2ta62qm0",
+      "type": "spelling",
+      "original": "suceed",
+      "correction": "succeed",
+      "explanation": "'succeed' has double 'c' and double 'e'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:09:38.405Z",
+      "lastSeen": "2026-08-25T16:09:38.405Z"
+    },
+    "grammar:everyone works hard": {
+      "id": "mistake_mt8v1s2ta0573x",
+      "type": "grammar",
+      "patternId": "c3",
+      "original": "everyone work hard",
+      "correction": "everyone works hard",
+      "explanation": "'everyone' is singular, so the verb needs -s in present simple: works.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:09:38.405Z",
+      "lastSeen": "2026-08-25T16:09:38.405Z"
+    },
+    "naturalness:next year, the company": {
+      "id": "mistake_mt8v1s2t0pzyb9",
+      "type": "naturalness",
+      "original": "Next year, The company",
+      "correction": "Next year, the company",
+      "explanation": "Don't capitalize 'the' in the middle of a sentence.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:09:38.405Z",
+      "lastSeen": "2026-08-25T16:09:38.405Z"
+    },
+    "vocabulary:every dinner / at every dinner": {
+      "id": "mistake_mt8v67b2wsitsq",
+      "type": "vocabulary",
+      "patternId": "c5",
+      "original": "for dinner",
+      "correction": "every dinner / at every dinner",
+      "explanation": "'mỗi' means 'every', which emphasizes repetition at each dinner, not just generally 'for dinner'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:13:04.766Z",
+      "lastSeen": "2026-08-25T16:13:04.766Z"
+    },
+    "tense:are preparing": {
+      "id": "mistake_mt8v94q9ki0z8v",
+      "type": "tense",
+      "patternId": "present_continuous",
+      "original": "have preparing",
+      "correction": "are preparing",
+      "explanation": "Hiện tại tiếp diễn dùng 'am/is/are + V-ing', không phải 'have + V-ing'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:15:21.393Z",
+      "lastSeen": "2026-08-25T16:15:21.393Z"
+    },
+    "article:this weekend": {
+      "id": "mistake_mt8v94q9vvwkvd",
+      "type": "article",
+      "original": "The weekend",
+      "correction": "This weekend",
+      "explanation": "Khi nói về tuần này, dùng 'this weekend' thay vì 'the weekend'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:15:21.393Z",
+      "lastSeen": "2026-08-25T16:15:21.393Z"
+    },
+    "preposition:for the important exam": {
+      "id": "mistake_mt8v94q9kf1sj0",
+      "type": "preposition",
+      "original": "important exam",
+      "correction": "for the important exam",
+      "explanation": "Cần thêm giới từ 'for' và mạo từ 'the' trước danh từ 'exam'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:15:21.393Z",
+      "lastSeen": "2026-08-25T16:15:21.393Z"
+    },
+    "spelling:we": {
+      "id": "mistake_mt8va84iud545s",
+      "type": "spelling",
+      "original": "We",
+      "correction": "we",
+      "explanation": "Không viết hoa từ giữa câu trừ khi là danh từ riêng hoặc đầu câu.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:16:12.450Z",
+      "lastSeen": "2026-08-25T16:16:12.450Z"
+    },
+    "grammar:yesterday, he succeeded in the difficult exam.": {
+      "id": "mistake_mt8vbsjxl48mca",
+      "type": "grammar",
+      "original": "Yesterday, He was succeeded in difficult exam",
+      "correction": "Yesterday, he succeeded in the difficult exam.",
+      "explanation": "Compare your sentence with the corrected version.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:17:25.580Z",
+      "lastSeen": "2026-08-25T16:17:25.580Z"
+    },
+    "tense:succeeded": {
+      "id": "mistake_mt8vcngacbhfoc",
+      "type": "tense",
+      "patternId": "S + V2",
+      "original": "was succeed",
+      "correction": "succeeded",
+      "explanation": "'Succeed' là động từ thường, quá khứ đơn là 'succeeded', không dùng với 'was'.",
+      "count": 2,
+      "mastery": 0.15000000000000002,
+      "firstSeen": "2026-08-25T16:18:05.626Z",
+      "lastSeen": "2026-08-25T16:18:30.623Z"
+    },
+    "spelling:he": {
+      "id": "mistake_mt8vcngaxb009j",
+      "type": "spelling",
+      "original": "He",
+      "correction": "he",
+      "explanation": "Không viết hoa chủ ngữ giữa câu (sau dấu phẩy).",
+      "count": 2,
+      "mastery": 0.15000000000000002,
+      "firstSeen": "2026-08-25T16:18:05.626Z",
+      "lastSeen": "2026-08-25T16:24:40.854Z"
+    },
+    "tense:went to bed": {
+      "id": "mistake_mt8vec0g1wx1gq",
+      "type": "tense",
+      "original": "gone to bed",
+      "correction": "went to bed",
+      "explanation": "'Gone' is the past participle (used with have/has); simple past of 'go' is 'went'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:19:24.112Z",
+      "lastSeen": "2026-08-25T16:19:24.112Z"
+    },
+    "grammar:because she worked hard": {
+      "id": "mistake_mt8vec0g3s02sm",
+      "type": "grammar",
+      "original": "because worked hard",
+      "correction": "because she worked hard",
+      "explanation": "Each clause needs its own subject in English.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:19:24.112Z",
+      "lastSeen": "2026-08-25T16:19:24.112Z"
+    },
+    "spelling:she": {
+      "id": "mistake_mt8vergxo51zbe",
+      "type": "spelling",
+      "original": "She",
+      "correction": "she",
+      "explanation": "Chỉ viết hoa 'She' nếu bắt đầu câu mới; ở đây nó nằm sau dấu phẩy trong cùng một câu.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:19:44.145Z",
+      "lastSeen": "2026-08-25T16:19:44.145Z"
+    },
+    "grammar:him": {
+      "id": "mistake_mt8vgf750zm1z8",
+      "type": "grammar",
+      "original": "his",
+      "correction": "him",
+      "explanation": "'his' là tính từ/đại từ sở hữu, còn tân ngữ của động từ cần đại từ tân ngữ 'him'",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:21:01.553Z",
+      "lastSeen": "2026-08-25T16:21:01.553Z"
+    },
+    "preposition:since 2020": {
+      "id": "mistake_mt8vgf758qg9bl",
+      "type": "preposition",
+      "patternId": "present_perfect_duration",
+      "original": "for 2020",
+      "correction": "since 2020",
+      "explanation": "'since' dùng với mốc thời gian cụ thể (năm, ngày...), 'for' dùng với khoảng thời gian (ví dụ: for 3 years)",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:21:01.553Z",
+      "lastSeen": "2026-08-25T16:21:01.553Z"
+    },
+    "tense:has worked": {
+      "id": "mistake_mt8vhp10okmp0q",
+      "type": "tense",
+      "patternId": "have/has + V3 + for",
+      "original": "worked",
+      "correction": "has worked",
+      "explanation": "Khi dùng 'for + khoảng thời gian' để chỉ hành động kéo dài đến hiện tại, cần dùng thì hiện tại hoàn thành, không dùng quá khứ đơn.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:22:00.948Z",
+      "lastSeen": "2026-08-25T16:22:00.948Z"
+    },
+    "naturalness:three years": {
+      "id": "mistake_mt8vi4lvmvge4i",
+      "type": "naturalness",
+      "original": "3 years",
+      "correction": "three years",
+      "explanation": "Trong văn viết trang trọng, nên viết số nhỏ bằng chữ.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:22:21.139Z",
+      "lastSeen": "2026-08-25T16:22:21.139Z"
+    },
+    "grammar:if he continues to work hard / if he keeps working hard": {
+      "id": "mistake_mt8vl4eu9h6ypf",
+      "type": "grammar",
+      "original": "if he works hard",
+      "correction": "if he continues to work hard / if he keeps working hard",
+      "explanation": "'Tiếp tục làm việc chăm chỉ' nghĩa là duy trì hành động đó, không chỉ đơn giản là 'làm việc chăm chỉ'. Cần dùng 'continue to + V' hoặc 'keep + V-ing'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:24:40.854Z",
+      "lastSeen": "2026-08-25T16:24:40.854Z"
+    },
+    "tense:he continues": {
+      "id": "mistake_mt8vlszmnxzl7n",
+      "type": "tense",
+      "original": "he continue",
+      "correction": "he continues",
+      "explanation": "With 'he/she/it' in present simple, add -s to the verb: continues.",
+      "count": 2,
+      "mastery": 0.15000000000000002,
+      "firstSeen": "2026-08-25T16:25:12.706Z",
+      "lastSeen": "2026-08-25T16:25:26.358Z"
+    },
+    "grammar:to work": {
+      "id": "mistake_mt8vlszm9rviun",
+      "type": "grammar",
+      "original": "to works",
+      "correction": "to work",
+      "explanation": "After 'to' (infinitive), use the base form of the verb, not the -s form.",
+      "count": 2,
+      "mastery": 0.15000000000000002,
+      "firstSeen": "2026-08-25T16:25:12.706Z",
+      "lastSeen": "2026-08-25T16:25:26.358Z"
+    },
+    "grammar:i usually walk": {
+      "id": "mistake_mt8vrumxnsit15",
+      "type": "grammar",
+      "patternId": "S + V(s)",
+      "original": "I usually walks",
+      "correction": "I usually walk",
+      "explanation": "Động từ chỉ thêm 's/es' khi chủ ngữ là he/she/it (ngôi thứ 3 số ít). 'I' không cần thêm 's'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:29:54.777Z",
+      "lastSeen": "2026-08-25T16:29:54.777Z"
+    },
+    "grammar:her success always depends on her family.": {
+      "id": "mistake_mt8vsrmngpec6v",
+      "type": "grammar",
+      "original": "Her'",
+      "correction": "Her success always depends on her family.",
+      "explanation": "Câu trả lời bị bỏ dở, cần hoàn thành đầy đủ 3 phần: chủ ngữ, động từ, tân ngữ.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:30:37.535Z",
+      "lastSeen": "2026-08-25T16:30:37.535Z"
+    },
+    "vocabulary:her success": {
+      "id": "mistake_mt8vtlm7q3opcw",
+      "type": "vocabulary",
+      "original": "Her's succeed",
+      "correction": "Her success",
+      "explanation": "'Her's' không tồn tại; 'succeed' là động từ, cần danh từ 'success' làm chủ ngữ.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:31:16.399Z",
+      "lastSeen": "2026-08-25T16:31:16.399Z"
+    },
+    "tense:is walking": {
+      "id": "mistake_mt8vvm3sm62to6",
+      "type": "tense",
+      "patternId": "present_continuous",
+      "original": "walks",
+      "correction": "is walking",
+      "explanation": "'family' là danh từ số ít -> dùng 'is' + V-ing để diễn tả hành động đang diễn ra ngay bây giờ.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:32:50.344Z",
+      "lastSeen": "2026-08-25T16:32:50.344Z"
+    },
+    "spelling:achieved": {
+      "id": "mistake_mt8vxr17432h4l",
+      "type": "spelling",
+      "patternId": "c2",
+      "original": "achived",
+      "correction": "achieved",
+      "explanation": "'achieve' + 'ed' = 'achieved' (double vowel pattern).",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:34:30.042Z",
+      "lastSeen": "2026-08-25T16:34:30.042Z"
+    },
+    "article:great success": {
+      "id": "mistake_mt8vxr17m285l1",
+      "type": "article",
+      "patternId": "c3",
+      "original": "the big success",
+      "correction": "great success",
+      "explanation": "'success' as an abstract achievement usually doesn't take 'the' unless referring to something specific already mentioned.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:34:30.042Z",
+      "lastSeen": "2026-08-25T16:34:30.042Z"
+    },
+    "preposition:last year": {
+      "id": "mistake_mt8vxr179l1y6y",
+      "type": "preposition",
+      "patternId": "c4",
+      "original": "in last year",
+      "correction": "last year",
+      "explanation": "Time expressions like 'last year', 'last week' don't need a preposition before them.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:34:30.042Z",
+      "lastSeen": "2026-08-25T16:34:30.042Z"
+    },
+    "naturalness:great success": {
+      "id": "mistake_mt8vz2dzh4uykr",
+      "type": "naturalness",
+      "patternId": "c3",
+      "original": "big success",
+      "correction": "great success",
+      "explanation": "'achieve great success' là collocation tự nhiên và phổ biến hơn 'big success'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:35:31.415Z",
+      "lastSeen": "2026-08-25T16:35:31.415Z"
+    },
+    "tense:i have lived with my family since 2015.": {
+      "id": "mistake_mt8w0lu9tps9lw",
+      "type": "tense",
+      "patternId": "present_perfect_duration",
+      "original": "I lived with my family since 2015.",
+      "correction": "I have lived with my family since 2015.",
+      "explanation": "'since 2015' báo hiệu hành động kéo dài đến hiện tại, cần dùng hiện tại hoàn thành (have + V3), không dùng quá khứ đơn (lived).",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:36:43.281Z",
+      "lastSeen": "2026-08-25T16:36:43.281Z"
+    },
+    "tense:has depended on": {
+      "id": "mistake_mt8w2385zfbij4",
+      "type": "tense",
+      "patternId": "present_perfect_duration",
+      "original": "depends on",
+      "correction": "has depended on",
+      "explanation": "Use present perfect for an action that started in the past and continues to now, especially with 'for/since'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:37:52.469Z",
+      "lastSeen": "2026-08-25T16:37:52.469Z"
+    },
+    "grammar:for many years": {
+      "id": "mistake_mt8w238567qipx",
+      "type": "grammar",
+      "original": "many years",
+      "correction": "for many years",
+      "explanation": "'For' is needed before a duration (for + period of time).",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:37:52.469Z",
+      "lastSeen": "2026-08-25T16:37:52.469Z"
+    },
+    "vocabulary:tomorrow": {
+      "id": "mistake_mt8w4dhv59jo61",
+      "type": "vocabulary",
+      "original": "in the morning",
+      "correction": "tomorrow",
+      "explanation": "'Vào ngày mai' means 'tomorrow', not 'in the morning'. These express different times.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:39:39.091Z",
+      "lastSeen": "2026-08-25T16:39:39.091Z"
+    },
+    "preposition:tomorrow": {
+      "id": "mistake_mt8w4zbboxzzlz",
+      "type": "preposition",
+      "original": "in the tomorrow",
+      "correction": "tomorrow",
+      "explanation": "'Tomorrow' is used alone as a time adverb, without 'in the' before it.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:40:07.367Z",
+      "lastSeen": "2026-08-25T16:40:07.367Z"
+    },
+    "word_order:can i ask a question?": {
+      "id": "mistake_mt8w8n46r1ythp",
+      "type": "word_order",
+      "original": "Can you ask some question?",
+      "correction": "Can I ask a question?",
+      "explanation": "You are the one asking, so use 'Can I ask...' not 'Can you ask...'. Also 'question' should be singular here.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:42:58.181Z",
+      "lastSeen": "2026-08-25T16:42:58.181Z"
+    },
+    "vocabulary:fish dish": {
+      "id": "mistake_mt8w8n46wjnhik",
+      "type": "vocabulary",
+      "original": "fish food",
+      "correction": "fish dish",
+      "explanation": "'Fish food' means food for fish (like pet food). Use 'dish' for a meal item on the menu.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:42:58.181Z",
+      "lastSeen": "2026-08-25T16:42:58.181Z"
+    },
+    "naturalness:yes, i'll have the grilled fish": {
+      "id": "mistake_mt8wany8b1etey",
+      "type": "naturalness",
+      "original": "Yep, for me a grilled fish",
+      "correction": "Yes, I'll have the grilled fish",
+      "explanation": "'For me' is understandable but sounds informal/incomplete; native speakers say 'I'll have...' or 'I want...' when ordering.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:44:32.576Z",
+      "lastSeen": "2026-08-25T16:44:32.576Z"
+    },
+    "word_order:a lemon soda": {
+      "id": "mistake_mt8wc4hioro4gk",
+      "type": "word_order",
+      "original": "a soda lemon",
+      "correction": "a lemon soda",
+      "explanation": "In English, the flavor comes before the drink name: lemon soda, not soda lemon.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-25T16:45:40.662Z",
+      "lastSeen": "2026-08-25T16:45:40.662Z"
+    },
+    "grammar:need to prepare / need to make": {
+      "id": "mistake_mtbn1az0x3c9u0",
+      "type": "grammar",
+      "patternId": "need_to_verb",
+      "original": "need prepare",
+      "correction": "need to prepare / need to make",
+      "explanation": "'need' is followed by 'to + verb' when talking about necessity.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-27T14:48:37.835Z",
+      "lastSeen": "2026-08-27T14:48:37.835Z"
+    },
+    "word_order:a careful plan": {
+      "id": "mistake_mtbn1az0nea2hk",
+      "type": "word_order",
+      "patternId": "word_form_adj",
+      "original": "a carefully plan",
+      "correction": "a careful plan",
+      "explanation": "Before a noun, use the adjective form (careful), not the adverb form (carefully).",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-27T14:48:37.835Z",
+      "lastSeen": "2026-08-27T14:48:37.835Z"
+    },
+    "grammar:we need to make": {
+      "id": "mistake_mtbn4q6hlt0gmy",
+      "type": "grammar",
+      "patternId": "need_to_verb",
+      "original": "We needs prepare",
+      "correction": "We need to make",
+      "explanation": "With 'we' (plural subject), use base form 'need', and always follow 'need' with 'to + verb'",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-27T14:51:17.512Z",
+      "lastSeen": "2026-08-27T14:51:17.512Z"
+    },
+    "article:a careful plan": {
+      "id": "mistake_mtbn4q6hrf148j",
+      "type": "article",
+      "original": "careful plan",
+      "correction": "a careful plan",
+      "explanation": "Singular countable nouns need an article like 'a' or 'the'",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-27T14:51:17.512Z",
+      "lastSeen": "2026-08-27T14:51:17.512Z"
+    },
+    "word_order:we take the whole family": {
+      "id": "mistake_mtbn4q6huf65vm",
+      "type": "word_order",
+      "original": "we take of whole family",
+      "correction": "we take the whole family",
+      "explanation": "Remove 'of' - it's not needed here. Add 'the' before 'whole family'",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-27T14:51:17.512Z",
+      "lastSeen": "2026-08-27T14:51:17.512Z"
+    },
+    "preposition:on the weekend": {
+      "id": "mistake_mtbn4q6h4hpaoj",
+      "type": "preposition",
+      "original": "in the weekend",
+      "correction": "on the weekend",
+      "explanation": "Use 'on' or 'at' with 'weekend', not 'in'",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-27T14:51:17.512Z",
+      "lastSeen": "2026-08-27T14:51:17.512Z"
+    },
+    "grammar:need to prepare": {
+      "id": "mistake_mtbn76z2chqzw8",
+      "type": "grammar",
+      "patternId": "need_to_verb",
+      "original": "need prepare",
+      "correction": "need to prepare",
+      "explanation": "'Need' must be followed by 'to + verb' when it means 'cần làm gì'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-27T14:53:12.590Z",
+      "lastSeen": "2026-08-27T14:53:12.590Z"
+    },
+    "article:bringing the whole family": {
+      "id": "mistake_mtbn76z2m2141c",
+      "type": "article",
+      "original": "bringing whole family",
+      "correction": "bringing the whole family",
+      "explanation": "Use 'the' before 'whole family' to specify a particular group.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-27T14:53:12.590Z",
+      "lastSeen": "2026-08-27T14:53:12.590Z"
+    },
+    "preposition:on the weekend / at the weekend": {
+      "id": "mistake_mtbn76z2l99dm0",
+      "type": "preposition",
+      "original": "in the weekend",
+      "correction": "on the weekend / at the weekend",
+      "explanation": "English uses 'on' or 'at' with 'weekend', not 'in'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-27T14:53:12.590Z",
+      "lastSeen": "2026-08-27T14:53:12.590Z"
+    },
+    "grammar:she cooks vegetables quickly so the whole family can eat dinner on time.": {
+      "id": "mistake_mtbncg0qcn25u1",
+      "type": "grammar",
+      "original": "She cook vegatables quick to the whole family can eat dinner",
+      "correction": "She cooks vegetables quickly so the whole family can eat dinner on time.",
+      "explanation": "Compare your sentence with the corrected version.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-27T14:57:17.593Z",
+      "lastSeen": "2026-08-27T14:57:17.593Z"
+    },
+    "grammar:cooks": {
+      "id": "mistake_mtbnfr1ib00iiv",
+      "type": "grammar",
+      "original": "cook",
+      "correction": "cooks",
+      "explanation": "Third person singular subject needs verb+s in present simple.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-27T14:59:51.846Z",
+      "lastSeen": "2026-08-27T14:59:51.846Z"
+    },
+    "spelling:quickly": {
+      "id": "mistake_mtbnfr1i5mtfiy",
+      "type": "spelling",
+      "original": "quick",
+      "correction": "quickly",
+      "explanation": "Adverbs modifying verbs usually end in -ly; 'quick' is the adjective form.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-27T14:59:51.846Z",
+      "lastSeen": "2026-08-27T14:59:51.846Z"
+    },
+    "grammar:so": {
+      "id": "mistake_mtbnfr1i4cjn05",
+      "type": "grammar",
+      "original": "to",
+      "correction": "so",
+      "explanation": "Use 'so' or 'so that' before a clause with a modal verb like 'can', not 'to + verb'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-27T14:59:51.846Z",
+      "lastSeen": "2026-08-27T14:59:51.846Z"
+    },
+    "vocabulary:on time": {
+      "id": "mistake_mtbnfr1i5hz3g4",
+      "type": "vocabulary",
+      "original": "missing phrase",
+      "correction": "on time",
+      "explanation": "The phrase 'đúng giờ' (on time) was left out of the sentence.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-27T14:59:51.846Z",
+      "lastSeen": "2026-08-27T14:59:51.846Z"
+    },
+    "tense:she cooks": {
+      "id": "mistake_mtbnhcbgx1ybni",
+      "type": "tense",
+      "patternId": "subject_verb_agreement",
+      "original": "She cook",
+      "correction": "She cooks",
+      "explanation": "Third person singular subjects (she/he/it) need an -s on the verb in present simple.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-27T15:01:06.076Z",
+      "lastSeen": "2026-08-27T15:01:06.076Z"
+    },
+    "grammar:the whole family can eat dinner on time": {
+      "id": "mistake_mtbo0crl4tfjik",
+      "type": "grammar",
+      "original": "the whole family eat dinner on time",
+      "correction": "the whole family can eat dinner on time",
+      "explanation": "Vị trí này cần modal verb 'can' trước động từ chính 'eat' để diễn tả khả năng, không dùng thì hiện tại đơn thông thường.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-27T15:15:53.119Z",
+      "lastSeen": "2026-08-27T15:15:53.119Z"
+    }
+  },
+  "sessions": [
+    {
+      "id": "session_mtbnaxu09dy58r",
+      "startedAt": "2026-08-27T14:52:06.286Z",
+      "endedAt": "2026-08-27T14:56:07.368Z",
+      "durationMin": 4,
+      "mode": "guided_translation",
+      "exercises": 2,
+      "correct": 1,
+      "newVocabulary": [],
+      "patternsPracticed": [
+        "word_form_adj",
+        "need_to_verb",
+        "before_clause"
+      ]
+    },
+    {
+      "id": "session_mtbn50cblkuhnd",
+      "startedAt": "2026-08-27T14:21:41.080Z",
+      "endedAt": "2026-08-27T14:51:30.683Z",
+      "durationMin": 30,
+      "mode": "guided_translation",
+      "exercises": 2,
+      "correct": 0,
+      "newVocabulary": [],
+      "patternsPracticed": [
+        "need_to_verb",
+        "word_form_adj",
+        "before_clause"
+      ]
+    },
+    {
+      "id": "session_mt8wcwa43zpsuk",
+      "startedAt": "2026-08-25T16:40:55.262Z",
+      "endedAt": "2026-08-25T16:46:16.684Z",
+      "durationMin": 5,
+      "mode": "situation_thinking",
+      "exercises": 1,
+      "correct": 1,
+      "newVocabulary": [],
+      "patternsPracticed": [
+        "want_to",
+        "can_you_verb"
+      ]
+    },
+    {
+      "id": "session_mt8vmgz9o98424",
+      "startedAt": "2026-08-25T16:10:55.509Z",
+      "endedAt": "2026-08-25T16:25:43.797Z",
+      "durationMin": 15,
+      "mode": "guided_translation",
+      "exercises": 22,
+      "correct": 11,
+      "newVocabulary": [
+        "weekend"
+      ],
+      "patternsPracticed": [
+        "S + V(s)",
+        "present_simple",
+        "S + am/is/are + V-ing",
+        "present_continuous",
+        "S + V2",
+        "present_perfect_duration",
+        "have/has + V3 + for",
+        "future_will"
+      ]
+    },
+    {
+      "id": "session_mt8v2m76g15jxv",
+      "startedAt": "2026-08-25T16:02:52.597Z",
+      "endedAt": "2026-08-25T16:10:17.442Z",
+      "durationMin": 7,
+      "mode": "guided_translation",
+      "exercises": 10,
+      "correct": 5,
+      "newVocabulary": [],
+      "patternsPracticed": [
+        "present_simple",
+        "time_expression",
+        "present_continuous",
+        "past_simple",
+        "present_perfect_duration",
+        "future_will"
+      ]
+    },
+    {
+      "id": "session_mt8ut14123g421",
+      "startedAt": "2026-08-25T15:49:22.634Z",
+      "endedAt": "2026-08-25T16:02:50.209Z",
+      "durationMin": 13,
+      "mode": "guided_translation",
+      "exercises": 14,
+      "correct": 6,
+      "newVocabulary": [],
+      "patternsPracticed": [
+        "present_simple",
+        "time_expression",
+        "present_continuous",
+        "past_simple",
+        "present_perfect_duration",
+        "future_will"
+      ]
+    },
+    {
+      "id": "session_mt7d69ay0wm7y6",
+      "startedAt": "2026-08-24T14:54:24.278Z",
+      "endedAt": "2026-08-24T15:01:28.090Z",
+      "durationMin": 7,
+      "mode": "guided_translation",
+      "exercises": 10,
+      "correct": 7,
+      "newVocabulary": [],
+      "patternsPracticed": [
+        "after_clause",
+        "want_to",
+        "before_clause",
+        "need_to_verb",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "session_mt7cx46g04c2h3",
+      "startedAt": "2026-08-24T14:47:25.978Z",
+      "endedAt": "2026-08-24T14:54:21.544Z",
+      "durationMin": 7,
+      "mode": "guided_translation",
+      "exercises": 10,
+      "correct": 6,
+      "newVocabulary": [],
+      "patternsPracticed": [
+        "after_clause",
+        "want_to",
+        "can_you_verb",
+        "before_clause",
+        "need_to_verb",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "session_mt60p46m9z3jia",
+      "startedAt": "2026-08-23T16:22:30.607Z",
+      "endedAt": "2026-08-23T16:24:26.734Z",
+      "durationMin": 2,
+      "mode": "guided_translation",
+      "exercises": 2,
+      "correct": 1,
+      "newVocabulary": [
+        "take a rest"
+      ],
+      "patternsPracticed": [
+        "after_clause",
+        "want_to"
+      ]
+    },
+    {
+      "id": "session_mt600042asrrvv",
+      "startedAt": "2026-08-23T16:02:40.498Z",
+      "endedAt": "2026-08-23T16:04:55.058Z",
+      "durationMin": 2,
+      "mode": "situation_thinking",
+      "exercises": 1,
+      "correct": 1,
+      "newVocabulary": [
+        "exchange"
+      ],
+      "patternsPracticed": [
+        "want_to",
+        "can_you_verb"
+      ]
+    },
+    {
+      "id": "session_mt5zx35al9gqw2",
+      "startedAt": "2026-08-23T15:59:03.527Z",
+      "endedAt": "2026-08-23T16:02:39.022Z",
+      "durationMin": 4,
+      "mode": "free_thinking",
+      "exercises": 1,
+      "correct": 0,
+      "newVocabulary": [
+        "relax",
+        "take a rest",
+        "go out"
+      ],
+      "patternsPracticed": [
+        "past_simple",
+        "spend_time_with",
+        "would_like_to"
+      ]
+    },
+    {
+      "id": "session_mt5zsacfqavdiu",
+      "startedAt": "2026-08-23T15:34:49.710Z",
+      "endedAt": "2026-08-23T15:58:55.071Z",
+      "durationMin": 24,
+      "mode": "guided_translation",
+      "exercises": 24,
+      "correct": 10,
+      "newVocabulary": [
+        "power bank"
+      ],
+      "patternsPracticed": [
+        "adverb_frequency_position",
+        "time_expression",
+        "need_to_verb",
+        "before_clause",
+        "after_clause",
+        "can_you_verb"
+      ]
+    },
+    {
+      "id": "session_mt5yx11c7131ad",
+      "startedAt": "2026-08-23T15:30:48.619Z",
+      "endedAt": "2026-08-23T15:34:36.672Z",
+      "durationMin": 4,
+      "mode": "guided_translation",
+      "exercises": 6,
+      "correct": 3,
+      "newVocabulary": [],
+      "patternsPracticed": [
+        "can_you_verb",
+        "before_clause",
+        "time_expression",
+        "adverb_frequency_position"
+      ]
+    },
+    {
+      "id": "session_mt5yrwknree7m5",
+      "startedAt": "2026-08-23T15:24:00.494Z",
+      "endedAt": "2026-08-23T15:30:37.607Z",
+      "durationMin": 7,
+      "mode": "guided_translation",
+      "exercises": 10,
+      "correct": 5,
+      "newVocabulary": [
+        "office"
+      ],
+      "patternsPracticed": [
+        "adverb_frequency_position",
+        "time_expression",
+        "can_you_verb",
+        "need_to_verb",
+        "after_clause"
+      ]
+    },
+    {
+      "id": "session_mt5y6een7p4irw",
+      "startedAt": "2026-08-23T15:09:29.784Z",
+      "endedAt": "2026-08-23T15:13:54.287Z",
+      "durationMin": 4,
+      "mode": "guided_translation",
+      "exercises": 5,
+      "correct": 2,
+      "newVocabulary": [
+        "walk",
+        "office"
+      ],
+      "patternsPracticed": [
+        "time_expression",
+        "can_you_verb",
+        "adverb_frequency_position"
+      ]
+    },
+    {
+      "id": "session_mt5xup2x1sb0ne",
+      "startedAt": "2026-08-23T15:04:04.266Z",
+      "endedAt": "2026-08-23T15:04:48.249Z",
+      "durationMin": 1,
+      "mode": "guided_translation",
+      "exercises": 2,
+      "correct": 2,
+      "newVocabulary": [],
+      "patternsPracticed": [
+        "can_you_verb"
+      ]
+    }
+  ],
+  "statistics": {
+    "totalExercises": 163,
+    "totalCorrect": 80,
+    "studyMinutes": 136,
+    "streakDays": 1,
+    "lastStudyDate": "2026-08-27",
+    "vocabularyScore": 0.29,
+    "patternScore": 0.42,
+    "thinkingScore": 0.53,
+    "writingScore": 0.46,
+    "guidedCompleted": 74
+  },
+  "settings": {
+    "maxHintsBeforeAnswer": 4,
+    "hintPenaltyPerLevel": 0.1,
+    "wordOrderFrequency": 0.25,
+    "correctionVerbosity": "normal",
+    "autoAdvanceDifficulty": false
+  },
+  "completedSentences": [
+    "bạn có thể giúp tôi không?",
+    "buổi sáng, tôi thức dậy lúc sáu giờ.",
+    "bạn có thể giúp tôi nấu ăn tối nay không?",
+    "cô ấy thường đi bộ đến công ty.",
+    "chúng tôi ăn sáng cùng nhau mỗi ngày.",
+    "anh có thể giúp tôi dọn dẹp nhà cửa không?",
+    "tôi cần đi chợ mua rau.",
+    "sau khi làm việc, anh ấy xem tivi để thư giãn.",
+    "bạn có thể giúp tôi mang túi này không?",
+    "trước khi đi ngủ, tôi thường đọc sách.",
+    "cuối tuần, gia đình tôi thường đi dạo trong công viên.",
+    "tôi thường mang laptop đến văn phòng vào buổi sáng.",
+    "bạn cần phải sạc điện thoại trước khi đi ngủ.",
+    "sau khi tắt máy tính, tôi luôn lau sạch bàn phím.",
+    "bạn có thể sửa cái máy in này không?",
+    "công ty tôi mua máy tính mới cho mỗi nhân viên.",
+    "tôi thường làm việc trên máy tính xách tay ở văn phòng.",
+    "chúng tôi cần mua một chiếc điện thoại mới ở chợ công nghệ.",
+    "trước khi đi làm, tôi luôn kiểm tra email trên điện thoại.",
+    "sau khi công ty lắp đặt wifi mới, mọi người làm việc nhanh hơn.",
+    "bạn có thể mang theo sạc dự phòng đến văn phòng vào sáng mai không?",
+    "sau khi làm việc xong, tôi muốn nghỉ ngơi một chút.",
+    "bạn có thể đổi cái sạc dự phòng này giúp tôi được không?",
+    "trước khi tôi ra ngoài, tôi cần sạc pin dự phòng của tôi.",
+    "gia đình tôi ăn rau mỗi ngày.",
+    "tôi thường xem tv lúc 8 giờ tối để thư giãn.",
+    "bạn có thể giúp tôi đổi điện thoại cũ của tôi không?",
+    "sau khi tôi làm xong bài tập, tôi muốn xem tv.",
+    "trước khi bạn ra ngoài, hãy nghỉ ngơi một chút.",
+    "tôi cần mua một cái sạc dự phòng mới ở chợ công nghệ.",
+    "chị tôi muốn thư giãn sau giờ làm mỗi buổi tối.",
+    "tôi thức dậy lúc 6 giờ sáng.",
+    "trước khi đi ra ngoài, tôi ăn sáng.",
+    "sau khi thức dậy, tôi dọn giường.",
+    "tôi cần sửa cái máy in.",
+    "cô ấy muốn nấu bữa sáng cho gia đình.",
+    "bạn mặc size nào?",
+    "trước khi đi ngủ, tôi kiểm tra cửa.",
+    "chúng tôi cần sửa máy in trước 9 giờ sáng.",
+    "anh ấy muốn đi ra ngoài sau khi ăn tối.",
+    "sau khi ăn sáng xong, cả gia đình tôi đi ra ngoài.",
+    "sự thành công của công ty phụ thuộc vào sự chăm chỉ của mọi nhân viên.",
+    "tôi ăn rau mỗi ngày vì nó tốt cho sức khỏe.",
+    "ngay bây giờ, cả gia đình tôi đang chuẩn bị bữa tối cùng nhau.",
+    "tối qua tôi đi ngủ rất muộn vì tôi làm việc chăm chỉ.",
+    "chúng tôi đã làm việc cùng nhau từ năm 2020.",
+    "cuối tuần sau, tôi sẽ ngủ sớm hơn để có sức khỏe tốt.",
+    "thành công phụ thuộc vào sự chăm chỉ, vì vậy anh ấy luôn cố gắng mỗi ngày.",
+    "hiện tại, cô ấy đang nấu rau cho bữa tối.",
+    "tuần trước, chúng tôi đã làm việc cùng nhau để hoàn thành dự án.",
+    "tôi đã biết cô ấy được năm năm rồi.",
+    "năm sau, công ty sẽ thành công nếu mọi người làm việc chăm chỉ.",
+    "anh ấy đi ngủ lúc 11 giờ tối mỗi ngày.",
+    "cô ấy luôn ăn rau vào mỗi bữa tối.",
+    "ngay bây giờ, tôi đang nấu rau cho bữa tối.",
+    "vào cuối tuần này, chúng tôi đang chuẩn bị cho kỳ thi quan trọng.",
+    "hôm qua, anh ấy đã thành công trong kỳ thi khó.",
+    "tuần trước, cô ấy đi ngủ muộn vì làm việc chăm chỉ.",
+    "tôi đã biết anh ấy từ năm 2020.",
+    "cô ấy đã làm việc chăm chỉ được ba năm rồi.",
+    "vào cuối tuần sau, tôi sẽ trồng rau trong vườn.",
+    "năm sau, anh ấy sẽ thành công nếu anh ấy tiếp tục làm việc chăm chỉ.",
+    "tôi thường đi bộ trong công viên mỗi buổi sáng.",
+    "thành công của cô ấy luôn luôn phụ thuộc vào gia đình cô ấy.",
+    "tôi đang sạc điện thoại của tôi ngay bây giờ.",
+    "gia đình tôi đang đi dạo trong công viên lúc này.",
+    "hôm qua, tôi đã sạc điện thoại của tôi ở công viên.",
+    "cô ấy đã đạt được thành công lớn vào năm ngoái.",
+    "tôi đã sống cùng gia đình tôi từ năm 2015.",
+    "anh ấy đã phụ thuộc vào gia đình anh ấy trong nhiều năm.",
+    "tuần tới, tôi sẽ đi bộ trong công viên với gia đình tôi.",
+    "cô ấy sẽ sạc điện thoại trước khi ra ngoài vào ngày mai.",
+    "chúng tôi cần lên một kế hoạch cẩn thận trước khi đưa cả gia đình đến công viên vào cuối tuần.",
+    "cô ấy nấu rau một cách nhanh chóng để cả nhà có thể ăn tối đúng giờ."
+  ],
+  "history": [
+    {
+      "id": "h_mtboprz5wgep14",
+      "at": "2026-08-27T15:35:39.233Z",
+      "mode": "guided_translation",
+      "title": "Cô ấy nấu rau một cách nhanh chóng để cả nhà có thể ăn tối đúng giờ.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Cô ấy nấu rau một cách nhanh chóng để cả nhà có thể ăn tối đúng giờ.",
+        "corrected": "She cooks vegetables quickly so the whole family can eat dinner on time.",
+        "userSentence": "She cooks vegetables quickly so the whole family  can eat dinner on time.",
+        "status": "correct",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mtbo12hor3ml26",
+      "at": "2026-08-27T15:16:26.460Z",
+      "mode": "guided_translation",
+      "title": "Cô ấy nấu rau một cách nhanh chóng để cả nhà có thể ăn tối đúng giờ.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Cô ấy nấu rau một cách nhanh chóng để cả nhà có thể ăn tối đúng giờ.",
+        "corrected": "She cooks vegetables quickly so the whole family can eat dinner on time.",
+        "userSentence": "She cooks vegetables quickly so the whole family can eat dinner on time.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "the whole family can eat dinner on time",
+            "explanation": "Vị trí này cần modal verb 'can' trước động từ chính 'eat' để diễn tả khả năng, không dùng thì hiện tại đơn thông thường."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtbn91h4vzj9u5",
+      "at": "2026-08-27T14:54:38.776Z",
+      "mode": "guided_translation",
+      "title": "Chúng tôi cần lên một kế hoạch cẩn thận trước khi đưa cả gia đình đến công viên vào cuối tuần.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Chúng tôi cần lên một kế hoạch cẩn thận trước khi đưa cả gia đình đến công viên vào cuối tuần.",
+        "corrected": "We need to prepare a careful plan before bringing the whole family to the park at the weekend.",
+        "userSentence": "We need to prepare a careful plan before bringing the whole family to the park at the weekend",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "need to prepare",
+            "explanation": "'Need' must be followed by 'to + verb' when it means 'cần làm gì'."
+          },
+          {
+            "type": "article",
+            "correction": "bringing the whole family",
+            "explanation": "Use 'the' before 'whole family' to specify a particular group."
+          },
+          {
+            "type": "preposition",
+            "correction": "on the weekend / at the weekend",
+            "explanation": "English uses 'on' or 'at' with 'weekend', not 'in'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt8wc4hiyttxa6",
+      "at": "2026-08-25T16:45:40.662Z",
+      "mode": "situation_thinking",
+      "title": "Ordering at a restaurant",
+      "correct": true,
+      "detail": {
+        "kind": "situation",
+        "title": "Ordering at a restaurant",
+        "goal": "Order a main dish and a drink, and ask at least one question (price, ingredients, or a recommendation).",
+        "transcript": [
+          {
+            "role": "character",
+            "text": "Good afternoon, welcome! Are you ready to order, or do you need a few minutes?"
+          },
+          {
+            "role": "learner",
+            "text": "Hi, Can you ask some question? How much for this fish food?"
+          },
+          {
+            "role": "character",
+            "text": "The grilled fish is $12. Would you like to order that, and what would you like to drink?"
+          },
+          {
+            "role": "learner",
+            "text": "Yep, Please for me a grilled fish. What drinks do you have?"
+          },
+          {
+            "role": "character",
+            "text": "Great choice! We have water, soda, juice, and iced tea. Which one would you like?"
+          },
+          {
+            "role": "learner",
+            "text": "Please I'll have a soda lemon."
+          },
+          {
+            "role": "character",
+            "text": "Perfect, one grilled fish and a lemon soda coming up! Would you like anything else, or shall I get that order started?"
+          }
+        ],
+        "goalAchieved": true
+      }
+    },
+    {
+      "id": "h_mt8w5eyivs7ywi",
+      "at": "2026-08-25T16:40:27.642Z",
+      "mode": "guided_translation",
+      "title": "Cô ấy sẽ sạc điện thoại trước khi ra ngoài vào ngày mai.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Cô ấy sẽ sạc điện thoại trước khi ra ngoài vào ngày mai.",
+        "corrected": "She will charge the phone before she goes out tomorrow.",
+        "userSentence": "She will charge the phone before she goes out tomorrow",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "vocabulary",
+            "correction": "tomorrow",
+            "explanation": "'Vào ngày mai' means 'tomorrow', not 'in the morning'. These express different times."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt8w38aqqudbzv",
+      "at": "2026-08-25T16:38:45.698Z",
+      "mode": "guided_translation",
+      "title": "Tuần tới, tôi sẽ đi bộ trong công viên với gia đình tôi.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Tuần tới, tôi sẽ đi bộ trong công viên với gia đình tôi.",
+        "corrected": "Next week, I will walk in the park with my family.",
+        "userSentence": "Next week, I'll walk in the park with my family.",
+        "status": "acceptable",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mt8w2ole2khrm1",
+      "at": "2026-08-25T16:38:20.162Z",
+      "mode": "guided_translation",
+      "title": "Anh ấy đã phụ thuộc vào gia đình anh ấy trong nhiều năm.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Anh ấy đã phụ thuộc vào gia đình anh ấy trong nhiều năm.",
+        "corrected": "He has depended on his family for many years.",
+        "userSentence": "He has depended on his family for many years.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "tense",
+            "correction": "has depended on",
+            "explanation": "Use present perfect for an action that started in the past and continues to now, especially with 'for/since'."
+          },
+          {
+            "type": "grammar",
+            "correction": "for many years",
+            "explanation": "'For' is needed before a duration (for + period of time)."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt8w10l24ska0i",
+      "at": "2026-08-25T16:37:02.390Z",
+      "mode": "guided_translation",
+      "title": "Tôi đã sống cùng gia đình tôi từ năm 2015.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Tôi đã sống cùng gia đình tôi từ năm 2015.",
+        "corrected": "I have lived with my family since 2015.",
+        "userSentence": "I have lived with my family since 2015.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "tense",
+            "correction": "I have lived with my family since 2015.",
+            "explanation": "'since 2015' báo hiệu hành động kéo dài đến hiện tại, cần dùng hiện tại hoàn thành (have + V3), không dùng quá khứ đơn (lived)."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt8vz2dzy1b3sp",
+      "at": "2026-08-25T16:35:31.415Z",
+      "mode": "guided_translation",
+      "title": "Cô ấy đã đạt được thành công lớn vào năm ngoái.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Cô ấy đã đạt được thành công lớn vào năm ngoái.",
+        "corrected": "She achieved big success last year.",
+        "userSentence": "She achieved  big success  last year.",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "spelling",
+            "correction": "achieved",
+            "explanation": "'achieve' + 'ed' = 'achieved' (double vowel pattern)."
+          },
+          {
+            "type": "article",
+            "correction": "great success",
+            "explanation": "'success' as an abstract achievement usually doesn't take 'the' unless referring to something specific already mentioned."
+          },
+          {
+            "type": "preposition",
+            "correction": "last year",
+            "explanation": "Time expressions like 'last year', 'last week' don't need a preposition before them."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt8vwx2lz8x5la",
+      "at": "2026-08-25T16:33:51.213Z",
+      "mode": "guided_translation",
+      "title": "Hôm qua, tôi đã sạc điện thoại của tôi ở công viên.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Hôm qua, tôi đã sạc điện thoại của tôi ở công viên.",
+        "corrected": "Yesterday, I charged my phone in the park.",
+        "userSentence": "Yesterday, I charged my phone in the park",
+        "status": "correct",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mt8vw2fz87e80t",
+      "at": "2026-08-25T16:33:11.519Z",
+      "mode": "guided_translation",
+      "title": "Gia đình tôi đang đi dạo trong công viên lúc này.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Gia đình tôi đang đi dạo trong công viên lúc này.",
+        "corrected": "My family is walking in the park at the moment.",
+        "userSentence": "My family is walking in the park now.",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "tense",
+            "correction": "is walking",
+            "explanation": "'family' là danh từ số ít -> dùng 'is' + V-ing để diễn tả hành động đang diễn ra ngay bây giờ."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt8vuzaokxwzvk",
+      "at": "2026-08-25T16:32:20.784Z",
+      "mode": "guided_translation",
+      "title": "Tôi đang sạc điện thoại của tôi ngay bây giờ.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Tôi đang sạc điện thoại của tôi ngay bây giờ.",
+        "corrected": "I'm charging my phone right now.",
+        "userSentence": "I'm charging my phone right now.",
+        "status": "correct",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mt8vu94zavzfph",
+      "at": "2026-08-25T16:31:46.883Z",
+      "mode": "guided_translation",
+      "title": "Thành công của cô ấy luôn luôn phụ thuộc vào gia đình cô ấy.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Thành công của cô ấy luôn luôn phụ thuộc vào gia đình cô ấy.",
+        "corrected": "Her success always depends on her family.",
+        "userSentence": "Her success always depends on her family.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "Her success always depends on her family.",
+            "explanation": "Câu trả lời bị bỏ dở, cần hoàn thành đầy đủ 3 phần: chủ ngữ, động từ, tân ngữ."
+          },
+          {
+            "type": "vocabulary",
+            "correction": "Her success",
+            "explanation": "'Her's' không tồn tại; 'succeed' là động từ, cần danh từ 'success' làm chủ ngữ."
+          },
+          {
+            "type": "tense",
+            "correction": "depends",
+            "explanation": "Chủ ngữ số ít (success) trong thì hiện tại đơn cần thêm 's' vào động từ."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt8vs629fzbu47",
+      "at": "2026-08-25T16:30:09.585Z",
+      "mode": "guided_translation",
+      "title": "Tôi thường đi bộ trong công viên mỗi buổi sáng.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Tôi thường đi bộ trong công viên mỗi buổi sáng.",
+        "corrected": "I usually walk in the park every morning.",
+        "userSentence": "I usually walk in the park every morning.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "I usually walk",
+            "explanation": "Động từ chỉ thêm 's/es' khi chủ ngữ là he/she/it (ngôi thứ 3 số ít). 'I' không cần thêm 's'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt8vmdrs2s4ypo",
+      "at": "2026-08-25T16:25:39.640Z",
+      "mode": "guided_translation",
+      "title": "Năm sau, anh ấy sẽ thành công nếu anh ấy tiếp tục làm việc chăm chỉ.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Năm sau, anh ấy sẽ thành công nếu anh ấy tiếp tục làm việc chăm chỉ.",
+        "corrected": "Next year, he will succeed if he continues to work hard.",
+        "userSentence": "Next year, he will succeed if he continues to work hard",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "if he continues to work hard / if he keeps working hard",
+            "explanation": "'Tiếp tục làm việc chăm chỉ' nghĩa là duy trì hành động đó, không chỉ đơn giản là 'làm việc chăm chỉ'. Cần dùng 'continue to + V' hoặc 'keep + V-ing'."
+          },
+          {
+            "type": "spelling",
+            "correction": "he",
+            "explanation": "Không viết hoa chủ ngữ giữa câu sau dấu phẩy, trừ khi là tên riêng."
+          },
+          {
+            "type": "tense",
+            "correction": "he continues",
+            "explanation": "With 'he/she/it' in present simple, add -s to the verb: continues."
+          },
+          {
+            "type": "grammar",
+            "correction": "to work",
+            "explanation": "After 'to' (infinitive), use the base form of the verb, not the -s form."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt8vj8z92o94sy",
+      "at": "2026-08-25T16:23:13.461Z",
+      "mode": "guided_translation",
+      "title": "Vào cuối tuần sau, tôi sẽ trồng rau trong vườn.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Vào cuối tuần sau, tôi sẽ trồng rau trong vườn.",
+        "corrected": "Next weekend, I will grow vegetables in the garden.",
+        "userSentence": "Next weekend, I'll grow vegetables in the garden",
+        "status": "acceptable",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mt8vi4lv1kzfq8",
+      "at": "2026-08-25T16:22:21.139Z",
+      "mode": "guided_translation",
+      "title": "Cô ấy đã làm việc chăm chỉ được ba năm rồi.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Cô ấy đã làm việc chăm chỉ được ba năm rồi.",
+        "corrected": "She has worked hard for three years.",
+        "userSentence": "She has worked hard for 3 years.",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "tense",
+            "correction": "has worked",
+            "explanation": "Khi dùng 'for + khoảng thời gian' để chỉ hành động kéo dài đến hiện tại, cần dùng thì hiện tại hoàn thành, không dùng quá khứ đơn."
+          },
+          {
+            "type": "naturalness",
+            "correction": "three years",
+            "explanation": "Trong văn viết trang trọng, nên viết số nhỏ bằng chữ."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt8vgx9ykfc7ka",
+      "at": "2026-08-25T16:21:24.982Z",
+      "mode": "guided_translation",
+      "title": "Tôi đã biết anh ấy từ năm 2020.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Tôi đã biết anh ấy từ năm 2020.",
+        "corrected": "I have known him since 2020.",
+        "userSentence": "I have known him since 2020.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "him",
+            "explanation": "'his' là tính từ/đại từ sở hữu, còn tân ngữ của động từ cần đại từ tân ngữ 'him'"
+          },
+          {
+            "type": "preposition",
+            "correction": "since 2020",
+            "explanation": "'since' dùng với mốc thời gian cụ thể (năm, ngày...), 'for' dùng với khoảng thời gian (ví dụ: for 3 years)"
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt8vezhuj94y88",
+      "at": "2026-08-25T16:19:54.546Z",
+      "mode": "guided_translation",
+      "title": "Tuần trước, cô ấy đi ngủ muộn vì làm việc chăm chỉ.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Tuần trước, cô ấy đi ngủ muộn vì làm việc chăm chỉ.",
+        "corrected": "Last week, she went to bed late because she worked hard.",
+        "userSentence": "Last week, she went to bed late because she worked hard.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "tense",
+            "correction": "went to bed",
+            "explanation": "'Gone' is the past participle (used with have/has); simple past of 'go' is 'went'."
+          },
+          {
+            "type": "grammar",
+            "correction": "because she worked hard",
+            "explanation": "Each clause needs its own subject in English."
+          },
+          {
+            "type": "spelling",
+            "correction": "she",
+            "explanation": "Chỉ viết hoa 'She' nếu bắt đầu câu mới; ở đây nó nằm sau dấu phẩy trong cùng một câu."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt8vdg3uq5ixbo",
+      "at": "2026-08-25T16:18:42.762Z",
+      "mode": "guided_translation",
+      "title": "Hôm qua, anh ấy đã thành công trong kỳ thi khó.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Hôm qua, anh ấy đã thành công trong kỳ thi khó.",
+        "corrected": "Yesterday, he succeeded in the hard exam.",
+        "userSentence": "Yesterday, he succeeded in the hard exam.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "Yesterday, he succeeded in the difficult exam.",
+            "explanation": "Compare your sentence with the corrected version."
+          },
+          {
+            "type": "tense",
+            "correction": "succeeded",
+            "explanation": "'Succeed' là động từ thường, quá khứ đơn là 'succeeded', không dùng với 'was'."
+          },
+          {
+            "type": "spelling",
+            "correction": "he",
+            "explanation": "Không viết hoa chủ ngữ giữa câu (sau dấu phẩy)."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt8vai1rumufqc",
+      "at": "2026-08-25T16:16:25.311Z",
+      "mode": "guided_translation",
+      "title": "Vào cuối tuần này, chúng tôi đang chuẩn bị cho kỳ thi quan trọng.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Vào cuối tuần này, chúng tôi đang chuẩn bị cho kỳ thi quan trọng.",
+        "corrected": "This weekend, we are preparing for the important exam.",
+        "userSentence": "This weekend, we are preparing for the important exam.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "tense",
+            "correction": "are preparing",
+            "explanation": "Hiện tại tiếp diễn dùng 'am/is/are + V-ing', không phải 'have + V-ing'."
+          },
+          {
+            "type": "article",
+            "correction": "This weekend",
+            "explanation": "Khi nói về tuần này, dùng 'this weekend' thay vì 'the weekend'."
+          },
+          {
+            "type": "preposition",
+            "correction": "for the important exam",
+            "explanation": "Cần thêm giới từ 'for' và mạo từ 'the' trước danh từ 'exam'."
+          },
+          {
+            "type": "spelling",
+            "correction": "we",
+            "explanation": "Không viết hoa từ giữa câu trừ khi là danh từ riêng hoặc đầu câu."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt8v76r989uy2w",
+      "at": "2026-08-25T16:13:50.709Z",
+      "mode": "guided_translation",
+      "title": "Ngay bây giờ, tôi đang nấu rau cho bữa tối.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Ngay bây giờ, tôi đang nấu rau cho bữa tối.",
+        "corrected": "Right now, I'm cooking vegetables for dinner.",
+        "userSentence": "Right now, I'm cooking vegetables for dinner.",
+        "status": "correct",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mt8v67b21l1vmc",
+      "at": "2026-08-25T16:13:04.766Z",
+      "mode": "guided_translation",
+      "title": "Cô ấy luôn ăn rau vào mỗi bữa tối.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Cô ấy luôn ăn rau vào mỗi bữa tối.",
+        "corrected": "She always eats vegetables at every dinner.",
+        "userSentence": "She always eats vegetables for dinner.",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "vocabulary",
+            "correction": "every dinner / at every dinner",
+            "explanation": "'mỗi' means 'every', which emphasizes repetition at each dinner, not just generally 'for dinner'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt8v5ctmxodh78",
+      "at": "2026-08-25T16:12:25.258Z",
+      "mode": "guided_translation",
+      "title": "Anh ấy đi ngủ lúc 11 giờ tối mỗi ngày.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Anh ấy đi ngủ lúc 11 giờ tối mỗi ngày.",
+        "corrected": "He goes to bed at 11 p.m. every day.",
+        "userSentence": "He goes to bed at 11 p.m. every day.",
+        "status": "correct",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mt8v2jt14e3o32",
+      "at": "2026-08-25T16:10:14.341Z",
+      "mode": "guided_translation",
+      "title": "Năm sau, công ty sẽ thành công nếu mọi người làm việc chăm chỉ.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Năm sau, công ty sẽ thành công nếu mọi người làm việc chăm chỉ.",
+        "corrected": "Next year, the company will succeed if everyone works hard.",
+        "userSentence": "Next year, the company will succeed if everyone works hard.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "spelling",
+            "correction": "succeed",
+            "explanation": "'succeed' has double 'c' and double 'e'."
+          },
+          {
+            "type": "spelling",
+            "correction": "everyone",
+            "explanation": "'everyone' meaning 'mọi người' is written as one word."
+          },
+          {
+            "type": "grammar",
+            "correction": "everyone works hard",
+            "explanation": "'everyone' is singular, so the verb needs -s in present simple: works."
+          },
+          {
+            "type": "naturalness",
+            "correction": "Next year, the company",
+            "explanation": "Don't capitalize 'the' in the middle of a sentence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt8v0tv2itdqr9",
+      "at": "2026-08-25T16:08:54.062Z",
+      "mode": "guided_translation",
+      "title": "Tôi đã biết cô ấy được năm năm rồi.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Tôi đã biết cô ấy được năm năm rồi.",
+        "corrected": "I have known her for five years.",
+        "userSentence": "I have known her for 5 years",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "I have known her",
+            "explanation": "Thì hiện tại hoàn thành cần trợ động từ 'have/has' trước động từ quá khứ phân từ (known)."
+          },
+          {
+            "type": "grammar",
+            "correction": "her",
+            "explanation": "Sau động từ cần dùng tân ngữ (object pronoun): her, không phải she."
+          },
+          {
+            "type": "preposition",
+            "correction": "for five years",
+            "explanation": "Dùng 'for' để chỉ khoảng thời gian kéo dài, không dùng 'about'."
+          },
+          {
+            "type": "spelling",
+            "correction": "five",
+            "explanation": "In formal English sentences, small numbers are usually written as words."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt8uyrtx1pywlh",
+      "at": "2026-08-25T16:07:18.117Z",
+      "mode": "guided_translation",
+      "title": "Tuần trước, chúng tôi đã làm việc cùng nhau để hoàn thành dự án.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Tuần trước, chúng tôi đã làm việc cùng nhau để hoàn thành dự án.",
+        "corrected": "Last week, we worked together to finish the project.",
+        "userSentence": "Last week, we worked together to finish the project",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "tense",
+            "correction": "worked",
+            "explanation": "'Last week' là mốc thời gian đã qua, cụ thể, nên dùng quá khứ đơn, không dùng hiện tại hoàn thành."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt8uxbutlvvjpk",
+      "at": "2026-08-25T16:06:10.757Z",
+      "mode": "guided_translation",
+      "title": "Hiện tại, cô ấy đang nấu rau cho bữa tối.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Hiện tại, cô ấy đang nấu rau cho bữa tối.",
+        "corrected": "Right now, she is cooking vegetables for dinner.",
+        "userSentence": "She is cooking vegetables for dinner right now",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "spelling",
+            "correction": "vegetables",
+            "explanation": "Lỗi chính tả nhỏ, kiểm tra lại thứ tự chữ cái."
+          },
+          {
+            "type": "tense",
+            "correction": "Right now,",
+            "explanation": "Bài yêu cầu dùng cụm 'Right now' để mở đầu câu theo hướng dẫn."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt8uw14jcdmrxh",
+      "at": "2026-08-25T16:05:10.195Z",
+      "mode": "guided_translation",
+      "title": "Thành công phụ thuộc vào sự chăm chỉ, vì vậy anh ấy luôn cố gắng mỗi ngày.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Thành công phụ thuộc vào sự chăm chỉ, vì vậy anh ấy luôn cố gắng mỗi ngày.",
+        "corrected": "Success depends on hard work, so he always tries hard every day.",
+        "userSentence": "Success depends on hard work, so he always tries hard every day",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "article",
+            "correction": "Success",
+            "explanation": "General/abstract nouns like 'success' don't take 'the' when speaking generally."
+          },
+          {
+            "type": "tense",
+            "correction": "depends",
+            "explanation": "Present simple needs -s for he/she/it/singular subjects like 'success'."
+          },
+          {
+            "type": "vocabulary",
+            "correction": "so",
+            "explanation": "'vì vậy' introduces a result, so English 'so' fits, not 'because' (which introduces a reason)."
+          },
+          {
+            "type": "tense",
+            "correction": "tries",
+            "explanation": "Present simple with 'he' needs -s: he tries."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt8uszqz8j32xy",
+      "at": "2026-08-25T16:02:48.443Z",
+      "mode": "guided_translation",
+      "title": "Cuối tuần sau, tôi sẽ ngủ sớm hơn để có sức khỏe tốt.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Cuối tuần sau, tôi sẽ ngủ sớm hơn để có sức khỏe tốt.",
+        "corrected": "Next weekend, I'll sleep earlier to have good health.",
+        "userSentence": "Next weekend, I'll go to sleep earlier to have good health",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "article",
+            "correction": "Next weekend",
+            "explanation": "Time expressions like 'next weekend', 'next week' don't take 'the' before them."
+          },
+          {
+            "type": "grammar",
+            "correction": "to be good for my health / for good health",
+            "explanation": "You need a verb (be) or should use a noun phrase (good health) - 'to good' alone is not grammatical."
+          },
+          {
+            "type": "grammar",
+            "correction": "to have good health",
+            "explanation": "'To' here introduces a purpose, so you need a verb after it: 'to have good health'. Alternatively, use 'for good health' without a verb."
+          },
+          {
+            "type": "grammar",
+            "correction": "Next weekend, I will sleep earlier to have good health.",
+            "explanation": "Compare your sentence with the corrected version."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt8up8kjlbpiu8",
+      "at": "2026-08-25T15:59:53.251Z",
+      "mode": "guided_translation",
+      "title": "Chúng tôi đã làm việc cùng nhau từ năm 2020.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Chúng tôi đã làm việc cùng nhau từ năm 2020.",
+        "corrected": "We have worked together since 2020.",
+        "userSentence": "We have worked together since 2020",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "tense",
+            "correction": "have worked",
+            "explanation": "'since 2020' báo hiệu cần dùng hiện tại hoàn thành, không dùng quá khứ đơn."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt8ukwzanp39bw",
+      "at": "2026-08-25T15:56:31.606Z",
+      "mode": "guided_translation",
+      "title": "Tối qua tôi đi ngủ rất muộn vì tôi làm việc chăm chỉ.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Tối qua tôi đi ngủ rất muộn vì tôi làm việc chăm chỉ.",
+        "corrected": "Last night, I went to bed late because I worked hard.",
+        "userSentence": "Last night I went to bed late because I worked hard",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "vocabulary",
+            "correction": "Last night",
+            "explanation": "'Tối qua' before sleeping is usually 'last night', not 'evening'."
+          },
+          {
+            "type": "tense",
+            "correction": "I went to bed",
+            "explanation": "Past simple requires 'went' (not 'go'), and the fixed phrase is 'go to bed', not 'go to slept'."
+          },
+          {
+            "type": "word_order",
+            "correction": "I worked hard",
+            "explanation": "Adverb 'hard' comes after the verb: 'worked hard', and the verb must be past tense."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt8uifex6q6opa",
+      "at": "2026-08-25T15:54:35.529Z",
+      "mode": "guided_translation",
+      "title": "Ngay bây giờ, cả gia đình tôi đang chuẩn bị bữa tối cùng nhau.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Ngay bây giờ, cả gia đình tôi đang chuẩn bị bữa tối cùng nhau.",
+        "corrected": "Right now, my whole family is preparing dinner together.",
+        "userSentence": "my whole family is preparing dinner together right now",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "is preparing",
+            "explanation": "Present continuous requires 'is/am/are' + V-ing. The subject 'my whole family' is singular, so use 'is'."
+          },
+          {
+            "type": "preposition",
+            "correction": "preparing dinner",
+            "explanation": "'Prepare' takes a direct object without 'for' when it means to make something (e.g., prepare dinner, prepare a meal)."
+          },
+          {
+            "type": "naturalness",
+            "correction": "Right now",
+            "explanation": "Instruction specifically asked for 'right now' as the time expression."
+          },
+          {
+            "type": "spelling",
+            "correction": "my whole family",
+            "explanation": "No need to capitalize 'my' mid-sentence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt8ufidf1x2p1w",
+      "at": "2026-08-25T15:52:19.395Z",
+      "mode": "guided_translation",
+      "title": "Tôi ăn rau mỗi ngày vì nó tốt cho sức khỏe.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Tôi ăn rau mỗi ngày vì nó tốt cho sức khỏe.",
+        "corrected": "I eat vegetables every day because it's good for my health.",
+        "userSentence": "I eat vegetables every day because it's good for health",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "tense",
+            "correction": "I eat",
+            "explanation": "Với chủ ngữ 'I', động từ không thêm -s trong thì hiện tại đơn. Chỉ thêm -s/-es với he/she/it."
+          },
+          {
+            "type": "vocabulary",
+            "correction": "vegetables",
+            "explanation": "Nên dùng số nhiều 'vegetables' vì nói chung về rau củ."
+          },
+          {
+            "type": "spelling",
+            "correction": "health",
+            "explanation": "Lỗi chính tả nhỏ, thiếu chữ 'h' cuối."
+          },
+          {
+            "type": "naturalness",
+            "correction": "good for my health",
+            "explanation": "Trong tiếng Anh, thường dùng tính từ sở hữu (my/your/our) trước 'health' để câu tự nhiên hơn."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt7h5845qisa18",
+      "at": "2026-08-24T16:52:38.357Z",
+      "mode": "guided_translation",
+      "title": "Sự thành công của công ty phụ thuộc vào sự chăm chỉ của mọi nhân viên.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Sự thành công của công ty phụ thuộc vào sự chăm chỉ của mọi nhân viên.",
+        "corrected": "The success of the company depends on the hard work of every employee.",
+        "userSentence": "The success of the company depends on the hard work of every employee",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "vocabulary",
+            "correction": "success",
+            "explanation": "'Succeed' is a verb; the noun form is 'success'."
+          },
+          {
+            "type": "grammar",
+            "correction": "depends on",
+            "explanation": "You need the verb 'depend' with 's' for third person singular, plus preposition 'on': 'depends on'."
+          },
+          {
+            "type": "vocabulary",
+            "correction": "the hard work",
+            "explanation": "'Hard work' is an adjective + noun combination, not one word. Add the article 'the' before it."
+          },
+          {
+            "type": "word_order",
+            "correction": "the hard work of every employee",
+            "explanation": "In English, adjectives usually come before nouns: 'hard' + 'work', not 'work' + 'hard'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt7deql2v4pinr",
+      "at": "2026-08-24T15:08:03.734Z",
+      "mode": "guided_translation",
+      "title": "Sau khi ăn sáng xong, cả gia đình tôi đi ra ngoài.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Sau khi ăn sáng xong, cả gia đình tôi đi ra ngoài.",
+        "corrected": "After eating breakfast, my whole family goes out.",
+        "userSentence": "After eating breakfast, my whole family goes out",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "goes out",
+            "explanation": "'Family' as a single unit takes a singular verb in this context (goes)."
+          },
+          {
+            "type": "vocabulary",
+            "correction": "my whole family / my entire family",
+            "explanation": "'Cả gia đình' emphasizes the whole family, so you need 'whole' or 'entire'."
+          },
+          {
+            "type": "word_order",
+            "correction": "my whole family",
+            "explanation": "Possessive adjectives (my, your, his...) come before descriptive words like 'whole' or 'entire'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt7dcpzut1il1k",
+      "at": "2026-08-24T15:06:29.658Z",
+      "mode": "guided_translation",
+      "title": "Anh ấy muốn đi ra ngoài sau khi ăn tối.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Anh ấy muốn đi ra ngoài sau khi ăn tối.",
+        "corrected": "He wants to go out after eating dinner.",
+        "userSentence": "He wants to go out after eating dinner",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "after eating dinner / after he eats dinner",
+            "explanation": "Sau 'after' cần V-ing hoặc chủ ngữ + động từ chia, không dùng động từ nguyên mẫu."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt7dbqt7u4p0mr",
+      "at": "2026-08-24T15:05:44.059Z",
+      "mode": "guided_translation",
+      "title": "Chúng tôi cần sửa máy in trước 9 giờ sáng.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Chúng tôi cần sửa máy in trước 9 giờ sáng.",
+        "corrected": "We need to fix the printer before 9 a.m.",
+        "userSentence": "We need to fix the printer before 9 a.m.",
+        "status": "correct",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mt7daucpif1q2d",
+      "at": "2026-08-24T15:05:01.993Z",
+      "mode": "guided_translation",
+      "title": "Trước khi đi ngủ, tôi kiểm tra cửa.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Trước khi đi ngủ, tôi kiểm tra cửa.",
+        "corrected": "Before I go to bed, I check the door.",
+        "userSentence": "Before I go to sleep, I check the door.",
+        "status": "acceptable",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mt7d9qskp4qk2i",
+      "at": "2026-08-24T15:04:10.724Z",
+      "mode": "guided_translation",
+      "title": "Bạn mặc size nào?",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Bạn mặc size nào?",
+        "corrected": "What size do you wear?",
+        "userSentence": "What size do you wear?",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "What size do you wear?",
+            "explanation": "Câu hỏi thì hiện tại đơn với động từ thường cần trợ động từ 'do/does' trước chủ ngữ."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt7d8rqp35t9bl",
+      "at": "2026-08-24T15:03:25.297Z",
+      "mode": "guided_translation",
+      "title": "Cô ấy muốn nấu bữa sáng cho gia đình.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Cô ấy muốn nấu bữa sáng cho gia đình.",
+        "corrected": "She wants to cook breakfast for her family.",
+        "userSentence": "She wants to cook breakfast for her family.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "article",
+            "correction": "breakfast",
+            "explanation": "Meal names (breakfast, lunch, dinner) don't use 'the' in general statements."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt7d7nuan28flu",
+      "at": "2026-08-24T15:02:33.586Z",
+      "mode": "guided_translation",
+      "title": "Tôi cần sửa cái máy in.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Tôi cần sửa cái máy in.",
+        "corrected": "I need to fix the printer.",
+        "userSentence": "I need to fix the printer.",
+        "status": "correct",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mt7d7aehw4hxcz",
+      "at": "2026-08-24T15:02:16.169Z",
+      "mode": "guided_translation",
+      "title": "Sau khi thức dậy, tôi dọn giường.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Sau khi thức dậy, tôi dọn giường.",
+        "corrected": "After I wake up, I make my bed.",
+        "userSentence": "After I wake up, I make my bed",
+        "status": "correct",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mt7d68nf3tti4m",
+      "at": "2026-08-24T15:01:27.243Z",
+      "mode": "guided_translation",
+      "title": "Sau khi thức dậy, tôi dọn giường.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Sau khi thức dậy, tôi dọn giường.",
+        "corrected": "After I wake up, I make my bed.",
+        "userSentence": "After I wake up, I make my bed",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "vocabulary",
+            "correction": "make my bed",
+            "explanation": "'Make the bed' là cụm từ cố định (collocation) để chỉ hành động dọn/xếp giường sau khi ngủ dậy, không dùng 'clean' ở đây."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt7d4owtwt15rb",
+      "at": "2026-08-24T15:00:15.005Z",
+      "mode": "guided_translation",
+      "title": "Trước khi đi ra ngoài, tôi ăn sáng.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Trước khi đi ra ngoài, tôi ăn sáng.",
+        "corrected": "Before I go out, I eat breakfast.",
+        "userSentence": "Before I go out, I eat breakfast",
+        "status": "correct",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mt7d494fyxy2dm",
+      "at": "2026-08-24T14:59:54.543Z",
+      "mode": "guided_translation",
+      "title": "Tôi thức dậy lúc 6 giờ sáng.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Tôi thức dậy lúc 6 giờ sáng.",
+        "corrected": "I wake up at 6 a.m.",
+        "userSentence": "I wake up at 6 a.m.",
+        "status": "correct",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mt7d17hbpcahgc",
+      "at": "2026-08-24T14:57:32.447Z",
+      "mode": "guided_translation",
+      "title": "Chị tôi muốn thư giãn sau giờ làm mỗi buổi tối.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Chị tôi muốn thư giãn sau giờ làm mỗi buổi tối.",
+        "corrected": "My sister wants to relax after work every evening.",
+        "userSentence": "My sister wants to relax after work every night",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "tense",
+            "correction": "sister wants",
+            "explanation": "With third person singular subjects (she/he/it/your sister), add -s to the verb: 'wants to relax'."
+          },
+          {
+            "type": "vocabulary",
+            "correction": "every evening",
+            "explanation": "'Buổi tối' thường dịch là 'evening' (khoảng 6-10pm) thay vì 'night' (khuya hơn)."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt7d00isvqcgbp",
+      "at": "2026-08-24T14:56:36.772Z",
+      "mode": "guided_translation",
+      "title": "Tôi cần mua một cái sạc dự phòng mới ở chợ công nghệ.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Tôi cần mua một cái sạc dự phòng mới ở chợ công nghệ.",
+        "corrected": "I need to buy a new power bank at the technology market.",
+        "userSentence": "I need to buy a new power bank in the technology market",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "preposition",
+            "correction": "at the technology market",
+            "explanation": "With markets and specific locations, 'at' is more commonly used than 'in' in English."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt7cz5w5v2246w",
+      "at": "2026-08-24T14:55:57.077Z",
+      "mode": "guided_translation",
+      "title": "Trước khi bạn ra ngoài, hãy nghỉ ngơi một chút.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Trước khi bạn ra ngoài, hãy nghỉ ngơi một chút.",
+        "corrected": "Before you go out, take a rest.",
+        "userSentence": "Before you go out, please take a rest.",
+        "status": "correct",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mt7cyjlq7x9bwc",
+      "at": "2026-08-24T14:55:28.190Z",
+      "mode": "guided_translation",
+      "title": "Sau khi tôi làm xong bài tập, tôi muốn xem TV.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Sau khi tôi làm xong bài tập, tôi muốn xem TV.",
+        "corrected": "After I finish my homework, I want to watch TV.",
+        "userSentence": "After I finish exercises, I want to watch TV",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "spelling",
+            "correction": "exercises",
+            "explanation": "Spelling: 'exercises' has an 's' after 'exer', not 'excer'."
+          },
+          {
+            "type": "word_order",
+            "correction": "After I finish my homework, I want to watch TV.",
+            "explanation": "Add a comma after the introductory clause and a period at the end."
+          },
+          {
+            "type": "vocabulary",
+            "correction": "finish my homework",
+            "explanation": "‘Bài tập’ in this context usually means ‘homework’; also add the possessive ‘my’ for natural English."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt7cw7ntmwuv16",
+      "at": "2026-08-24T14:53:39.401Z",
+      "mode": "guided_translation",
+      "title": "Bạn có thể giúp tôi đổi điện thoại cũ của tôi không?",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Bạn có thể giúp tôi đổi điện thoại cũ của tôi không?",
+        "corrected": "Can you help me exchange my old phone?",
+        "userSentence": "Can you help me exchange my old phone?",
+        "status": "correct",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mt7cvmnm3uchp7",
+      "at": "2026-08-24T14:53:12.178Z",
+      "mode": "guided_translation",
+      "title": "Tôi thường xem TV lúc 8 giờ tối để thư giãn.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Tôi thường xem TV lúc 8 giờ tối để thư giãn.",
+        "corrected": "I usually watch TV at 8 p.m. to relax.",
+        "userSentence": "I usually watch TV at 8 p.m. to relax",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "tense",
+            "correction": "I usually watch TV",
+            "explanation": "Chủ ngữ 'I' luôn đi với động từ nguyên mẫu (không thêm 's'), khác với 'he/she/it'."
+          },
+          {
+            "type": "spelling",
+            "correction": "8 p.m.",
+            "explanation": "'p.m.' cần dấu chấm sau cả hai chữ cái."
+          },
+          {
+            "type": "naturalness",
+            "correction": "at 8 p.m.",
+            "explanation": "24-hour format (20:00) and 12-hour format with a.m./p.m. shouldn't be combined. Choose one: 'at 8 p.m.' or 'at 20:00'."
+          },
+          {
+            "type": "spelling",
+            "correction": "...to relax.",
+            "explanation": "Nhớ thêm dấu chấm cuối câu."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt7cte3vm1n324",
+      "at": "2026-08-24T14:51:27.787Z",
+      "mode": "guided_translation",
+      "title": "Gia đình tôi ăn rau mỗi ngày.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Gia đình tôi ăn rau mỗi ngày.",
+        "corrected": "My family eats vegetables every day.",
+        "userSentence": "My family eats vegetables every day.",
+        "status": "correct",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mt7csmjgz820j4",
+      "at": "2026-08-24T14:50:52.060Z",
+      "mode": "guided_translation",
+      "title": "Trước khi tôi ra ngoài, tôi cần sạc pin dự phòng của tôi.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Trước khi tôi ra ngoài, tôi cần sạc pin dự phòng của tôi.",
+        "corrected": "Before I go out, I need to charge my power bank.",
+        "userSentence": "Before I go out, I need to charge my power bank",
+        "status": "correct",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mt7crwylydbxit",
+      "at": "2026-08-24T14:50:18.909Z",
+      "mode": "guided_translation",
+      "title": "Bạn có thể đổi cái sạc dự phòng này giúp tôi được không?",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Bạn có thể đổi cái sạc dự phòng này giúp tôi được không?",
+        "corrected": "Can you exchange this power bank for me?",
+        "userSentence": "Can you exchange this power bank for me?",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "word_order",
+            "correction": "Can you exchange...?",
+            "explanation": "Trong câu hỏi với 'can', trợ động từ 'can' phải đứng trước chủ ngữ: Can + subject + verb?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mt7cqwkz15jq4j",
+      "at": "2026-08-24T14:49:31.763Z",
+      "mode": "guided_translation",
+      "title": "Sau khi làm việc xong, tôi muốn nghỉ ngơi một chút.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Sau khi làm việc xong, tôi muốn nghỉ ngơi một chút.",
+        "corrected": "After finishing work, I want to take a rest.",
+        "userSentence": "After finishing work, I want to take a rest",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "After I finish work / After finishing work",
+            "explanation": "'After' cần chủ ngữ + động từ chia (I finish) hoặc động từ dạng V-ing (finishing), không dùng động từ nguyên mẫu trực tiếp."
+          },
+          {
+            "type": "spelling",
+            "correction": "...take a rest.",
+            "explanation": "Thiếu dấu chấm câu cuối câu."
+          }
+        ]
+      }
+    }
+  ],
+  "createdAt": "2026-08-23T14:55:05.287Z",
+  "updatedAt": "2026-08-28T01:58:33.606Z"
+}
