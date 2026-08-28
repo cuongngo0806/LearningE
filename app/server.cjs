@@ -28726,7 +28726,15 @@ async function pull() {
   try {
     await git(cfg, ["fetch", cfg.remote, cfg.branch]);
     await git(cfg, ["merge", "--ff-only", `${cfg.remote}/${cfg.branch}`]);
-    const raw = await import_promises.default.readFile(filePath(cfg), "utf8");
+    let raw;
+    try {
+      raw = await import_promises.default.readFile(filePath(cfg), "utf8");
+    } catch {
+      return {
+        ok: false,
+        error: "No learning data on git yet. Study on your main machine and press Push first."
+      };
+    }
     return { ok: true, state: JSON.parse(raw), updatedAt: readUpdatedAt(raw) };
   } catch (e) {
     return { ok: false, error: gitMessage(e) };
