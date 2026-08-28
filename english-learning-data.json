@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "updatedAt": "2026-08-27T17:00:00.000Z",
+  "profile": {
+    "englishLevel": "A2",
+    "targetToeic": 800
+  },
+  "statistics": {
+    "totalExercises": 74,
+    "guidedCompleted": 72
+  },
+  "vocabulary": {},
+  "patterns": {},
+  "mistakes": {},
+  "sessions": [],
+  "history": [],
+  "completedSentences": [],
+  "settings": {}
+}
