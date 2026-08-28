@@ -348,27 +348,29 @@
         "live together",
         "study together"
       ],
-      "mastery": 0.5499999999999999,
-      "encounters": 10,
-      "correctUses": 10,
+      "mastery": 0.65,
+      "encounters": 12,
+      "correctUses": 12,
       "wrongUses": 0,
-      "recognitionMastery": 0.6000000000000001,
+      "recognitionMastery": 0.7200000000000002,
       "productionMastery": 1,
       "firstSeen": "2026-08-23T15:26:23.326Z",
-      "lastSeen": "2026-08-25T16:07:18.117Z",
-      "nextReview": "2026-08-29T16:07:18.117Z",
+      "lastSeen": "2026-08-28T10:51:09.141Z",
+      "nextReview": "2026-09-01T10:51:09.141Z",
       "contexts": [
         "Chúng tôi ăn sáng cùng nhau mỗi ngày.",
         "Ngay bây giờ, cả gia đình tôi đang chuẩn bị bữa tối cùng nhau.",
         "Chúng tôi đã làm việc cùng nhau từ năm 2020.",
-        "Tuần trước, chúng tôi đã làm việc cùng nhau để hoàn thành dự án."
+        "Tuần trước, chúng tôi đã làm việc cùng nhau để hoàn thành dự án.",
+        "Tuần tới, chúng tôi sẽ gọi món mới cùng nhau.",
+        "Tuần tới, gia đình tôi sẽ đến nhà hàng cùng nhau."
       ]
     },
     "clean": {
       "word": "clean",
       "meaning": "dọn dẹp",
       "partOfSpeech": "verb",
-      "level": "A2",
+      "level": "A1",
       "examples": [
         "I need to clean my room.",
         "I clean the keyboard every day.",
@@ -379,18 +381,21 @@
         "clean the table",
         "clean the house"
       ],
-      "mastery": 0.2,
-      "encounters": 3,
-      "correctUses": 3,
+      "mastery": 0.35,
+      "encounters": 7,
+      "correctUses": 6,
       "wrongUses": 0,
-      "recognitionMastery": 0.18,
-      "productionMastery": 0.36,
+      "recognitionMastery": 0.41,
+      "productionMastery": 0.72,
       "firstSeen": "2026-08-23T15:27:20.288Z",
-      "lastSeen": "2026-08-23T15:41:09.631Z",
-      "nextReview": "2026-08-24T15:41:09.631Z",
+      "lastSeen": "2026-08-28T10:41:02.604Z",
+      "nextReview": "2026-08-30T10:41:02.604Z",
       "contexts": [
         "Anh có thể giúp tôi dọn dẹp nhà cửa không?",
-        "Sau khi tắt máy tính, tôi luôn lau sạch bàn phím."
+        "Sau khi tắt máy tính, tôi luôn lau sạch bàn phím.",
+        "Mỗi ngày, anh ấy dọn sạch thực đơn cũ.",
+        "Ngay bây giờ, gia đình tôi đang dọn dẹp nhà bếp cẩn thận.",
+        "Tuần tới, tôi sẽ dọn sạch thực đơn cũ một cách nhanh chóng."
       ]
     },
     "market": {
@@ -524,7 +529,7 @@
       "word": "carry",
       "meaning": "mang, vác (theo người)",
       "partOfSpeech": "verb",
-      "level": "B1",
+      "level": "A2",
       "examples": [
         "Can you carry this box for me?",
         "She carried the baby upstairs.",
@@ -538,19 +543,21 @@
         "carry a laptop",
         "carry a power bank"
       ],
-      "mastery": 0.2,
-      "encounters": 9,
-      "correctUses": 4,
-      "wrongUses": 5,
-      "recognitionMastery": 0.24,
-      "productionMastery": 0.43,
+      "mastery": 0.25,
+      "encounters": 15,
+      "correctUses": 7,
+      "wrongUses": 7,
+      "recognitionMastery": 0.47,
+      "productionMastery": 0.6900000000000001,
       "firstSeen": "2026-08-23T15:30:35.495Z",
-      "lastSeen": "2026-08-23T15:58:51.572Z",
-      "nextReview": "2026-08-24T15:58:51.572Z",
+      "lastSeen": "2026-08-28T10:57:54.444Z",
+      "nextReview": "2026-08-29T10:57:54.444Z",
       "contexts": [
         "Bạn có thể giúp tôi mang túi này không?",
         "Tôi thường mang laptop đến văn phòng vào buổi sáng.",
-        "Bạn có thể mang theo sạc dự phòng đến văn phòng vào sáng mai không?"
+        "Bạn có thể mang theo sạc dự phòng đến văn phòng vào sáng mai không?",
+        "Bây giờ, anh ấy đang mang thực đơn.",
+        "Tuần tới, mọi người sẽ mang thức ăn đến công viên."
       ]
     },
     "read": {
@@ -686,7 +693,7 @@
       "word": "family",
       "meaning": "gia đình",
       "partOfSpeech": "noun",
-      "level": "A2",
+      "level": "A1",
       "examples": [
         "My family is happy.",
         "I live with my family.",
@@ -700,14 +707,14 @@
         "start a family"
       ],
       "mastery": 1,
-      "encounters": 21,
-      "correctUses": 20,
+      "encounters": 23,
+      "correctUses": 21,
       "wrongUses": 0,
       "recognitionMastery": 1,
       "productionMastery": 1,
       "firstSeen": "2026-08-23T15:34:07.316Z",
-      "lastSeen": "2026-08-27T15:35:39.232Z",
-      "nextReview": "2026-09-26T15:35:39.232Z",
+      "lastSeen": "2026-08-28T10:34:40.990Z",
+      "nextReview": "2026-09-27T10:34:40.990Z",
       "contexts": [
         "Cuối tuần, gia đình tôi thường đi dạo trong công viên.",
         "Thành công của cô ấy luôn luôn phụ thuộc vào gia đình cô ấy.",
@@ -733,22 +740,23 @@
         "at the park",
         "in the park"
       ],
-      "mastery": 0.6,
-      "encounters": 11,
-      "correctUses": 11,
+      "mastery": 0.65,
+      "encounters": 12,
+      "correctUses": 12,
       "wrongUses": 0,
-      "recognitionMastery": 0.6600000000000001,
+      "recognitionMastery": 0.7200000000000002,
       "productionMastery": 1,
       "firstSeen": "2026-08-23T15:34:07.316Z",
-      "lastSeen": "2026-08-27T14:54:38.775Z",
-      "nextReview": "2026-08-31T14:54:38.775Z",
+      "lastSeen": "2026-08-28T10:21:29.016Z",
+      "nextReview": "2026-09-01T10:21:29.016Z",
       "contexts": [
         "Cuối tuần, gia đình tôi thường đi dạo trong công viên.",
         "Tôi thường đi bộ trong công viên mỗi buổi sáng.",
         "Gia đình tôi đang đi dạo trong công viên lúc này.",
         "Hôm qua, tôi đã sạc điện thoại của tôi ở công viên.",
         "Tuần tới, tôi sẽ đi bộ trong công viên với gia đình tôi.",
-        "Chúng tôi cần lên một kế hoạch cẩn thận trước khi đưa cả gia đình đến công viên vào cuối tuần."
+        "Chúng tôi cần lên một kế hoạch cẩn thận trước khi đưa cả gia đình đến công viên vào cuối tuần.",
+        "Hôm qua, tôi đã uống một ly nước ở công viên."
       ]
     },
     "charge": {
@@ -1072,19 +1080,21 @@
         "big success"
       ],
       "mastery": 0.05,
-      "encounters": 10,
-      "correctUses": 5,
-      "wrongUses": 4,
-      "recognitionMastery": 0.35,
-      "productionMastery": 0.45,
+      "encounters": 14,
+      "correctUses": 6,
+      "wrongUses": 7,
+      "recognitionMastery": 0.41,
+      "productionMastery": 0.42000000000000004,
       "firstSeen": "2026-08-24T16:51:19.250Z",
-      "lastSeen": "2026-08-25T16:35:31.415Z",
-      "nextReview": "2026-08-25T16:35:31.415Z",
+      "lastSeen": "2026-08-28T10:54:31.674Z",
+      "nextReview": "2026-08-28T10:54:31.674Z",
       "contexts": [
         "Sự thành công của công ty phụ thuộc vào sự chăm chỉ của mọi nhân viên.",
         "Thành công phụ thuộc vào sự chăm chỉ, vì vậy anh ấy luôn cố gắng mỗi ngày.",
         "Thành công của cô ấy luôn luôn phụ thuộc vào gia đình cô ấy.",
-        "Cô ấy đã đạt được thành công lớn vào năm ngoái."
+        "Cô ấy đã đạt được thành công lớn vào năm ngoái.",
+        "Cô ấy đã thành công kể từ năm 2020.",
+        "Sự thành công đến mỗi ngày khi bạn làm việc chăm chỉ."
       ]
     },
     "depend on": {
@@ -1235,21 +1245,24 @@
         "study hard",
         "try hard"
       ],
-      "mastery": 0.65,
-      "encounters": 14,
-      "correctUses": 13,
+      "mastery": 1,
+      "encounters": 22,
+      "correctUses": 21,
       "wrongUses": 1,
-      "recognitionMastery": 0.7800000000000002,
+      "recognitionMastery": 1,
       "productionMastery": 1,
       "firstSeen": "2026-08-25T16:10:14.341Z",
-      "lastSeen": "2026-08-25T16:25:39.640Z",
-      "nextReview": "2026-08-29T16:25:39.640Z",
+      "lastSeen": "2026-08-28T10:54:31.674Z",
+      "nextReview": "2026-09-27T10:54:31.674Z",
       "contexts": [
         "Năm sau, công ty sẽ thành công nếu mọi người làm việc chăm chỉ.",
         "Hôm qua, anh ấy đã thành công trong kỳ thi khó.",
         "Tuần trước, cô ấy đi ngủ muộn vì làm việc chăm chỉ.",
         "Cô ấy đã làm việc chăm chỉ được ba năm rồi.",
-        "Năm sau, anh ấy sẽ thành công nếu anh ấy tiếp tục làm việc chăm chỉ."
+        "Năm sau, anh ấy sẽ thành công nếu anh ấy tiếp tục làm việc chăm chỉ.",
+        "Anh ấy đã làm việc chăm chỉ ở nhà hàng này được 5 năm rồi.",
+        "Cô ấy đã làm việc chăm chỉ trong năm năm.",
+        "Sự thành công đến mỗi ngày khi bạn làm việc chăm chỉ."
       ]
     },
     "menu": {
@@ -1259,17 +1272,21 @@
       "level": "A2",
       "examples": [],
       "collocations": [],
-      "mastery": 0,
-      "encounters": 1,
-      "correctUses": 0,
+      "mastery": 0.39999999999999997,
+      "encounters": 8,
+      "correctUses": 7,
       "wrongUses": 0,
-      "recognitionMastery": 0.05,
-      "productionMastery": 0,
+      "recognitionMastery": 0.47,
+      "productionMastery": 0.84,
       "firstSeen": "2026-08-25T16:42:58.181Z",
-      "lastSeen": "2026-08-25T16:42:58.181Z",
-      "nextReview": "2026-08-25T16:42:58.181Z",
+      "lastSeen": "2026-08-28T10:58:53.809Z",
+      "nextReview": "2026-08-30T10:58:53.809Z",
       "contexts": [
-        "Ordering at a restaurant"
+        "Ordering at a restaurant",
+        "Mỗi ngày, anh ấy dọn sạch thực đơn cũ.",
+        "Tuần tới, tôi sẽ dọn sạch thực đơn cũ một cách nhanh chóng.",
+        "Bây giờ, anh ấy đang mang thực đơn.",
+        "Hôm qua, gia đình tôi đã xem thực đơn tại nhà hàng."
       ]
     },
     "dish": {
@@ -1279,37 +1296,44 @@
       "level": "A2",
       "examples": [],
       "collocations": [],
-      "mastery": 0,
-      "encounters": 1,
-      "correctUses": 0,
-      "wrongUses": 0,
-      "recognitionMastery": 0.05,
-      "productionMastery": 0,
+      "mastery": 0.2,
+      "encounters": 5,
+      "correctUses": 3,
+      "wrongUses": 1,
+      "recognitionMastery": 0.22999999999999998,
+      "productionMastery": 0.36,
       "firstSeen": "2026-08-25T16:42:58.181Z",
-      "lastSeen": "2026-08-25T16:42:58.181Z",
-      "nextReview": "2026-08-25T16:42:58.181Z",
+      "lastSeen": "2026-08-28T10:27:32.107Z",
+      "nextReview": "2026-08-29T10:27:32.107Z",
       "contexts": [
-        "Ordering at a restaurant"
+        "Ordering at a restaurant",
+        "Bây giờ, cô ấy đang gọi món nhanh chóng.",
+        "Tuần tới, chúng tôi sẽ gọi món mới cùng nhau."
       ]
     },
     "drink": {
       "word": "drink",
       "meaning": "đồ uống",
       "partOfSpeech": "noun",
-      "level": "A2",
-      "examples": [],
+      "level": "A1",
+      "examples": [
+        "I drank coffee this morning."
+      ],
       "collocations": [],
-      "mastery": 0.15000000000000002,
-      "encounters": 2,
-      "correctUses": 2,
-      "wrongUses": 0,
-      "recognitionMastery": 0.12,
-      "productionMastery": 0.24,
+      "mastery": 0.25,
+      "encounters": 6,
+      "correctUses": 5,
+      "wrongUses": 1,
+      "recognitionMastery": 0.3,
+      "productionMastery": 0.55,
       "firstSeen": "2026-08-25T16:44:32.576Z",
-      "lastSeen": "2026-08-25T16:45:40.662Z",
-      "nextReview": "2026-08-25T16:45:40.662Z",
+      "lastSeen": "2026-08-28T10:38:16.223Z",
+      "nextReview": "2026-08-29T10:38:16.223Z",
       "contexts": [
-        "Ordering at a restaurant"
+        "Ordering at a restaurant",
+        "Hôm qua, tôi đã uống một ly nước ở công viên.",
+        "Mỗi ngày, mọi người uống cà phê vào lúc 6 giờ sáng.",
+        "Hôm qua, tôi đã cẩn thận gọi đồ uống cho cả nhóm."
       ]
     },
     "order": {
@@ -1319,17 +1343,20 @@
       "level": "A2",
       "examples": [],
       "collocations": [],
-      "mastery": 0.1,
-      "encounters": 2,
-      "correctUses": 1,
+      "mastery": 0.35,
+      "encounters": 7,
+      "correctUses": 6,
       "wrongUses": 0,
-      "recognitionMastery": 0.11,
-      "productionMastery": 0.12,
+      "recognitionMastery": 0.41,
+      "productionMastery": 0.72,
       "firstSeen": "2026-08-25T16:44:32.576Z",
-      "lastSeen": "2026-08-25T16:45:40.662Z",
-      "nextReview": "2026-08-25T16:45:40.662Z",
+      "lastSeen": "2026-08-28T10:38:16.223Z",
+      "nextReview": "2026-08-30T10:38:16.223Z",
       "contexts": [
-        "Ordering at a restaurant"
+        "Ordering at a restaurant",
+        "Bây giờ, cô ấy đang gọi món nhanh chóng.",
+        "Tuần tới, chúng tôi sẽ gọi món mới cùng nhau.",
+        "Hôm qua, tôi đã cẩn thận gọi đồ uống cho cả nhóm."
       ]
     },
     "careful": {
@@ -1345,17 +1372,19 @@
         "careful plan",
         "careful decision"
       ],
-      "mastery": 0.1,
-      "encounters": 2,
-      "correctUses": 1,
+      "mastery": 0.2,
+      "encounters": 5,
+      "correctUses": 3,
       "wrongUses": 1,
-      "recognitionMastery": 0.06,
-      "productionMastery": 0.12,
+      "recognitionMastery": 0.22999999999999998,
+      "productionMastery": 0.36,
       "firstSeen": "2026-08-27T14:48:37.835Z",
-      "lastSeen": "2026-08-27T14:53:12.590Z",
-      "nextReview": "2026-08-27T14:53:12.590Z",
+      "lastSeen": "2026-08-28T10:38:16.223Z",
+      "nextReview": "2026-08-29T10:38:16.223Z",
       "contexts": [
-        "Chúng tôi cần lên một kế hoạch cẩn thận trước khi đưa cả gia đình đến công viên vào cuối tuần."
+        "Chúng tôi cần lên một kế hoạch cẩn thận trước khi đưa cả gia đình đến công viên vào cuối tuần.",
+        "Ngay bây giờ, gia đình tôi đang dọn dẹp nhà bếp cẩn thận.",
+        "Hôm qua, tôi đã cẩn thận gọi đồ uống cho cả nhóm."
       ]
     },
     "quickly": {
@@ -1370,17 +1399,318 @@
         "work quickly",
         "respond quickly"
       ],
+      "mastery": 0.3,
+      "encounters": 5,
+      "correctUses": 5,
+      "wrongUses": 0,
+      "recognitionMastery": 0.3,
+      "productionMastery": 0.6,
+      "firstSeen": "2026-08-27T15:16:26.460Z",
+      "lastSeen": "2026-08-28T10:41:02.604Z",
+      "nextReview": "2026-08-29T10:41:02.604Z",
+      "contexts": [
+        "Cô ấy nấu rau một cách nhanh chóng để cả nhà có thể ăn tối đúng giờ.",
+        "Bây giờ, cô ấy đang gọi món nhanh chóng.",
+        "Tuần tới, tôi sẽ dọn sạch thực đơn cũ một cách nhanh chóng."
+      ]
+    },
+    "a glass of water": {
+      "word": "a glass of water",
+      "meaning": "một ly nước",
+      "partOfSpeech": "noun phrase",
+      "level": "A1",
+      "examples": [],
+      "collocations": [
+        "a cup of tea",
+        "a glass of juice"
+      ],
+      "mastery": 0.25,
+      "encounters": 6,
+      "correctUses": 4,
+      "wrongUses": 0,
+      "recognitionMastery": 0.33999999999999997,
+      "productionMastery": 0.48,
+      "firstSeen": "2026-08-28T10:20:58.755Z",
+      "lastSeen": "2026-08-28T10:48:02.573Z",
+      "nextReview": "2026-08-29T10:48:02.573Z",
+      "contexts": [
+        "Hôm qua, tôi đã uống một ly nước ở công viên.",
+        "Mọi người uống một ly nước mỗi ngày."
+      ]
+    },
+    "drank": {
+      "word": "drank",
+      "meaning": "đã uống",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0.1,
+      "encounters": 3,
+      "correctUses": 2,
+      "wrongUses": 1,
+      "recognitionMastery": 0.12,
+      "productionMastery": 0.19,
+      "firstSeen": "2026-08-28T10:21:29.016Z",
+      "lastSeen": "2026-08-28T10:49:00.135Z",
+      "nextReview": "2026-08-28T10:49:00.135Z",
+      "contexts": [
+        "Hôm qua, tôi đã uống một ly nước ở công viên.",
+        "Hôm qua, cô ấy uống nước tại nhà hàng."
+      ]
+    },
+    "successful": {
+      "word": "successful",
+      "meaning": "thành công",
+      "partOfSpeech": "adjective",
+      "level": "A2",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0.2,
+      "encounters": 3,
+      "correctUses": 3,
+      "wrongUses": 0,
+      "recognitionMastery": 0.18,
+      "productionMastery": 0.36,
+      "firstSeen": "2026-08-28T10:23:03.974Z",
+      "lastSeen": "2026-08-28T10:49:29.297Z",
+      "nextReview": "2026-08-29T10:49:29.297Z",
+      "contexts": [
+        "Cô ấy đã thành công kể từ năm 2020.",
+        "Anh ấy đã thành công kể từ năm 2020."
+      ]
+    },
+    "everyone": {
+      "word": "everyone",
+      "meaning": "mọi người",
+      "partOfSpeech": "pronoun",
+      "level": "A1",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0.39999999999999997,
+      "encounters": 11,
+      "correctUses": 7,
+      "wrongUses": 1,
+      "recognitionMastery": 0.5700000000000001,
+      "productionMastery": 0.84,
+      "firstSeen": "2026-08-28T10:28:21.901Z",
+      "lastSeen": "2026-08-28T10:57:54.444Z",
+      "nextReview": "2026-08-30T10:57:54.444Z",
+      "contexts": [
+        "Mỗi ngày, mọi người uống cà phê vào lúc 6 giờ sáng.",
+        "Mọi người uống một ly nước mỗi ngày.",
+        "Bây giờ, mọi người đang ăn tại nhà hàng.",
+        "Tuần tới, mọi người sẽ mang thức ăn đến công viên."
+      ]
+    },
+    "restaurant": {
+      "word": "restaurant",
+      "meaning": "nhà hàng",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0.39999999999999997,
+      "encounters": 8,
+      "correctUses": 7,
+      "wrongUses": 1,
+      "recognitionMastery": 0.42,
+      "productionMastery": 0.84,
+      "firstSeen": "2026-08-28T10:40:09.141Z",
+      "lastSeen": "2026-08-28T10:58:53.809Z",
+      "nextReview": "2026-08-30T10:58:53.809Z",
+      "contexts": [
+        "Anh ấy đã làm việc chăm chỉ ở nhà hàng này được 5 năm rồi.",
+        "Hôm qua, cô ấy uống nước tại nhà hàng.",
+        "Tuần tới, gia đình tôi sẽ đến nhà hàng cùng nhau.",
+        "Bây giờ, mọi người đang ăn tại nhà hàng.",
+        "Hôm qua, gia đình tôi đã xem thực đơn tại nhà hàng."
+      ]
+    },
+    "food": {
+      "word": "food",
+      "meaning": "thức ăn",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0,
+      "encounters": 1,
+      "correctUses": 0,
+      "wrongUses": 1,
+      "recognitionMastery": 0,
+      "productionMastery": 0,
+      "firstSeen": "2026-08-28T10:57:45.690Z",
+      "lastSeen": "2026-08-28T10:57:45.690Z",
+      "nextReview": "2026-08-28T10:57:45.690Z",
+      "contexts": [
+        "Tuần tới, mọi người sẽ mang thức ăn đến công viên."
+      ]
+    },
+    "hometown": {
+      "word": "hometown",
+      "meaning": "quê nhà",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "examples": [
+        "I went back to my hometown."
+      ],
+      "collocations": [],
+      "mastery": 0,
+      "encounters": 1,
+      "correctUses": 0,
+      "wrongUses": 0,
+      "recognitionMastery": 0.05,
+      "productionMastery": 0,
+      "firstSeen": "2026-08-28T11:02:51.203Z",
+      "lastSeen": "2026-08-28T11:02:51.203Z",
+      "nextReview": "2026-08-28T11:02:51.203Z",
+      "contexts": [
+        "My weekend"
+      ]
+    },
+    "hang out": {
+      "word": "hang out",
+      "meaning": "đi chơi cùng",
+      "partOfSpeech": "phrasal verb",
+      "level": "A2",
+      "examples": [
+        "I hung out with my friends."
+      ],
+      "collocations": [],
+      "mastery": 0,
+      "encounters": 1,
+      "correctUses": 0,
+      "wrongUses": 0,
+      "recognitionMastery": 0.05,
+      "productionMastery": 0,
+      "firstSeen": "2026-08-28T11:02:51.203Z",
+      "lastSeen": "2026-08-28T11:02:51.203Z",
+      "nextReview": "2026-08-28T11:02:51.203Z",
+      "contexts": [
+        "My weekend"
+      ]
+    },
+    "cycle": {
+      "word": "cycle",
+      "meaning": "đạp xe",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "examples": [
+        "I cycle around the lake every Sunday."
+      ],
+      "collocations": [],
+      "mastery": 0,
+      "encounters": 1,
+      "correctUses": 0,
+      "wrongUses": 0,
+      "recognitionMastery": 0.05,
+      "productionMastery": 0,
+      "firstSeen": "2026-08-28T11:02:51.203Z",
+      "lastSeen": "2026-08-28T11:02:51.203Z",
+      "nextReview": "2026-08-28T11:02:51.203Z",
+      "contexts": [
+        "My weekend"
+      ]
+    },
+    "desk": {
+      "word": "desk",
+      "meaning": "bàn làm việc",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "examples": [],
+      "collocations": [],
       "mastery": 0.1,
       "encounters": 1,
       "correctUses": 1,
       "wrongUses": 0,
       "recognitionMastery": 0.06,
       "productionMastery": 0.12,
-      "firstSeen": "2026-08-27T15:16:26.460Z",
-      "lastSeen": "2026-08-27T15:16:26.460Z",
-      "nextReview": "2026-08-27T15:16:26.460Z",
+      "firstSeen": "2026-08-28T11:06:51.909Z",
+      "lastSeen": "2026-08-28T11:06:51.909Z",
+      "nextReview": "2026-08-28T11:06:51.909Z",
       "contexts": [
-        "Cô ấy nấu rau một cách nhanh chóng để cả nhà có thể ăn tối đúng giờ."
+        "A desk with a laptop, books, a phone and stationery."
+      ]
+    },
+    "laptop": {
+      "word": "laptop",
+      "meaning": "",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0.1,
+      "encounters": 1,
+      "correctUses": 1,
+      "wrongUses": 0,
+      "recognitionMastery": 0.06,
+      "productionMastery": 0.12,
+      "firstSeen": "2026-08-28T11:06:51.909Z",
+      "lastSeen": "2026-08-28T11:06:51.909Z",
+      "nextReview": "2026-08-28T11:06:51.909Z",
+      "contexts": [
+        "A desk with a laptop, books, a phone and stationery."
+      ]
+    },
+    "pencils": {
+      "word": "pencils",
+      "meaning": "",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0.1,
+      "encounters": 1,
+      "correctUses": 1,
+      "wrongUses": 0,
+      "recognitionMastery": 0.06,
+      "productionMastery": 0.12,
+      "firstSeen": "2026-08-28T11:06:51.909Z",
+      "lastSeen": "2026-08-28T11:06:51.909Z",
+      "nextReview": "2026-08-28T11:06:51.909Z",
+      "contexts": [
+        "A desk with a laptop, books, a phone and stationery."
+      ]
+    },
+    "lying open": {
+      "word": "lying open",
+      "meaning": "nằm mở ra",
+      "partOfSpeech": "verb phrase",
+      "level": "A2",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0,
+      "encounters": 1,
+      "correctUses": 0,
+      "wrongUses": 0,
+      "recognitionMastery": 0.05,
+      "productionMastery": 0,
+      "firstSeen": "2026-08-28T11:07:55.227Z",
+      "lastSeen": "2026-08-28T11:07:55.227Z",
+      "nextReview": "2026-08-28T11:07:55.227Z",
+      "contexts": [
+        "A desk with a laptop, books, a phone and stationery."
+      ]
+    },
+    "resting on": {
+      "word": "resting on",
+      "meaning": "nằm trên, đặt trên",
+      "partOfSpeech": "verb phrase",
+      "level": "A2",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0,
+      "encounters": 1,
+      "correctUses": 0,
+      "wrongUses": 0,
+      "recognitionMastery": 0.05,
+      "productionMastery": 0,
+      "firstSeen": "2026-08-28T11:07:55.227Z",
+      "lastSeen": "2026-08-28T11:07:55.227Z",
+      "nextReview": "2026-08-28T11:07:55.227Z",
+      "contexts": [
+        "A desk with a laptop, books, a phone and stationery."
       ]
     }
   },
@@ -1506,12 +1836,12 @@
         "The decision was final."
       ],
       "mastery": 0.05,
-      "correctUses": 2,
-      "incorrectUses": 2,
+      "correctUses": 3,
+      "incorrectUses": 3,
       "commonErrors": [],
       "firstSeen": "2026-08-24T16:51:19.250Z",
-      "lastSeen": "2026-08-24T16:52:38.357Z",
-      "nextReview": "2026-08-24T16:52:38.357Z"
+      "lastSeen": "2026-08-28T10:54:31.674Z",
+      "nextReview": "2026-08-28T10:54:31.674Z"
     },
     "present_simple": {
       "id": "present_simple",
@@ -1521,13 +1851,13 @@
       "examples": [
         "He works every day."
       ],
-      "mastery": 0.44999999999999996,
-      "correctUses": 9,
+      "mastery": 0.8000000000000002,
+      "correctUses": 16,
       "incorrectUses": 2,
       "commonErrors": [],
       "firstSeen": "2026-08-25T15:51:39.395Z",
-      "lastSeen": "2026-08-25T16:31:46.883Z",
-      "nextReview": "2026-08-27T16:31:46.883Z"
+      "lastSeen": "2026-08-28T10:54:31.675Z",
+      "nextReview": "2026-09-04T10:54:31.675Z"
     },
     "present_continuous": {
       "id": "present_continuous",
@@ -1537,13 +1867,13 @@
       "examples": [
         "She is working now."
       ],
-      "mastery": 0.6,
-      "correctUses": 13,
-      "incorrectUses": 3,
+      "mastery": 1,
+      "correctUses": 26,
+      "incorrectUses": 4,
       "commonErrors": [],
       "firstSeen": "2026-08-25T15:53:05.760Z",
-      "lastSeen": "2026-08-25T16:33:11.519Z",
-      "nextReview": "2026-08-29T16:33:11.519Z"
+      "lastSeen": "2026-08-28T10:55:28.296Z",
+      "nextReview": "2026-09-27T10:55:28.296Z"
     },
     "past_simple": {
       "id": "past_simple",
@@ -1553,13 +1883,13 @@
       "examples": [
         "I went home."
       ],
-      "mastery": 0.39999999999999997,
-      "correctUses": 8,
+      "mastery": 0.7500000000000001,
+      "correctUses": 15,
       "incorrectUses": 2,
       "commonErrors": [],
       "firstSeen": "2026-08-25T15:55:40.113Z",
-      "lastSeen": "2026-08-25T16:35:31.415Z",
-      "nextReview": "2026-08-27T16:35:31.415Z"
+      "lastSeen": "2026-08-28T10:58:53.809Z",
+      "nextReview": "2026-09-04T10:58:53.809Z"
     },
     "present_perfect_duration": {
       "id": "present_perfect_duration",
@@ -1569,13 +1899,13 @@
       "examples": [
         "I have worked here for 5 years."
       ],
-      "mastery": 0.44999999999999996,
-      "correctUses": 12,
-      "incorrectUses": 6,
+      "mastery": 0.7500000000000001,
+      "correctUses": 21,
+      "incorrectUses": 9,
       "commonErrors": [],
       "firstSeen": "2026-08-25T15:57:12.360Z",
-      "lastSeen": "2026-08-25T16:38:20.162Z",
-      "nextReview": "2026-08-27T16:38:20.162Z"
+      "lastSeen": "2026-08-28T10:51:58.701Z",
+      "nextReview": "2026-09-04T10:51:58.701Z"
     },
     "future_will": {
       "id": "future_will",
@@ -1586,26 +1916,26 @@
         "I will call you."
       ],
       "mastery": 1,
-      "correctUses": 20,
+      "correctUses": 29,
       "incorrectUses": 1,
       "commonErrors": [],
       "firstSeen": "2026-08-25T16:01:02.792Z",
-      "lastSeen": "2026-08-25T16:40:27.642Z",
-      "nextReview": "2026-09-24T16:40:27.642Z"
+      "lastSeen": "2026-08-28T10:57:54.445Z",
+      "nextReview": "2026-09-27T10:57:54.445Z"
     },
     "S + V(s)": {
       "id": "S + V(s)",
-      "pattern": "S + V(s)",
+      "pattern": "S + V(s) + O + Time",
       "meaning": "Chủ ngữ số ít + động từ thêm s/es (hiện tại đơn)",
       "usage": "",
       "examples": [],
-      "mastery": 0.1,
-      "correctUses": 3,
-      "incorrectUses": 2,
+      "mastery": 0.25,
+      "correctUses": 8,
+      "incorrectUses": 4,
       "commonErrors": [],
       "firstSeen": "2026-08-25T16:12:25.257Z",
-      "lastSeen": "2026-08-25T16:31:46.882Z",
-      "nextReview": "2026-08-25T16:31:46.882Z"
+      "lastSeen": "2026-08-28T10:54:31.674Z",
+      "nextReview": "2026-08-29T10:54:31.674Z"
     },
     "S + am/is/are + V-ing": {
       "id": "S + am/is/are + V-ing",
@@ -1628,12 +1958,12 @@
       "usage": "",
       "examples": [],
       "mastery": 0.3,
-      "correctUses": 6,
-      "incorrectUses": 4,
+      "correctUses": 8,
+      "incorrectUses": 6,
       "commonErrors": [],
       "firstSeen": "2026-08-25T16:17:25.580Z",
-      "lastSeen": "2026-08-25T16:35:31.415Z",
-      "nextReview": "2026-08-26T16:35:31.415Z"
+      "lastSeen": "2026-08-28T10:49:00.135Z",
+      "nextReview": "2026-08-29T10:49:00.135Z"
     },
     "have/has + V3 + for": {
       "id": "have/has + V3 + for",
@@ -1643,11 +1973,11 @@
       "examples": [],
       "mastery": 0,
       "correctUses": 0,
-      "incorrectUses": 1,
+      "incorrectUses": 2,
       "commonErrors": [],
       "firstSeen": "2026-08-25T16:22:00.948Z",
-      "lastSeen": "2026-08-25T16:22:00.948Z",
-      "nextReview": "2026-08-25T16:22:00.948Z"
+      "lastSeen": "2026-08-28T10:39:37.522Z",
+      "nextReview": "2026-08-28T10:39:37.522Z"
     },
     "word_form_adj": {
       "id": "word_form_adj",
@@ -1680,6 +2010,20 @@
       "firstSeen": "2026-08-27T14:57:17.593Z",
       "lastSeen": "2026-08-27T15:35:39.233Z",
       "nextReview": "2026-08-29T15:35:39.233Z"
+    },
+    "present_perfect_since": {
+      "id": "present_perfect_since",
+      "pattern": "has/have + been + adj + since ...",
+      "meaning": "diễn tả trạng thái kéo dài từ một mốc thời gian",
+      "usage": "",
+      "examples": [],
+      "mastery": 0.2,
+      "correctUses": 3,
+      "incorrectUses": 0,
+      "commonErrors": [],
+      "firstSeen": "2026-08-28T10:23:03.974Z",
+      "lastSeen": "2026-08-28T10:49:29.297Z",
+      "nextReview": "2026-08-29T10:49:29.297Z"
     }
   },
   "mistakes": {
@@ -1747,10 +2091,10 @@
       "original": "everyday",
       "correction": "every day",
       "explanation": "'Everyday' (1 từ) là tính từ nghĩa 'thường ngày, bình thường' (vd: everyday life). 'Every day' (2 từ) là trạng từ chỉ tần suất, nghĩa 'mỗi ngày'.",
-      "count": 1,
-      "mastery": 0.2,
+      "count": 2,
+      "mastery": 0.15000000000000002,
       "firstSeen": "2026-08-23T15:26:23.326Z",
-      "lastSeen": "2026-08-23T15:26:23.326Z"
+      "lastSeen": "2026-08-28T10:43:14.908Z"
     },
     "spelling:every day.": {
       "id": "mistake_mt5ymxtvba14n8",
@@ -2083,10 +2427,10 @@
       "original": "Everyone",
       "correction": "everyone",
       "explanation": "Don't capitalize words in the middle of a sentence unless they're proper nouns.",
-      "count": 3,
-      "mastery": 0.10000000000000002,
+      "count": 5,
+      "mastery": 1.3877787807814457e-17,
       "firstSeen": "2026-08-23T15:54:26.044Z",
-      "lastSeen": "2026-08-25T16:09:38.405Z"
+      "lastSeen": "2026-08-28T10:55:28.295Z"
     },
     "grammar:can you bring a power bank to the office tomorrow morning?": {
       "id": "mistake_mt5zpch90b2xq5",
@@ -2431,10 +2775,10 @@
       "original": "succeed",
       "correction": "success",
       "explanation": "'Succeed' is a verb; the noun form is 'success'.",
-      "count": 1,
-      "mastery": 0.2,
+      "count": 2,
+      "mastery": 0.15000000000000002,
       "firstSeen": "2026-08-24T16:51:19.250Z",
-      "lastSeen": "2026-08-24T16:51:19.250Z"
+      "lastSeen": "2026-08-28T10:54:12.144Z"
     },
     "grammar:depends on": {
       "id": "mistake_mt7h3j2rklimeh",
@@ -2868,10 +3212,10 @@
       "original": "We",
       "correction": "we",
       "explanation": "Không viết hoa từ giữa câu trừ khi là danh từ riêng hoặc đầu câu.",
-      "count": 1,
-      "mastery": 0.2,
+      "count": 2,
+      "mastery": 0.15000000000000002,
       "firstSeen": "2026-08-25T16:16:12.450Z",
-      "lastSeen": "2026-08-25T16:16:12.450Z"
+      "lastSeen": "2026-08-28T10:27:32.107Z"
     },
     "grammar:yesterday, he succeeded in the difficult exam.": {
       "id": "mistake_mt8vbsjxl48mca",
@@ -2935,10 +3279,10 @@
       "original": "She",
       "correction": "she",
       "explanation": "Chỉ viết hoa 'She' nếu bắt đầu câu mới; ở đây nó nằm sau dấu phẩy trong cùng một câu.",
-      "count": 1,
-      "mastery": 0.2,
+      "count": 3,
+      "mastery": 0.10000000000000002,
       "firstSeen": "2026-08-25T16:19:44.145Z",
-      "lastSeen": "2026-08-25T16:19:44.145Z"
+      "lastSeen": "2026-08-28T10:20:24.804Z"
     },
     "grammar:him": {
       "id": "mistake_mt8vgf750zm1z8",
@@ -3394,9 +3738,540 @@
       "mastery": 0.2,
       "firstSeen": "2026-08-27T15:15:53.119Z",
       "lastSeen": "2026-08-27T15:15:53.119Z"
+    },
+    "article:the old menu": {
+      "id": "mistake_mtcsqtj3kd2oqq",
+      "type": "article",
+      "original": "old menus",
+      "correction": "the old menu",
+      "explanation": "Khi nói về thực đơn cụ thể, dùng 'the' trước danh từ.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T10:16:12.542Z",
+      "lastSeen": "2026-08-28T10:16:12.542Z"
+    },
+    "grammar:is ordering a dish quickly": {
+      "id": "mistake_mtcsslchqi58sq",
+      "type": "grammar",
+      "original": "is ordering quickly",
+      "correction": "is ordering a dish quickly",
+      "explanation": "Động từ 'order' cần tân ngữ (object) — 'a dish' — theo cấu trúc S + V + O.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T10:17:35.248Z",
+      "lastSeen": "2026-08-28T10:17:35.248Z"
+    },
+    "tense:drank": {
+      "id": "mistake_mtcswydfxle4va",
+      "type": "tense",
+      "original": "drinked",
+      "correction": "drank",
+      "explanation": "'drink' là động từ bất quy tắc: drink → drank → drunk. Không thêm -ed.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T10:20:58.755Z",
+      "lastSeen": "2026-08-28T10:20:58.755Z"
+    },
+    "vocabulary:a glass of water": {
+      "id": "mistake_mtcswydfufj7ol",
+      "type": "vocabulary",
+      "original": "a cup",
+      "correction": "a glass of water",
+      "explanation": "'một ly nước' = 'a glass of water'. 'A cup' một mình thiếu nghĩa.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T10:20:58.755Z",
+      "lastSeen": "2026-08-28T10:20:58.755Z"
+    },
+    "grammar:has": {
+      "id": "mistake_mtcsyceimk3k5q",
+      "type": "grammar",
+      "original": "have",
+      "correction": "has",
+      "explanation": "Chủ ngữ 'She' (ngôi 3 số ít) luôn đi với 'has'.",
+      "count": 2,
+      "mastery": 0.15000000000000002,
+      "firstSeen": "2026-08-28T10:22:03.594Z",
+      "lastSeen": "2026-08-28T10:39:37.522Z"
+    },
+    "vocabulary:been successful": {
+      "id": "mistake_mtcsycei5y4khz",
+      "type": "vocabulary",
+      "original": "succeeded",
+      "correction": "been successful",
+      "explanation": "'Succeeded' = hoàn thành một việc cụ thể. Để diễn tả trạng thái kéo dài với 'since', dùng 'has been successful' (be + adj).",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T10:22:03.594Z",
+      "lastSeen": "2026-08-28T10:22:03.594Z"
+    },
+    "vocabulary:has been successful": {
+      "id": "mistake_mtcsz23jm3smtz",
+      "type": "vocabulary",
+      "original": "has been succeeded",
+      "correction": "has been successful",
+      "explanation": "Sau 'Subject + has been' cần tính từ (adjective complement) → dùng 'successful', không dùng 'succeeded' (verb form).",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T10:22:36.895Z",
+      "lastSeen": "2026-08-28T10:22:36.895Z"
+    },
+    "vocabulary:everyone": {
+      "id": "mistake_mtct6gb2ut9qph",
+      "type": "vocabulary",
+      "original": "we",
+      "correction": "everyone",
+      "explanation": "'Mọi người' nghĩa là 'everyone/everybody', không phải 'we' (chúng tôi/chúng ta).",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T10:28:21.901Z",
+      "lastSeen": "2026-08-28T10:28:21.901Z"
+    },
+    "grammar:drinks": {
+      "id": "mistake_mtct6gb28n6m0g",
+      "type": "grammar",
+      "patternId": "S + V(s)",
+      "original": "drink",
+      "correction": "drinks",
+      "explanation": "'Everyone' là đại từ số ít, nên động từ phải chia thêm -s: everyone drinks.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T10:28:21.901Z",
+      "lastSeen": "2026-08-28T10:28:21.901Z"
+    },
+    "naturalness:coffee": {
+      "id": "mistake_mtct71cxisq52b",
+      "type": "naturalness",
+      "original": "a cup of coffee",
+      "correction": "coffee",
+      "explanation": "Câu gốc nói 'cà phê' chung, không cần thêm 'a cup of'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T10:28:49.185Z",
+      "lastSeen": "2026-08-28T10:28:49.185Z"
+    },
+    "word_order:worked hard": {
+      "id": "mistake_mtctkxmai5rsdz",
+      "type": "word_order",
+      "original": "hard worked",
+      "correction": "worked hard",
+      "explanation": "'Hard' là trạng từ bổ nghĩa cho động từ 'work', đặt SAU động từ chính: worked hard.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T10:39:37.522Z",
+      "lastSeen": "2026-08-28T10:39:37.522Z"
+    },
+    "article:this restaurant": {
+      "id": "mistake_mtctkxmacbbf3t",
+      "type": "article",
+      "original": "the restaurent",
+      "correction": "this restaurant",
+      "explanation": "'này' = 'this', không phải 'the'.",
+      "count": 2,
+      "mastery": 0.15000000000000002,
+      "firstSeen": "2026-08-28T10:39:37.522Z",
+      "lastSeen": "2026-08-28T10:40:02.488Z"
+    },
+    "spelling:restaurant": {
+      "id": "mistake_mtctkxma2tf6et",
+      "type": "spelling",
+      "original": "restaurent",
+      "correction": "restaurant",
+      "count": 3,
+      "mastery": 0.10000000000000002,
+      "firstSeen": "2026-08-28T10:39:37.522Z",
+      "lastSeen": "2026-08-28T10:40:09.141Z"
+    },
+    "word_order:everyone drinks a glass of water every day.": {
+      "id": "mistake_mtctpf92vu0l9l",
+      "type": "word_order",
+      "original": "Everyday drinks a glass of water everyone.",
+      "correction": "Everyone drinks a glass of water every day.",
+      "explanation": "Tiếng Anh: S + V + O + Time. Chủ ngữ 'Everyone' đầu câu, 'every day' cuối câu.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T10:43:06.998Z",
+      "lastSeen": "2026-08-28T10:43:06.998Z"
+    },
+    "vocabulary:every day": {
+      "id": "mistake_mtctpf92jkwe0b",
+      "type": "vocabulary",
+      "original": "everyone (cuối câu)",
+      "correction": "every day",
+      "explanation": "'Mỗi ngày' = 'every day' (hai từ), không phải 'everyone'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T10:43:06.998Z",
+      "lastSeen": "2026-08-28T10:43:06.998Z"
+    },
+    "spelling:every": {
+      "id": "mistake_mtctsraulujofq",
+      "type": "spelling",
+      "original": "ever\\y",
+      "correction": "every",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T10:45:42.581Z",
+      "lastSeen": "2026-08-28T10:45:42.581Z"
+    },
+    "grammar:drank": {
+      "id": "mistake_mtctwp7p3sl24r",
+      "type": "grammar",
+      "original": "dranks",
+      "correction": "drank",
+      "explanation": "Động từ ở thì quá khứ đơn không thêm 's'. Chỉ thì hiện tại đơn mới thêm 's' cho he/she/it.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T10:48:46.501Z",
+      "lastSeen": "2026-08-28T10:48:46.501Z"
+    },
+    "preposition:at the restaurant": {
+      "id": "mistake_mtctwzqfr5evdd",
+      "type": "preposition",
+      "original": "in the restaurant",
+      "correction": "at the restaurant",
+      "explanation": "Dùng 'at' khi nói về địa điểm như nhà hàng (at = tại một nơi). 'In' nhấn mạnh bên trong không gian vật lý.",
+      "count": 2,
+      "mastery": 0.15000000000000002,
+      "firstSeen": "2026-08-28T10:49:00.135Z",
+      "lastSeen": "2026-08-28T10:55:09.196Z"
+    },
+    "grammar:he is bringing": {
+      "id": "mistake_mtcty8km2fui37",
+      "type": "grammar",
+      "patternId": "present_continuous",
+      "original": "He bringing",
+      "correction": "He is bringing",
+      "explanation": "Present continuous cần trợ động từ: He IS bringing. Công thức: S + am/is/are + V-ing.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T10:49:58.246Z",
+      "lastSeen": "2026-08-28T10:49:58.246Z"
+    },
+    "vocabulary:carrying": {
+      "id": "mistake_mtcty8kmy4svr8",
+      "type": "vocabulary",
+      "original": "bringing",
+      "correction": "carrying",
+      "explanation": "'mang' = carry. 'bring' cũng chấp nhận được nhưng 'carry' chính xác hơn trong ngữ cảnh này.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T10:49:58.246Z",
+      "lastSeen": "2026-08-28T10:49:58.246Z"
+    },
+    "spelling:carrying": {
+      "id": "mistake_mtctyknntrnw8o",
+      "type": "spelling",
+      "original": "carring",
+      "correction": "carrying",
+      "explanation": "carry + ing = carrying (giữ nguyên 'y').",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T10:50:13.907Z",
+      "lastSeen": "2026-08-28T10:50:13.907Z"
+    },
+    "spelling:my": {
+      "id": "mistake_mtctzr9xaq4mqe",
+      "type": "spelling",
+      "original": "My",
+      "correction": "my",
+      "explanation": "Sau dấu phẩy giữa câu không viết hoa.",
+      "count": 2,
+      "mastery": 0.15000000000000002,
+      "firstSeen": "2026-08-28T10:51:09.141Z",
+      "lastSeen": "2026-08-28T10:58:53.809Z"
+    },
+    "grammar:has worked": {
+      "id": "mistake_mtcu0ktqoqyn9c",
+      "type": "grammar",
+      "patternId": "present_perfect_duration",
+      "original": "have worked",
+      "correction": "has worked",
+      "explanation": "Chủ ngữ ngôi 3 số ít (She/He/It) luôn dùng 'has', không dùng 'have'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T10:51:47.438Z",
+      "lastSeen": "2026-08-28T10:51:47.438Z"
+    },
+    "spelling:eating": {
+      "id": "mistake_mtcu4wi587tzk2",
+      "type": "spelling",
+      "original": "eatting",
+      "correction": "eating",
+      "explanation": "'eat' kết thúc bằng 1 phụ âm sau 1 nguyên âm dài → không gấp đôi 't'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T10:55:09.196Z",
+      "lastSeen": "2026-08-28T10:55:09.196Z"
+    },
+    "grammar:food": {
+      "id": "mistake_mtcu8996lpcag2",
+      "type": "grammar",
+      "original": "foods",
+      "correction": "food",
+      "explanation": "'Food' là danh từ không đếm được (uncountable) khi mang nghĩa chung. Chỉ dùng 'foods' khi nói về các loại thức ăn khác nhau.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T10:57:45.690Z",
+      "lastSeen": "2026-08-28T10:57:45.690Z"
+    },
+    "vocabulary:looked at": {
+      "id": "mistake_mtcu9792dyg4gb",
+      "type": "vocabulary",
+      "original": "watched",
+      "correction": "looked at",
+      "explanation": "'Watch' dùng cho xem phim/TV (theo dõi liên tục). 'Xem thực đơn' dùng 'look at' (nhìn vào để đọc).",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T10:58:29.750Z",
+      "lastSeen": "2026-08-28T10:58:29.750Z"
+    },
+    "article:the menu": {
+      "id": "mistake_mtcu9792sg4nmb",
+      "type": "article",
+      "original": "menu",
+      "correction": "the menu",
+      "explanation": "Thực đơn cụ thể tại nhà hàng nên cần 'the' trước 'menu'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T10:58:29.750Z",
+      "lastSeen": "2026-08-28T10:58:29.750Z"
+    },
+    "grammar:i came back": {
+      "id": "mistake_mtcueszo1jay2p",
+      "type": "grammar",
+      "original": "I comed back",
+      "correction": "I came back",
+      "explanation": "'come' là động từ bất quy tắc: come → came → come. Không thêm -ed.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T11:02:51.203Z",
+      "lastSeen": "2026-08-28T11:02:51.203Z"
+    },
+    "grammar:my family ate dinner": {
+      "id": "mistake_mtcueszob4lj60",
+      "type": "grammar",
+      "original": "My family eated dinner",
+      "correction": "My family ate dinner",
+      "explanation": "'eat' là động từ bất quy tắc: eat → ate → eaten.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T11:02:51.203Z",
+      "lastSeen": "2026-08-28T11:02:51.203Z"
+    },
+    "tense:after that, i went for coffee": {
+      "id": "mistake_mtcueszoh1fobr",
+      "type": "tense",
+      "original": "After I go to coffee",
+      "correction": "After that, I went for coffee",
+      "explanation": "Đang kể chuyện quá khứ nên phải dùng 'went', không dùng 'go'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T11:02:51.203Z",
+      "lastSeen": "2026-08-28T11:02:51.203Z"
+    },
+    "preposition:went for coffee / went to a coffee shop": {
+      "id": "mistake_mtcueszo5pp778",
+      "type": "preposition",
+      "original": "go to coffee",
+      "correction": "went for coffee / went to a coffee shop",
+      "explanation": "'go for coffee' = đi uống cà phê (cụm cố định).",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T11:02:51.203Z",
+      "lastSeen": "2026-08-28T11:02:51.203Z"
+    },
+    "preposition:i spent all my time with them": {
+      "id": "mistake_mtcueszoxgjm1r",
+      "type": "preposition",
+      "original": "I spent all my time for it",
+      "correction": "I spent all my time with them",
+      "explanation": "'spend time with + người' (không dùng 'for it' khi nói về người).",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T11:02:51.203Z",
+      "lastSeen": "2026-08-28T11:02:51.203Z"
+    },
+    "tense:i usually go to": {
+      "id": "mistake_mtcueszo65lza2",
+      "type": "tense",
+      "original": "I usually went to",
+      "correction": "I usually go to",
+      "explanation": "Câu hỏi dùng 'do you usually do' (hiện tại) → trả lời cũng dùng thì hiện tại.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T11:02:51.203Z",
+      "lastSeen": "2026-08-28T11:02:51.203Z"
+    },
+    "naturalness:cycle / ride my bike around the lake": {
+      "id": "mistake_mtcueszorocx8f",
+      "type": "naturalness",
+      "original": "bike circle",
+      "correction": "cycle / ride my bike around the lake",
+      "explanation": "'bike' là danh từ; dùng 'cycle' hoặc 'ride a bike' làm động từ.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T11:02:51.203Z",
+      "lastSeen": "2026-08-28T11:02:51.203Z"
+    },
+    "spelling:village": {
+      "id": "mistake_mtcueszodt2gd4",
+      "type": "spelling",
+      "original": "villuage",
+      "correction": "village",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T11:02:51.203Z",
+      "lastSeen": "2026-08-28T11:02:51.203Z"
+    },
+    "grammar:i don't have any plans": {
+      "id": "mistake_mtcueszor7eb90",
+      "type": "grammar",
+      "original": "I don't have any plan",
+      "correction": "I don't have any plans",
+      "explanation": "'plan' là danh từ đếm được, sau 'any' dùng số nhiều: 'any plans'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T11:02:51.203Z",
+      "lastSeen": "2026-08-28T11:02:51.203Z"
+    },
+    "grammar:i can see a desk": {
+      "id": "mistake_mtcujypy2go1am",
+      "type": "grammar",
+      "original": "I see this is a desk",
+      "correction": "I can see a desk",
+      "explanation": "'I see this is...' là cách nói theo tiếng Việt. Tiếng Anh dùng 'I can see + danh từ' để mô tả.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T11:06:51.909Z",
+      "lastSeen": "2026-08-28T11:06:51.909Z"
+    },
+    "grammar:on the desk, there are": {
+      "id": "mistake_mtcujypy76kphv",
+      "type": "grammar",
+      "original": "On the desk have",
+      "correction": "On the desk, there are",
+      "explanation": "Tiếng Việt nói 'có' nhưng tiếng Anh dùng 'there is/are' để nói về sự tồn tại của vật. 'Have' cần chủ ngữ là người/vật sở hữu.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T11:06:51.909Z",
+      "lastSeen": "2026-08-28T11:06:51.909Z"
+    },
+    "naturalness:a still image / a photo": {
+      "id": "mistake_mtculbkrsekstk",
+      "type": "naturalness",
+      "original": "a dynamic image",
+      "correction": "a still image / a photo",
+      "explanation": "Hình này là ảnh tĩnh, 'dynamic' nghĩa là 'năng động/chuyển động', ngược với ý bạn muốn nói.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-28T11:07:55.227Z",
+      "lastSeen": "2026-08-28T11:07:55.227Z"
     }
   },
   "sessions": [
+    {
+      "id": "session_mtcuiddk0mcugp",
+      "startedAt": "2026-08-28T10:59:30.367Z",
+      "endedAt": "2026-08-28T11:05:37.592Z",
+      "durationMin": 6,
+      "mode": "free_thinking",
+      "exercises": 1,
+      "correct": 0,
+      "newVocabulary": [
+        "hometown",
+        "hang out",
+        "cycle"
+      ],
+      "patternsPracticed": [
+        "went + for + activity",
+        "spent time + with + person",
+        "After that, + past tense clause"
+      ]
+    },
+    {
+      "id": "session_mtcu9txfdtudds",
+      "startedAt": "2026-08-28T10:46:36.317Z",
+      "endedAt": "2026-08-28T10:58:59.139Z",
+      "durationMin": 12,
+      "mode": "guided_translation",
+      "exercises": 20,
+      "correct": 10,
+      "newVocabulary": [
+        "everyone",
+        "a glass of water",
+        "carry"
+      ],
+      "patternsPracticed": [
+        "present_simple",
+        "S + V2",
+        "present_perfect_since",
+        "present_continuous",
+        "future_will",
+        "present_perfect_duration",
+        "S + V(s)",
+        "word_form_noun",
+        "past_simple"
+      ]
+    },
+    {
+      "id": "session_mtctsz21bw0gbk",
+      "startedAt": "2026-08-28T10:25:52.182Z",
+      "endedAt": "2026-08-28T10:45:52.633Z",
+      "durationMin": 20,
+      "mode": "guided_translation",
+      "exercises": 15,
+      "correct": 8,
+      "newVocabulary": [
+        "everyone",
+        "clean",
+        "careful",
+        "family"
+      ],
+      "patternsPracticed": [
+        "present_perfect_since",
+        "future_will",
+        "S + V(s)",
+        "present_continuous",
+        "S + V2",
+        "have/has + V3 + for",
+        "present_perfect_duration",
+        "present_simple"
+      ]
+    },
+    {
+      "id": "session_mtct1pw4rqhowi",
+      "startedAt": "2026-08-28T10:20:00.971Z",
+      "endedAt": "2026-08-28T10:24:41.044Z",
+      "durationMin": 5,
+      "mode": "guided_translation",
+      "exercises": 6,
+      "correct": 3,
+      "newVocabulary": [
+        "a glass of water"
+      ],
+      "patternsPracticed": [
+        "present_continuous",
+        "S + V2",
+        "past_simple",
+        "present_perfect_duration",
+        "present_perfect_since"
+      ]
+    },
+    {
+      "id": "session_mtcsvf8grmpzah",
+      "startedAt": "2026-08-28T09:41:49.019Z",
+      "endedAt": "2026-08-28T10:19:47.296Z",
+      "durationMin": 38,
+      "mode": "guided_translation",
+      "exercises": 3,
+      "correct": 2,
+      "newVocabulary": [],
+      "patternsPracticed": [
+        "S + V(s)",
+        "present_continuous"
+      ]
+    },
     {
       "id": "session_mtbnaxu09dy58r",
       "startedAt": "2026-08-27T14:52:06.286Z",
@@ -3673,16 +4548,16 @@
     }
   ],
   "statistics": {
-    "totalExercises": 163,
-    "totalCorrect": 80,
-    "studyMinutes": 136,
-    "streakDays": 1,
-    "lastStudyDate": "2026-08-27",
-    "vocabularyScore": 0.29,
-    "patternScore": 0.42,
-    "thinkingScore": 0.53,
-    "writingScore": 0.46,
-    "guidedCompleted": 74
+    "totalExercises": 208,
+    "totalCorrect": 103,
+    "studyMinutes": 217,
+    "streakDays": 2,
+    "lastStudyDate": "2026-08-28",
+    "vocabularyScore": 0.3,
+    "patternScore": 0.49,
+    "thinkingScore": 0.54,
+    "writingScore": 0.49,
+    "guidedCompleted": 94
   },
   "settings": {
     "maxHintsBeforeAnswer": 4,
@@ -3765,9 +4640,594 @@
     "tuần tới, tôi sẽ đi bộ trong công viên với gia đình tôi.",
     "cô ấy sẽ sạc điện thoại trước khi ra ngoài vào ngày mai.",
     "chúng tôi cần lên một kế hoạch cẩn thận trước khi đưa cả gia đình đến công viên vào cuối tuần.",
-    "cô ấy nấu rau một cách nhanh chóng để cả nhà có thể ăn tối đúng giờ."
+    "cô ấy nấu rau một cách nhanh chóng để cả nhà có thể ăn tối đúng giờ.",
+    "mỗi ngày, anh ấy dọn sạch thực đơn cũ.",
+    "bây giờ, cô ấy đang gọi món nhanh chóng.",
+    "hôm qua, tôi đã uống một ly nước ở công viên.",
+    "cô ấy đã thành công kể từ năm 2020.",
+    "tuần tới, chúng tôi sẽ gọi món mới cùng nhau.",
+    "mỗi ngày, mọi người uống cà phê vào lúc 6 giờ sáng.",
+    "ngay bây giờ, gia đình tôi đang dọn dẹp nhà bếp cẩn thận.",
+    "hôm qua, tôi đã cẩn thận gọi đồ uống cho cả nhóm.",
+    "anh ấy đã làm việc chăm chỉ ở nhà hàng này được 5 năm rồi.",
+    "tuần tới, tôi sẽ dọn sạch thực đơn cũ một cách nhanh chóng.",
+    "mọi người uống một ly nước mỗi ngày.",
+    "hôm qua, cô ấy uống nước tại nhà hàng.",
+    "anh ấy đã thành công kể từ năm 2020.",
+    "bây giờ, anh ấy đang mang thực đơn.",
+    "tuần tới, gia đình tôi sẽ đến nhà hàng cùng nhau.",
+    "cô ấy đã làm việc chăm chỉ trong năm năm.",
+    "sự thành công đến mỗi ngày khi bạn làm việc chăm chỉ.",
+    "bây giờ, mọi người đang ăn tại nhà hàng.",
+    "tuần tới, mọi người sẽ mang thức ăn đến công viên.",
+    "hôm qua, gia đình tôi đã xem thực đơn tại nhà hàng."
   ],
   "history": [
+    {
+      "id": "h_mtcueszohmbj7f",
+      "at": "2026-08-28T11:02:51.204Z",
+      "mode": "free_thinking",
+      "title": "My weekend",
+      "correct": false,
+      "detail": {
+        "kind": "free",
+        "topic": "My weekend",
+        "transcript": [
+          {
+            "question": "What did you do last weekend?",
+            "answer": "Last weekend, I comed back to my villuage. My family eated dinner together. After I go to coffee with my friends.\n"
+          },
+          {
+            "question": "Who did you spend time with?",
+            "answer": "I spent all my time for it.\n"
+          },
+          {
+            "question": "What do you usually do on Sunday?",
+            "answer": "I usually went to west lake and bike circle.\n"
+          },
+          {
+            "question": "What would you like to do next weekend?",
+            "answer": "I don't have any plan for it."
+          }
+        ],
+        "summary": "Bạn đã chia sẻ về cuối tuần ở quê với gia đình và bạn bè. Bạn dùng được câu đơn giản nhưng cần chú ý nhiều hơn về chia động từ quá khứ và giới từ.",
+        "suggestedRetry": "Hãy kể lại cuối tuần vừa rồi bằng 4-5 câu, chú ý dùng đúng thì quá khứ và các cụm: 'went for coffee', 'spent time with', 'after that'."
+      }
+    },
+    {
+      "id": "h_mtcu9ptd5ek6zj",
+      "at": "2026-08-28T10:58:53.809Z",
+      "mode": "guided_translation",
+      "title": "Hôm qua, gia đình tôi đã xem thực đơn tại nhà hàng.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Hôm qua, gia đình tôi đã xem thực đơn tại nhà hàng.",
+        "corrected": "Yesterday, my family looked at the menu at the restaurant.",
+        "userSentence": "Yesterday, My family looked at the menu at the restaurant.",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "vocabulary",
+            "correction": "looked at",
+            "explanation": "'Watch' dùng cho xem phim/TV (theo dõi liên tục). 'Xem thực đơn' dùng 'look at' (nhìn vào để đọc)."
+          },
+          {
+            "type": "article",
+            "correction": "the menu",
+            "explanation": "Thực đơn cụ thể tại nhà hàng nên cần 'the' trước 'menu'."
+          },
+          {
+            "type": "spelling",
+            "correction": "my",
+            "explanation": "Không viết hoa đại từ sở hữu ở giữa câu."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtcu8g0dkfzc7r",
+      "at": "2026-08-28T10:57:54.445Z",
+      "mode": "guided_translation",
+      "title": "Tuần tới, mọi người sẽ mang thức ăn đến công viên.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Tuần tới, mọi người sẽ mang thức ăn đến công viên.",
+        "corrected": "Next week, everyone will carry food to the park.",
+        "userSentence": "Next week, everyone will carry food to the park.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "food",
+            "explanation": "'Food' là danh từ không đếm được (uncountable) khi mang nghĩa chung. Chỉ dùng 'foods' khi nói về các loại thức ăn khác nhau."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtcu5b8o1ji450",
+      "at": "2026-08-28T10:55:28.296Z",
+      "mode": "guided_translation",
+      "title": "Bây giờ, mọi người đang ăn tại nhà hàng.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Bây giờ, mọi người đang ăn tại nhà hàng.",
+        "corrected": "Right now, everyone is eating at the restaurant.",
+        "userSentence": "Right now, Everyone is eating at the restaurant.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "spelling",
+            "correction": "eating",
+            "explanation": "'eat' kết thúc bằng 1 phụ âm sau 1 nguyên âm dài → không gấp đôi 't'."
+          },
+          {
+            "type": "preposition",
+            "correction": "at the restaurant",
+            "explanation": "Dùng 'at' để chỉ địa điểm cụ thể như nhà hàng, quán café."
+          },
+          {
+            "type": "spelling",
+            "correction": "everyone",
+            "explanation": "Không viết hoa giữa câu trừ khi là tên riêng."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtcu43jvkqq7xx",
+      "at": "2026-08-28T10:54:31.674Z",
+      "mode": "guided_translation",
+      "title": "Sự thành công đến mỗi ngày khi bạn làm việc chăm chỉ.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Sự thành công đến mỗi ngày khi bạn làm việc chăm chỉ.",
+        "corrected": "Success comes every day when you work hard.",
+        "userSentence": "Success comes every day  when you work hard.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "vocabulary",
+            "correction": "Success",
+            "explanation": "Vị trí subject cần danh từ (noun). 'Succeed' là động từ (verb), danh từ đúng là 'success'. Không cần mạo từ 'the' vì nói chung chung."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtcu0tilv33amw",
+      "at": "2026-08-28T10:51:58.701Z",
+      "mode": "guided_translation",
+      "title": "Cô ấy đã làm việc chăm chỉ trong năm năm.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Cô ấy đã làm việc chăm chỉ trong năm năm.",
+        "corrected": "She has worked hard for 5 years.",
+        "userSentence": "She has worked hard for 5 years.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "has worked",
+            "explanation": "Chủ ngữ ngôi 3 số ít (She/He/It) luôn dùng 'has', không dùng 'have'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtctzr9x91b8zw",
+      "at": "2026-08-28T10:51:09.141Z",
+      "mode": "guided_translation",
+      "title": "Tuần tới, gia đình tôi sẽ đến nhà hàng cùng nhau.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Tuần tới, gia đình tôi sẽ đến nhà hàng cùng nhau.",
+        "corrected": "Next week, my family will go to the restaurant together.",
+        "userSentence": "Next week, My family will go to the restaurant together.",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "spelling",
+            "correction": "my",
+            "explanation": "Sau dấu phẩy giữa câu không viết hoa."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtctyrvlewat24",
+      "at": "2026-08-28T10:50:23.265Z",
+      "mode": "guided_translation",
+      "title": "Bây giờ, anh ấy đang mang thực đơn.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Bây giờ, anh ấy đang mang thực đơn.",
+        "corrected": "Right now, he is carrying the menu.",
+        "userSentence": "Right now, He is carrying the menu.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "He is bringing",
+            "explanation": "Present continuous cần trợ động từ: He IS bringing. Công thức: S + am/is/are + V-ing."
+          },
+          {
+            "type": "vocabulary",
+            "correction": "carrying",
+            "explanation": "'mang' = carry. 'bring' cũng chấp nhận được nhưng 'carry' chính xác hơn trong ngữ cảnh này."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtctxm8h39oayr",
+      "at": "2026-08-28T10:49:29.297Z",
+      "mode": "guided_translation",
+      "title": "Anh ấy đã thành công kể từ năm 2020.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Anh ấy đã thành công kể từ năm 2020.",
+        "corrected": "He has been successful since 2020.",
+        "userSentence": "He has been successful since 2020.",
+        "status": "correct",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mtctwzqfawx9oz",
+      "at": "2026-08-28T10:49:00.135Z",
+      "mode": "guided_translation",
+      "title": "Hôm qua, cô ấy uống nước tại nhà hàng.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Hôm qua, cô ấy uống nước tại nhà hàng.",
+        "corrected": "Yesterday, she drank water at the restaurant.",
+        "userSentence": "Yesterday, She drank water in the restaurant.",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "drank",
+            "explanation": "Động từ ở thì quá khứ đơn không thêm 's'. Chỉ thì hiện tại đơn mới thêm 's' cho he/she/it."
+          },
+          {
+            "type": "preposition",
+            "correction": "at the restaurant",
+            "explanation": "Dùng 'at' khi nói về địa điểm như nhà hàng (at = tại một nơi). 'In' nhấn mạnh bên trong không gian vật lý."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtctvrbixoxl1e",
+      "at": "2026-08-28T10:48:02.574Z",
+      "mode": "guided_translation",
+      "title": "Mọi người uống một ly nước mỗi ngày.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Mọi người uống một ly nước mỗi ngày.",
+        "corrected": "Everyone drinks a glass of water every day.",
+        "userSentence": "Everyone drinks a glass of water every day.",
+        "status": "correct",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mtctsrau93v56x",
+      "at": "2026-08-28T10:45:42.582Z",
+      "mode": "guided_translation",
+      "title": "Mọi người uống một ly nước mỗi ngày.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Mọi người uống một ly nước mỗi ngày.",
+        "corrected": "Everyone drinks a glass of water every day.",
+        "userSentence": "Everyone drinks a glass of water ever\\y day.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "word_order",
+            "correction": "Everyone drinks a glass of water every day.",
+            "explanation": "Tiếng Anh: S + V + O + Time. Chủ ngữ 'Everyone' đầu câu, 'every day' cuối câu."
+          },
+          {
+            "type": "spelling",
+            "correction": "Everyone",
+            "explanation": "'Everyday' (adj) ≠ 'Everyone' (pronoun). Vị trí subject cần đại từ 'Everyone'."
+          },
+          {
+            "type": "vocabulary",
+            "correction": "every day",
+            "explanation": "'Mỗi ngày' = 'every day' (hai từ), không phải 'everyone'."
+          },
+          {
+            "type": "spelling",
+            "correction": "every"
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtctmr9oee1lhe",
+      "at": "2026-08-28T10:41:02.604Z",
+      "mode": "guided_translation",
+      "title": "Tuần tới, tôi sẽ dọn sạch thực đơn cũ một cách nhanh chóng.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Tuần tới, tôi sẽ dọn sạch thực đơn cũ một cách nhanh chóng.",
+        "corrected": "Next week, I'll clean the old menu quickly.",
+        "userSentence": "Next week, I'll clean the old menu quickly.",
+        "status": "correct",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mtctlxfhqz13p0",
+      "at": "2026-08-28T10:40:23.933Z",
+      "mode": "guided_translation",
+      "title": "Anh ấy đã làm việc chăm chỉ ở nhà hàng này được 5 năm rồi.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Anh ấy đã làm việc chăm chỉ ở nhà hàng này được 5 năm rồi.",
+        "corrected": "He has worked hard in this restaurant for 5 years.",
+        "userSentence": "He has worked hard in this restaurant for 5 years.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "has",
+            "explanation": "Chủ ngữ 'He' (ngôi 3 số ít) đi với 'has', không phải 'have'."
+          },
+          {
+            "type": "word_order",
+            "correction": "worked hard",
+            "explanation": "'Hard' là trạng từ bổ nghĩa cho động từ 'work', đặt SAU động từ chính: worked hard."
+          },
+          {
+            "type": "article",
+            "correction": "this restaurant"
+          },
+          {
+            "type": "spelling",
+            "correction": "restaurant"
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtctj6w03p0pcz",
+      "at": "2026-08-28T10:38:16.224Z",
+      "mode": "guided_translation",
+      "title": "Hôm qua, tôi đã cẩn thận gọi đồ uống cho cả nhóm.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Hôm qua, tôi đã cẩn thận gọi đồ uống cho cả nhóm.",
+        "corrected": "Yesterday, I carefully ordered drinks for the whole group.",
+        "userSentence": "Yesterday, I carefully ordered drinks for the whole team.",
+        "status": "acceptable",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mtctektagm3v3c",
+      "at": "2026-08-28T10:34:40.990Z",
+      "mode": "guided_translation",
+      "title": "Ngay bây giờ, gia đình tôi đang dọn dẹp nhà bếp cẩn thận.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Ngay bây giờ, gia đình tôi đang dọn dẹp nhà bếp cẩn thận.",
+        "corrected": "Right now, my family is cleaning the kitchen carefully.",
+        "userSentence": "Right now, my family is cleaning the kitchen carefully.",
+        "status": "correct",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mtct71cxjrqnw2",
+      "at": "2026-08-28T10:28:49.185Z",
+      "mode": "guided_translation",
+      "title": "Mỗi ngày, mọi người uống cà phê vào lúc 6 giờ sáng.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Mỗi ngày, mọi người uống cà phê vào lúc 6 giờ sáng.",
+        "corrected": "Every day, everyone drinks coffee at 6 a.m.",
+        "userSentence": "Every day, Everyone drinks a cup of coffee at 6 a.m.",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "vocabulary",
+            "correction": "everyone",
+            "explanation": "'Mọi người' nghĩa là 'everyone/everybody', không phải 'we' (chúng tôi/chúng ta)."
+          },
+          {
+            "type": "grammar",
+            "correction": "drinks",
+            "explanation": "'Everyone' là đại từ số ít, nên động từ phải chia thêm -s: everyone drinks."
+          },
+          {
+            "type": "naturalness",
+            "correction": "coffee",
+            "explanation": "Câu gốc nói 'cà phê' chung, không cần thêm 'a cup of'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtct5dvwog2nv1",
+      "at": "2026-08-28T10:27:32.108Z",
+      "mode": "guided_translation",
+      "title": "Tuần tới, chúng tôi sẽ gọi món mới cùng nhau.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Tuần tới, chúng tôi sẽ gọi món mới cùng nhau.",
+        "corrected": "Next week, we will order a new dish together.",
+        "userSentence": "Next week, We will order a new dish together.",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "spelling",
+            "correction": "we",
+            "explanation": "Không viết hoa đại từ 'we' khi nó ở giữa câu."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtct4oxq9a1e8v",
+      "at": "2026-08-28T10:26:59.774Z",
+      "mode": "guided_translation",
+      "title": "Cô ấy đã thành công kể từ năm 2020.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Cô ấy đã thành công kể từ năm 2020.",
+        "corrected": "She has been successful since 2020.",
+        "userSentence": "She has been successful since 2020",
+        "status": "correct",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mtcszmzq0qv9dl",
+      "at": "2026-08-28T10:23:03.974Z",
+      "mode": "guided_translation",
+      "title": "Cô ấy đã thành công kể từ năm 2020.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Cô ấy đã thành công kể từ năm 2020.",
+        "corrected": "She has been successful since 2020.",
+        "userSentence": "She has been successful since 2020.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "has",
+            "explanation": "Chủ ngữ 'She' (ngôi 3 số ít) luôn đi với 'has'."
+          },
+          {
+            "type": "vocabulary",
+            "correction": "been successful",
+            "explanation": "'Succeeded' = hoàn thành một việc cụ thể. Để diễn tả trạng thái kéo dài với 'since', dùng 'has been successful' (be + adj)."
+          },
+          {
+            "type": "vocabulary",
+            "correction": "has been successful",
+            "explanation": "Sau 'Subject + has been' cần tính từ (adjective complement) → dùng 'successful', không dùng 'succeeded' (verb form)."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtcsxlq03w93lj",
+      "at": "2026-08-28T10:21:29.016Z",
+      "mode": "guided_translation",
+      "title": "Hôm qua, tôi đã uống một ly nước ở công viên.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Hôm qua, tôi đã uống một ly nước ở công viên.",
+        "corrected": "Yesterday, I drank a glass of water in the park.",
+        "userSentence": "Yesterday, I drank a glass of water in the park.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "tense",
+            "correction": "drank",
+            "explanation": "'drink' là động từ bất quy tắc: drink → drank → drunk. Không thêm -ed."
+          },
+          {
+            "type": "vocabulary",
+            "correction": "a glass of water",
+            "explanation": "'một ly nước' = 'a glass of water'. 'A cup' một mình thiếu nghĩa."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtcsw86dzm87ca",
+      "at": "2026-08-28T10:20:24.805Z",
+      "mode": "guided_translation",
+      "title": "Bây giờ, cô ấy đang gọi món nhanh chóng.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Bây giờ, cô ấy đang gọi món nhanh chóng.",
+        "corrected": "Right now, she is ordering a dish quickly.",
+        "userSentence": "Right now, She is ordering a dish quickly",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "spelling",
+            "correction": "she",
+            "explanation": "Không viết hoa giữa câu trừ danh từ riêng."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtcsvdtfnm12vv",
+      "at": "2026-08-28T10:19:45.459Z",
+      "mode": "guided_translation",
+      "title": "Bây giờ, cô ấy đang gọi món nhanh chóng.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Bây giờ, cô ấy đang gọi món nhanh chóng.",
+        "corrected": "Right now, she is ordering a dish quickly.",
+        "userSentence": "Right now, She is ordering a dish quickly.",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "is ordering a dish quickly",
+            "explanation": "Động từ 'order' cần tân ngữ (object) — 'a dish' — theo cấu trúc S + V + O."
+          },
+          {
+            "type": "spelling",
+            "correction": "she",
+            "explanation": "After a comma (not a period), don't capitalize."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtcsqtj3m4gvho",
+      "at": "2026-08-28T10:16:12.543Z",
+      "mode": "guided_translation",
+      "title": "Mỗi ngày, anh ấy dọn sạch thực đơn cũ.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Mỗi ngày, anh ấy dọn sạch thực đơn cũ.",
+        "corrected": "Every day, he cleans the old menu.",
+        "userSentence": "every day, He cleans old menus.",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "article",
+            "correction": "the old menu",
+            "explanation": "Khi nói về thực đơn cụ thể, dùng 'the' trước danh từ."
+          }
+        ]
+      }
+    },
     {
       "id": "h_mtboprz5wgep14",
       "at": "2026-08-27T15:35:39.233Z",
@@ -5126,5 +6586,5 @@
     }
   ],
   "createdAt": "2026-08-23T14:55:05.287Z",
-  "updatedAt": "2026-08-28T01:58:33.606Z"
+  "updatedAt": "2026-08-28T11:57:35.075Z"
 }
