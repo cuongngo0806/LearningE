@@ -1,0 +1,11 @@
+# This repository ships the RUNNABLE APP + your learning data — not the source
+# code. Everything is ignored by default; only the paths below are tracked.
+/*
+
+!.gitignore
+!README.md
+!app/
+!english-learning-data.json
+
+# Never commit real config (endpoints, keys, machine paths)
+app/.env
