@@ -29,20 +29,22 @@
         "help someone with something",
         "help me + verb"
       ],
-      "mastery": 0.44999999999999996,
-      "encounters": 8,
-      "correctUses": 8,
-      "wrongUses": 0,
-      "recognitionMastery": 0.48,
-      "productionMastery": 0.96,
+      "mastery": 0.5499999999999999,
+      "encounters": 12,
+      "correctUses": 11,
+      "wrongUses": 1,
+      "recognitionMastery": 0.6600000000000001,
+      "productionMastery": 1,
       "firstSeen": "2026-08-23T15:04:24.333Z",
-      "lastSeen": "2026-08-30T03:21:59.628Z",
-      "nextReview": "2026-09-01T03:21:59.628Z",
+      "lastSeen": "2026-08-31T03:53:49.711Z",
+      "nextReview": "2026-09-04T03:53:49.711Z",
       "contexts": [
         "Bạn có thể giúp tôi không?",
         "Bạn có thể giúp tôi nấu ăn tối nay không?",
         "Anh có thể giúp tôi dọn dẹp nhà cửa không?",
-        "Bạn có thể giúp tôi mang túi này không?"
+        "Bạn có thể giúp tôi mang túi này không?",
+        "Sự giúp đỡ của gia đình rất quan trọng.",
+        "Chúng tôi cần sự giúp đỡ chuyên nghiệp."
       ]
     },
     "wake up": {
@@ -709,14 +711,14 @@
         "start a family"
       ],
       "mastery": 1,
-      "encounters": 32,
-      "correctUses": 30,
+      "encounters": 36,
+      "correctUses": 34,
       "wrongUses": 0,
       "recognitionMastery": 1,
       "productionMastery": 1,
       "firstSeen": "2026-08-23T15:34:07.316Z",
-      "lastSeen": "2026-08-30T10:14:12.111Z",
-      "nextReview": "2026-09-29T10:14:12.111Z",
+      "lastSeen": "2026-08-31T06:52:42.995Z",
+      "nextReview": "2026-09-30T06:52:42.995Z",
       "contexts": [
         "Cuối tuần, gia đình tôi thường đi dạo trong công viên.",
         "Thành công của cô ấy luôn luôn phụ thuộc vào gia đình cô ấy.",
@@ -1084,15 +1086,15 @@
         "success in",
         "success in work"
       ],
-      "mastery": 0.15000000000000002,
-      "encounters": 25,
-      "correctUses": 12,
-      "wrongUses": 12,
-      "recognitionMastery": 0.7700000000000002,
-      "productionMastery": 0.89,
+      "mastery": 0.25,
+      "encounters": 29,
+      "correctUses": 15,
+      "wrongUses": 13,
+      "recognitionMastery": 0.9500000000000004,
+      "productionMastery": 1,
       "firstSeen": "2026-08-24T16:51:19.250Z",
-      "lastSeen": "2026-08-30T15:28:41.955Z",
-      "nextReview": "2026-08-30T15:28:41.955Z",
+      "lastSeen": "2026-08-31T03:47:06.751Z",
+      "nextReview": "2026-09-01T03:47:06.751Z",
       "contexts": [
         "Sự thành công của công ty phụ thuộc vào sự chăm chỉ của mọi nhân viên.",
         "Thành công phụ thuộc vào sự chăm chỉ, vì vậy anh ấy luôn cố gắng mỗi ngày.",
@@ -1253,14 +1255,14 @@
         "try hard"
       ],
       "mastery": 1,
-      "encounters": 26,
-      "correctUses": 24,
-      "wrongUses": 2,
+      "encounters": 29,
+      "correctUses": 26,
+      "wrongUses": 3,
       "recognitionMastery": 1,
       "productionMastery": 1,
       "firstSeen": "2026-08-25T16:10:14.341Z",
-      "lastSeen": "2026-08-30T09:54:57.167Z",
-      "nextReview": "2026-09-29T09:54:57.167Z",
+      "lastSeen": "2026-08-31T03:36:01.297Z",
+      "nextReview": "2026-09-30T03:36:01.297Z",
       "contexts": [
         "Năm sau, công ty sẽ thành công nếu mọi người làm việc chăm chỉ.",
         "Hôm qua, anh ấy đã thành công trong kỳ thi khó.",
@@ -1413,19 +1415,20 @@
         "work quickly",
         "respond quickly"
       ],
-      "mastery": 0.3,
-      "encounters": 5,
-      "correctUses": 5,
+      "mastery": 0.35,
+      "encounters": 6,
+      "correctUses": 6,
       "wrongUses": 0,
-      "recognitionMastery": 0.3,
-      "productionMastery": 0.6,
+      "recognitionMastery": 0.36,
+      "productionMastery": 0.72,
       "firstSeen": "2026-08-27T15:16:26.460Z",
-      "lastSeen": "2026-08-28T10:41:02.604Z",
-      "nextReview": "2026-08-29T10:41:02.604Z",
+      "lastSeen": "2026-08-31T03:44:07.153Z",
+      "nextReview": "2026-09-02T03:44:07.153Z",
       "contexts": [
         "Cô ấy nấu rau một cách nhanh chóng để cả nhà có thể ăn tối đúng giờ.",
         "Bây giờ, cô ấy đang gọi món nhanh chóng.",
-        "Tuần tới, tôi sẽ dọn sạch thực đơn cũ một cách nhanh chóng."
+        "Tuần tới, tôi sẽ dọn sạch thực đơn cũ một cách nhanh chóng.",
+        "Chiếc laptop mới sẽ giúp tôi làm việc nhanh chóng."
       ]
     },
     "a glass of water": {
@@ -1563,17 +1566,19 @@
       "level": "A1",
       "examples": [],
       "collocations": [],
-      "mastery": 0,
-      "encounters": 1,
-      "correctUses": 0,
+      "mastery": 0.15000000000000002,
+      "encounters": 3,
+      "correctUses": 2,
       "wrongUses": 1,
-      "recognitionMastery": 0,
-      "productionMastery": 0,
+      "recognitionMastery": 0.12,
+      "productionMastery": 0.24,
       "firstSeen": "2026-08-28T10:57:45.690Z",
-      "lastSeen": "2026-08-28T10:57:45.690Z",
-      "nextReview": "2026-08-28T10:57:45.690Z",
+      "lastSeen": "2026-08-31T03:48:51.287Z",
+      "nextReview": "2026-08-31T03:48:51.287Z",
       "contexts": [
-        "Tuần tới, mọi người sẽ mang thức ăn đến công viên."
+        "Tuần tới, mọi người sẽ mang thức ăn đến công viên.",
+        "Đồ ăn ngon đang nằm trên bàn.",
+        "Đồ ăn ở đây rất tự nhiên."
       ]
     },
     "hometown": {
@@ -1590,18 +1595,20 @@
         "her hometown",
         "go back to hometown"
       ],
-      "mastery": 0.15000000000000002,
-      "encounters": 3,
-      "correctUses": 2,
-      "wrongUses": 0,
-      "recognitionMastery": 0.16999999999999998,
-      "productionMastery": 0.24,
+      "mastery": 0.25,
+      "encounters": 7,
+      "correctUses": 5,
+      "wrongUses": 1,
+      "recognitionMastery": 0.35,
+      "productionMastery": 0.55,
       "firstSeen": "2026-08-28T11:02:51.203Z",
-      "lastSeen": "2026-08-30T04:14:31.297Z",
-      "nextReview": "2026-08-30T04:14:31.297Z",
+      "lastSeen": "2026-08-31T03:50:00.519Z",
+      "nextReview": "2026-09-01T03:50:00.519Z",
       "contexts": [
         "My weekend",
-        "Mỗi buổi sáng, cô ấy ăn sáng với gia đình ở quê."
+        "Mỗi buổi sáng, cô ấy ăn sáng với gia đình ở quê.",
+        "Quê hương của tôi rất đẹp.",
+        "Sự yên tĩnh của quê hương giúp tôi nghỉ ngơi."
       ]
     },
     "hang out": {
@@ -1688,23 +1695,24 @@
     },
     "laptop": {
       "word": "laptop",
-      "meaning": "",
+      "meaning": "máy tính xách tay",
       "partOfSpeech": "noun",
       "level": "A2",
       "examples": [],
       "collocations": [],
-      "mastery": 0.15000000000000002,
-      "encounters": 2,
-      "correctUses": 2,
+      "mastery": 0.2,
+      "encounters": 3,
+      "correctUses": 3,
       "wrongUses": 0,
-      "recognitionMastery": 0.12,
-      "productionMastery": 0.24,
+      "recognitionMastery": 0.18,
+      "productionMastery": 0.36,
       "firstSeen": "2026-08-28T11:06:51.909Z",
-      "lastSeen": "2026-08-30T10:05:25.252Z",
-      "nextReview": "2026-08-30T10:05:25.252Z",
+      "lastSeen": "2026-08-31T03:43:53.513Z",
+      "nextReview": "2026-09-01T03:43:53.513Z",
       "contexts": [
         "A desk with a laptop, books, a phone and stationery.",
-        "Chiếc laptop đang nằm mở trên bàn ngay bây giờ."
+        "Chiếc laptop đang nằm mở trên bàn ngay bây giờ.",
+        "Chiếc laptop mới sẽ giúp tôi làm việc nhanh chóng."
       ]
     },
     "pencils": {
@@ -1765,17 +1773,18 @@
       ],
       "collocations": [],
       "mastery": 0,
-      "encounters": 2,
+      "encounters": 3,
       "correctUses": 0,
-      "wrongUses": 0,
+      "wrongUses": 1,
       "recognitionMastery": 0.1,
       "productionMastery": 0,
       "firstSeen": "2026-08-28T11:07:55.227Z",
-      "lastSeen": "2026-08-30T09:48:18.251Z",
-      "nextReview": "2026-08-30T09:48:18.251Z",
+      "lastSeen": "2026-08-31T03:36:45.056Z",
+      "nextReview": "2026-08-31T03:36:45.056Z",
       "contexts": [
         "A desk with a laptop, books, a phone and stationery.",
-        "Cuốn sách đang nằm trên bàn làm việc lúc này."
+        "Cuốn sách đang nằm trên bàn làm việc lúc này.",
+        "Đồ ăn ngon đang nằm trên bàn."
       ]
     },
     "check": {
@@ -1791,19 +1800,20 @@
         "check your email",
         "check your phone"
       ],
-      "mastery": 0.9000000000000002,
-      "encounters": 17,
-      "correctUses": 17,
+      "mastery": 1,
+      "encounters": 19,
+      "correctUses": 19,
       "wrongUses": 0,
       "recognitionMastery": 1,
       "productionMastery": 1,
       "firstSeen": "2026-08-30T03:20:09.105Z",
-      "lastSeen": "2026-08-30T10:10:11.173Z",
-      "nextReview": "2026-09-13T10:10:11.173Z",
+      "lastSeen": "2026-08-31T03:45:52.705Z",
+      "nextReview": "2026-09-30T03:45:52.705Z",
       "contexts": [
         "Tôi cần kiểm tra email.",
         "Bạn có thường xuyên kiểm tra email vào mỗi buổi sáng không?",
-        "Anh ấy có kiểm tra email mỗi sáng không?"
+        "Anh ấy có kiểm tra email mỗi sáng không?",
+        "Họ đã kiểm tra email cẩn thận."
       ]
     },
     "email": {
@@ -1820,40 +1830,42 @@
       ],
       "collocations": [],
       "mastery": 1,
-      "encounters": 19,
-      "correctUses": 19,
+      "encounters": 21,
+      "correctUses": 21,
       "wrongUses": 0,
       "recognitionMastery": 1,
       "productionMastery": 1,
       "firstSeen": "2026-08-30T03:20:09.105Z",
-      "lastSeen": "2026-08-30T10:10:11.173Z",
-      "nextReview": "2026-09-29T10:10:11.173Z",
+      "lastSeen": "2026-08-31T03:45:52.705Z",
+      "nextReview": "2026-09-30T03:45:52.705Z",
       "contexts": [
         "Tôi cần kiểm tra email.",
         "Bạn có thường xuyên kiểm tra email vào mỗi buổi sáng không?",
-        "Anh ấy có kiểm tra email mỗi sáng không?"
+        "Anh ấy có kiểm tra email mỗi sáng không?",
+        "Họ đã kiểm tra email cẩn thận."
       ]
     },
     "finish": {
       "word": "finish",
       "meaning": "làm xong",
-      "partOfSpeech": "",
+      "partOfSpeech": "verb",
       "level": "A2",
       "examples": [
         "I finish work at 6 PM."
       ],
       "collocations": [],
       "mastery": 0.15000000000000002,
-      "encounters": 2,
-      "correctUses": 2,
-      "wrongUses": 0,
-      "recognitionMastery": 0.12,
-      "productionMastery": 0.24,
+      "encounters": 4,
+      "correctUses": 3,
+      "wrongUses": 1,
+      "recognitionMastery": 0.18,
+      "productionMastery": 0.31,
       "firstSeen": "2026-08-30T03:21:42.856Z",
-      "lastSeen": "2026-08-30T03:28:22.028Z",
-      "nextReview": "2026-08-30T03:28:22.028Z",
+      "lastSeen": "2026-08-31T03:48:25.155Z",
+      "nextReview": "2026-08-31T03:48:25.155Z",
       "contexts": [
-        "Tôi cần hoàn thành công việc này trước cuộc họp."
+        "Tôi cần hoàn thành công việc này trước cuộc họp.",
+        "Cô ấy hoàn thành bài tập một cách thành công."
       ]
     },
     "meeting": {
@@ -2044,23 +2056,24 @@
       "word": "evening",
       "meaning": "buổi tối",
       "partOfSpeech": "noun",
-      "level": "A2",
+      "level": "A1",
       "examples": [
         "We had a nice evening together."
       ],
       "collocations": [],
-      "mastery": 0.1,
-      "encounters": 2,
-      "correctUses": 1,
+      "mastery": 0.2,
+      "encounters": 4,
+      "correctUses": 3,
       "wrongUses": 0,
-      "recognitionMastery": 0.11,
-      "productionMastery": 0.12,
+      "recognitionMastery": 0.22999999999999998,
+      "productionMastery": 0.36,
       "firstSeen": "2026-08-30T10:11:47.681Z",
-      "lastSeen": "2026-08-30T15:18:37.211Z",
-      "nextReview": "2026-08-30T15:18:37.211Z",
+      "lastSeen": "2026-08-31T03:41:14.995Z",
+      "nextReview": "2026-09-01T03:41:14.995Z",
       "contexts": [
         "Chúng tôi đã có một buổi tối tuyệt vời cùng gia đình tuần trước.",
-        "Anh ấy nấu những món ăn ngon mỗi buổi tối."
+        "Anh ấy nấu những món ăn ngon mỗi buổi tối.",
+        "Buổi tối yên tĩnh giúp tôi thư giãn."
       ]
     },
     "rent": {
@@ -2070,40 +2083,325 @@
       "level": "A2",
       "examples": [],
       "collocations": [],
-      "mastery": 0,
-      "encounters": 1,
-      "correctUses": 0,
-      "wrongUses": 0,
-      "recognitionMastery": 0.05,
-      "productionMastery": 0,
+      "mastery": 0.15000000000000002,
+      "encounters": 4,
+      "correctUses": 2,
+      "wrongUses": 1,
+      "recognitionMastery": 0.16999999999999998,
+      "productionMastery": 0.24,
       "firstSeen": "2026-08-30T15:24:48.150Z",
-      "lastSeen": "2026-08-30T15:24:48.150Z",
-      "nextReview": "2026-08-30T15:24:48.150Z",
+      "lastSeen": "2026-08-31T03:38:41.909Z",
+      "nextReview": "2026-08-31T03:38:41.909Z",
       "contexts": [
-        "Anh ấy đã nghỉ ngơi trên ghế sofa được hai giờ rồi."
+        "Anh ấy đã nghỉ ngơi trên ghế sofa được hai giờ rồi.",
+        "Tiền thuê nhà hàng tháng rất đắt."
       ]
     },
     "job": {
       "word": "job",
       "meaning": "công việc (vị trí cụ thể)",
       "partOfSpeech": "noun",
-      "level": "A2",
+      "level": "A1",
       "examples": [],
       "collocations": [
         "new job",
         "get a job"
       ],
-      "mastery": 0,
-      "encounters": 1,
-      "correctUses": 0,
+      "mastery": 0.25,
+      "encounters": 5,
+      "correctUses": 4,
       "wrongUses": 0,
-      "recognitionMastery": 0.05,
-      "productionMastery": 0,
+      "recognitionMastery": 0.29,
+      "productionMastery": 0.48,
       "firstSeen": "2026-08-30T15:28:14.031Z",
-      "lastSeen": "2026-08-30T15:28:14.031Z",
-      "nextReview": "2026-08-30T15:28:14.031Z",
+      "lastSeen": "2026-08-31T03:40:16.522Z",
+      "nextReview": "2026-09-01T03:40:16.522Z",
       "contexts": [
-        "Tuần sau, anh ấy sẽ đạt được thành công lớn trong công việc mới."
+        "Tuần sau, anh ấy sẽ đạt được thành công lớn trong công việc mới.",
+        "Anh ấy cần tìm việc làm mới."
+      ]
+    },
+    "monthly": {
+      "word": "monthly",
+      "meaning": "hàng tháng",
+      "partOfSpeech": "adjective",
+      "level": "A2",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0.15000000000000002,
+      "encounters": 3,
+      "correctUses": 2,
+      "wrongUses": 0,
+      "recognitionMastery": 0.16999999999999998,
+      "productionMastery": 0.24,
+      "firstSeen": "2026-08-31T03:37:38.339Z",
+      "lastSeen": "2026-08-31T03:38:41.909Z",
+      "nextReview": "2026-08-31T03:38:41.909Z",
+      "contexts": [
+        "Tiền thuê nhà hàng tháng rất đắt."
+      ]
+    },
+    "quiet": {
+      "word": "quiet",
+      "meaning": "yên tĩnh",
+      "partOfSpeech": "adjective",
+      "level": "A1",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0.2,
+      "encounters": 3,
+      "correctUses": 3,
+      "wrongUses": 0,
+      "recognitionMastery": 0.18,
+      "productionMastery": 0.36,
+      "firstSeen": "2026-08-31T03:41:14.995Z",
+      "lastSeen": "2026-08-31T03:50:00.519Z",
+      "nextReview": "2026-09-01T03:50:00.519Z",
+      "contexts": [
+        "Buổi tối yên tĩnh giúp tôi thư giãn.",
+        "Sự yên tĩnh của quê hương giúp tôi nghỉ ngơi."
+      ]
+    },
+    "important": {
+      "word": "important",
+      "meaning": "quan trọng",
+      "partOfSpeech": "adjective",
+      "level": "A1",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0.3,
+      "encounters": 5,
+      "correctUses": 5,
+      "wrongUses": 0,
+      "recognitionMastery": 0.3,
+      "productionMastery": 0.6,
+      "firstSeen": "2026-08-31T03:45:05.524Z",
+      "lastSeen": "2026-08-31T03:51:45.026Z",
+      "nextReview": "2026-09-01T03:51:45.026Z",
+      "contexts": [
+        "Sự giúp đỡ của gia đình rất quan trọng.",
+        "Sự thành công của anh ấy rất quan trọng.",
+        "Đó là một quyết định quan trọng."
+      ]
+    },
+    "successfully": {
+      "word": "successfully",
+      "meaning": "một cách thành công",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0.1,
+      "encounters": 2,
+      "correctUses": 1,
+      "wrongUses": 1,
+      "recognitionMastery": 0.06,
+      "productionMastery": 0.12,
+      "firstSeen": "2026-08-31T03:47:57.288Z",
+      "lastSeen": "2026-08-31T03:48:25.155Z",
+      "nextReview": "2026-08-31T03:48:25.155Z",
+      "contexts": [
+        "Cô ấy hoàn thành bài tập một cách thành công."
+      ]
+    },
+    "natural": {
+      "word": "natural",
+      "meaning": "tự nhiên",
+      "partOfSpeech": "adjective",
+      "level": "A2",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0.1,
+      "encounters": 1,
+      "correctUses": 1,
+      "wrongUses": 0,
+      "recognitionMastery": 0.06,
+      "productionMastery": 0.12,
+      "firstSeen": "2026-08-31T03:48:51.287Z",
+      "lastSeen": "2026-08-31T03:48:51.287Z",
+      "nextReview": "2026-08-31T03:48:51.287Z",
+      "contexts": [
+        "Đồ ăn ở đây rất tự nhiên."
+      ]
+    },
+    "carefully": {
+      "word": "carefully",
+      "meaning": "cẩn thận",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0.1,
+      "encounters": 1,
+      "correctUses": 1,
+      "wrongUses": 0,
+      "recognitionMastery": 0.06,
+      "productionMastery": 0.12,
+      "firstSeen": "2026-08-31T03:50:25.816Z",
+      "lastSeen": "2026-08-31T03:50:25.816Z",
+      "nextReview": "2026-08-31T03:50:25.816Z",
+      "contexts": [
+        "Anh ấy lái xe cẩn thận."
+      ]
+    },
+    "decision": {
+      "word": "decision",
+      "meaning": "quyết định",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0.1,
+      "encounters": 2,
+      "correctUses": 1,
+      "wrongUses": 1,
+      "recognitionMastery": 0.06,
+      "productionMastery": 0.12,
+      "firstSeen": "2026-08-31T03:51:06.370Z",
+      "lastSeen": "2026-08-31T03:51:45.026Z",
+      "nextReview": "2026-08-31T03:51:45.026Z",
+      "contexts": [
+        "Đó là một quyết định quan trọng."
+      ]
+    },
+    "professional": {
+      "word": "professional",
+      "meaning": "",
+      "partOfSpeech": "adjective",
+      "level": "A2",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0.15000000000000002,
+      "encounters": 2,
+      "correctUses": 2,
+      "wrongUses": 0,
+      "recognitionMastery": 0.12,
+      "productionMastery": 0.24,
+      "firstSeen": "2026-08-31T03:52:59.115Z",
+      "lastSeen": "2026-08-31T03:53:49.711Z",
+      "nextReview": "2026-08-31T03:53:49.711Z",
+      "contexts": [
+        "Chúng tôi cần sự giúp đỡ chuyên nghiệp."
+      ]
+    },
+    "happily": {
+      "word": "happily",
+      "meaning": "một cách hạnh phúc",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0.1,
+      "encounters": 2,
+      "correctUses": 1,
+      "wrongUses": 0,
+      "recognitionMastery": 0.11,
+      "productionMastery": 0.12,
+      "firstSeen": "2026-08-31T06:52:30.107Z",
+      "lastSeen": "2026-08-31T06:52:42.995Z",
+      "nextReview": "2026-08-31T06:52:42.995Z",
+      "contexts": [
+        "Gia đình tôi sống hạnh phúc."
+      ]
+    },
+    "difference": {
+      "word": "difference",
+      "meaning": "sự khác biệt",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0.1,
+      "encounters": 2,
+      "correctUses": 1,
+      "wrongUses": 1,
+      "recognitionMastery": 0.06,
+      "productionMastery": 0.12,
+      "firstSeen": "2026-08-31T06:53:35.695Z",
+      "lastSeen": "2026-08-31T06:53:54.053Z",
+      "nextReview": "2026-08-31T06:53:54.053Z",
+      "contexts": [
+        "Sự khác biệt giữa hai cuốn sách rất rõ ràng."
+      ]
+    },
+    "clear": {
+      "word": "clear",
+      "meaning": "rõ ràng",
+      "partOfSpeech": "adjective",
+      "level": "A2",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0.15000000000000002,
+      "encounters": 2,
+      "correctUses": 2,
+      "wrongUses": 0,
+      "recognitionMastery": 0.12,
+      "productionMastery": 0.24,
+      "firstSeen": "2026-08-31T06:53:35.695Z",
+      "lastSeen": "2026-08-31T06:53:54.053Z",
+      "nextReview": "2026-08-31T06:53:54.053Z",
+      "contexts": [
+        "Sự khác biệt giữa hai cuốn sách rất rõ ràng."
+      ]
+    },
+    "innovative": {
+      "word": "innovative",
+      "meaning": "sáng tạo",
+      "partOfSpeech": "adjective",
+      "level": "B1",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0.1,
+      "encounters": 1,
+      "correctUses": 1,
+      "wrongUses": 0,
+      "recognitionMastery": 0.06,
+      "productionMastery": 0.12,
+      "firstSeen": "2026-08-31T06:55:44.393Z",
+      "lastSeen": "2026-08-31T06:55:44.393Z",
+      "nextReview": "2026-08-31T06:55:44.393Z",
+      "contexts": [
+        "Cô ấy là một ca sĩ sáng tạo."
+      ]
+    },
+    "singer": {
+      "word": "singer",
+      "meaning": "ca sĩ",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0.25,
+      "encounters": 4,
+      "correctUses": 4,
+      "wrongUses": 0,
+      "recognitionMastery": 0.24,
+      "productionMastery": 0.48,
+      "firstSeen": "2026-08-31T06:55:44.393Z",
+      "lastSeen": "2026-08-31T07:14:30.770Z",
+      "nextReview": "2026-09-01T07:14:30.770Z",
+      "contexts": [
+        "Cô ấy là một ca sĩ sáng tạo."
+      ]
+    },
+    "creative": {
+      "word": "creative",
+      "meaning": "",
+      "partOfSpeech": "adjective",
+      "level": "A2",
+      "examples": [],
+      "collocations": [],
+      "mastery": 0.15000000000000002,
+      "encounters": 3,
+      "correctUses": 2,
+      "wrongUses": 1,
+      "recognitionMastery": 0.12,
+      "productionMastery": 0.24,
+      "firstSeen": "2026-08-31T06:56:06.949Z",
+      "lastSeen": "2026-08-31T07:14:30.770Z",
+      "nextReview": "2026-08-31T07:14:30.770Z",
+      "contexts": [
+        "Cô ấy là một ca sĩ sáng tạo."
       ]
     }
   },
@@ -2222,19 +2520,19 @@
     },
     "word_form_noun": {
       "id": "word_form_noun",
-      "pattern": "achieve success",
+      "pattern": "art/adj + NOUN",
       "meaning": "using correct noun form",
       "usage": "",
       "examples": [
         "The decision was final."
       ],
-      "mastery": 0.05,
-      "correctUses": 4,
-      "incorrectUses": 4,
+      "mastery": 0.35,
+      "correctUses": 13,
+      "incorrectUses": 7,
       "commonErrors": [],
       "firstSeen": "2026-08-24T16:51:19.250Z",
-      "lastSeen": "2026-08-30T04:32:57.216Z",
-      "nextReview": "2026-08-30T04:32:57.216Z"
+      "lastSeen": "2026-08-31T06:53:54.053Z",
+      "nextReview": "2026-09-02T06:53:54.053Z"
     },
     "present_simple": {
       "id": "present_simple",
@@ -2380,13 +2678,13 @@
       "examples": [
         "a successful project"
       ],
-      "mastery": 0.25,
-      "correctUses": 4,
-      "incorrectUses": 1,
+      "mastery": 0.9000000000000002,
+      "correctUses": 19,
+      "incorrectUses": 3,
       "commonErrors": [],
       "firstSeen": "2026-08-27T14:48:37.835Z",
-      "lastSeen": "2026-08-27T14:54:38.776Z",
-      "nextReview": "2026-08-28T14:54:38.776Z"
+      "lastSeen": "2026-08-31T07:14:30.771Z",
+      "nextReview": "2026-09-14T07:14:30.771Z"
     },
     "word_form_adv": {
       "id": "word_form_adv",
@@ -2396,13 +2694,13 @@
       "examples": [
         "She works carefully."
       ],
-      "mastery": 0.35,
-      "correctUses": 6,
-      "incorrectUses": 2,
+      "mastery": 0.9000000000000002,
+      "correctUses": 18,
+      "incorrectUses": 3,
       "commonErrors": [],
       "firstSeen": "2026-08-27T14:57:17.593Z",
-      "lastSeen": "2026-08-27T15:35:39.233Z",
-      "nextReview": "2026-08-29T15:35:39.233Z"
+      "lastSeen": "2026-08-31T06:52:42.996Z",
+      "nextReview": "2026-09-14T06:52:42.996Z"
     },
     "present_perfect_since": {
       "id": "present_perfect_since",
@@ -2420,31 +2718,31 @@
     },
     "need_to": {
       "id": "need_to",
-      "pattern": "need to + verb",
+      "pattern": "need + noun",
       "meaning": "cần làm gì",
       "usage": "",
       "examples": [],
-      "mastery": 0.15000000000000002,
-      "correctUses": 2,
-      "incorrectUses": 14,
+      "mastery": 0.05000000000000002,
+      "correctUses": 4,
+      "incorrectUses": 18,
       "commonErrors": [],
       "firstSeen": "2026-08-30T03:20:09.105Z",
-      "lastSeen": "2026-08-30T03:28:22.028Z",
-      "nextReview": "2026-08-30T03:28:22.028Z"
+      "lastSeen": "2026-08-31T03:53:49.711Z",
+      "nextReview": "2026-08-31T03:53:49.711Z"
     },
     "before_noun": {
       "id": "before_noun",
-      "pattern": "before + noun",
+      "pattern": "adjective + noun",
       "meaning": "trước (một sự việc)",
       "usage": "",
       "examples": [],
-      "mastery": 0.15000000000000002,
-      "correctUses": 2,
-      "incorrectUses": 0,
+      "mastery": 0.44999999999999996,
+      "correctUses": 11,
+      "incorrectUses": 3,
       "commonErrors": [],
       "firstSeen": "2026-08-30T03:21:42.856Z",
-      "lastSeen": "2026-08-30T03:28:22.028Z",
-      "nextReview": "2026-08-30T03:28:22.028Z"
+      "lastSeen": "2026-08-31T07:14:30.770Z",
+      "nextReview": "2026-09-02T07:14:30.770Z"
     },
     "have_a_noun": {
       "id": "have_a_noun",
@@ -2505,16 +2803,16 @@
     "S + will + V": {
       "id": "S + will + V",
       "pattern": "S + will + V",
-      "meaning": "",
+      "meaning": "Thì tương lai đơn",
       "usage": "",
       "examples": [],
-      "mastery": 0.1,
-      "correctUses": 1,
+      "mastery": 0.2,
+      "correctUses": 3,
       "incorrectUses": 0,
       "commonErrors": [],
       "firstSeen": "2026-08-30T04:53:43.882Z",
-      "lastSeen": "2026-08-30T04:53:43.882Z",
-      "nextReview": "2026-08-30T04:53:43.882Z"
+      "lastSeen": "2026-08-31T03:44:07.153Z",
+      "nextReview": "2026-09-01T03:44:07.153Z"
     },
     "S + V(s) + time marker": {
       "id": "S + V(s) + time marker",
@@ -2560,17 +2858,17 @@
     },
     "verb_pattern": {
       "id": "verb_pattern",
-      "pattern": "have/has + V3",
-      "meaning": "",
+      "pattern": "subject + verb + adverb",
+      "meaning": "dùng trạng từ để bổ nghĩa cho động từ",
       "usage": "",
       "examples": [],
-      "mastery": 0.1,
-      "correctUses": 1,
-      "incorrectUses": 0,
+      "mastery": 0.15000000000000002,
+      "correctUses": 4,
+      "incorrectUses": 2,
       "commonErrors": [],
       "firstSeen": "2026-08-30T09:54:57.167Z",
-      "lastSeen": "2026-08-30T09:54:57.167Z",
-      "nextReview": "2026-08-30T09:54:57.167Z"
+      "lastSeen": "2026-08-31T06:52:42.995Z",
+      "nextReview": "2026-08-31T06:52:42.995Z"
     },
     "S + V2 + time marker": {
       "id": "S + V2 + time marker",
@@ -5101,10 +5399,10 @@
       "original": "successed",
       "correction": "success",
       "explanation": "'success' là danh từ (object của 'had'), không phải động từ nên không thêm '-ed'.",
-      "count": 1,
-      "mastery": 0.2,
+      "count": 2,
+      "mastery": 0.15000000000000002,
       "firstSeen": "2026-08-30T10:06:10.159Z",
-      "lastSeen": "2026-08-30T10:06:10.159Z"
+      "lastSeen": "2026-08-31T03:46:49.612Z"
     },
     "vocabulary:great": {
       "id": "mistake_mtfn9m27ik1ffs",
@@ -5403,9 +5701,356 @@
       "mastery": 0.2,
       "firstSeen": "2026-08-30T15:29:56.056Z",
       "lastSeen": "2026-08-30T15:29:56.056Z"
+    },
+    "grammar:his": {
+      "id": "mistake_mtgopsb5tsij2m",
+      "type": "grammar",
+      "original": "Him",
+      "correction": "His",
+      "explanation": "Vị trí trước danh từ cần tính từ sở hữu (possessive adjective): 'His', không dùng đại từ tân ngữ 'Him'.",
+      "count": 2,
+      "mastery": 0.15000000000000002,
+      "firstSeen": "2026-08-31T03:34:30.545Z",
+      "lastSeen": "2026-08-31T03:46:49.612Z"
+    },
+    "grammar:is very great": {
+      "id": "mistake_mtgopsb5n4qlbt",
+      "type": "grammar",
+      "original": "very great",
+      "correction": "is very great",
+      "explanation": "Mỗi câu tiếng Anh cần động từ chính. Subject + BE + adjective: 'His success IS very great.'",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-31T03:34:30.545Z",
+      "lastSeen": "2026-08-31T03:34:30.545Z"
+    },
+    "grammar:she works hard": {
+      "id": "mistake_mtgoqwi3kkniz0",
+      "type": "grammar",
+      "original": "She is hard work",
+      "correction": "She works hard",
+      "explanation": "'Làm việc' = 'works' (động từ). 'Hard' ở đây là trạng từ bổ nghĩa cho động từ 'works', không phải tính từ/danh từ sau 'is'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-31T03:35:22.635Z",
+      "lastSeen": "2026-08-31T03:35:22.635Z"
+    },
+    "grammar:works": {
+      "id": "mistake_mtgorhv7io05ue",
+      "type": "grammar",
+      "original": "is works",
+      "correction": "works",
+      "explanation": "Không dùng 'be' + động từ chia thì. 'is' dùng với V-ing (is working), hoặc bỏ 'is' và dùng 'works' cho thì hiện tại đơn.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-31T03:35:50.323Z",
+      "lastSeen": "2026-08-31T03:35:50.323Z"
+    },
+    "vocabulary:rent": {
+      "id": "mistake_mtgott7ova3bnh",
+      "type": "vocabulary",
+      "original": "rent of restaurant",
+      "correction": "rent",
+      "explanation": "'Tiền thuê nhà' = rent. 'Nhà hàng' (restaurant) khác với 'thuê nhà' (rent).",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-31T03:37:38.339Z",
+      "lastSeen": "2026-08-31T03:37:38.339Z"
+    },
+    "word_order:monthly": {
+      "id": "mistake_mtgott7osv7vyz",
+      "type": "word_order",
+      "patternId": "word_form_adj",
+      "original": "every month",
+      "correction": "monthly",
+      "explanation": "Vị trí trước danh từ 'rent' cần tính từ 'monthly', không dùng cụm trạng từ 'every month'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-31T03:37:38.339Z",
+      "lastSeen": "2026-08-31T03:37:38.339Z"
+    },
+    "word_order:monthly rent": {
+      "id": "mistake_mtgoukpga28rpo",
+      "type": "word_order",
+      "patternId": "word_form_adj",
+      "original": "rent monthly",
+      "correction": "monthly rent",
+      "explanation": "Tính từ bổ nghĩa cho danh từ phải đứng TRƯỚC danh từ: 'monthly rent', không phải 'rent monthly'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-31T03:38:13.972Z",
+      "lastSeen": "2026-08-31T03:38:13.972Z"
+    },
+    "grammar:needs to": {
+      "id": "mistake_mtgowdeqjis5bb",
+      "type": "grammar",
+      "patternId": "need_to",
+      "original": "is need to",
+      "correction": "needs to",
+      "explanation": "'need' là động từ chính của câu, chia theo chủ ngữ 'He' → 'needs'. Không dùng 'is' trước động từ thường.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-31T03:39:37.826Z",
+      "lastSeen": "2026-08-31T03:39:37.826Z"
+    },
+    "article:a new job": {
+      "id": "mistake_mtgowdeqyk7vfy",
+      "type": "article",
+      "original": "new jobs",
+      "correction": "a new job",
+      "explanation": "Một việc làm mới → dùng 'a new job' (số ít, có mạo từ).",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-31T03:39:37.826Z",
+      "lastSeen": "2026-08-31T03:39:37.826Z"
+    },
+    "grammar:he needs to": {
+      "id": "mistake_mtgowwfy8oc6nu",
+      "type": "grammar",
+      "patternId": "need_to",
+      "original": "He is needs to",
+      "correction": "He needs to",
+      "explanation": "'needs' là động từ chính đã chia, không dùng 'is' trước nó. 'Is' chỉ dùng khi là động từ chính hoặc trợ động từ cho V-ing.",
+      "count": 2,
+      "mastery": 0.15000000000000002,
+      "firstSeen": "2026-08-31T03:40:02.494Z",
+      "lastSeen": "2026-08-31T03:40:11.592Z"
+    },
+    "spelling:quiet": {
+      "id": "mistake_mtgoy2dbupk8ks",
+      "type": "spelling",
+      "original": "quite",
+      "correction": "quiet",
+      "explanation": "'quiet' (adj) = yên tĩnh, 'quite' (adv) = khá. Vị trí trước danh từ 'evening' cần tính từ 'quiet'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-31T03:40:56.831Z",
+      "lastSeen": "2026-08-31T03:40:56.831Z"
+    },
+    "grammar:helps": {
+      "id": "mistake_mtgoy2db0yy35h",
+      "type": "grammar",
+      "original": "help",
+      "correction": "helps",
+      "explanation": "Chủ ngữ số ít 'evening' → động từ thêm -s: 'helps'.",
+      "count": 2,
+      "mastery": 0.15000000000000002,
+      "firstSeen": "2026-08-31T03:40:56.831Z",
+      "lastSeen": "2026-08-31T03:49:27.475Z"
+    },
+    "grammar:my hometown is very beautiful.": {
+      "id": "mistake_mtgozhvsn3lrvo",
+      "type": "grammar",
+      "original": "My village is so beatiful",
+      "correction": "My hometown is very beautiful.",
+      "explanation": "Compare your sentence with the corrected version.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-31T03:42:03.592Z",
+      "lastSeen": "2026-08-31T03:42:03.592Z"
+    },
+    "grammar:work": {
+      "id": "mistake_mtgp1up5j3zcwj",
+      "type": "grammar",
+      "original": "works",
+      "correction": "work",
+      "explanation": "Sau cấu trúc 'help + someone + V', động từ ở dạng nguyên mẫu không chia (bare infinitive).",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-31T03:43:53.513Z",
+      "lastSeen": "2026-08-31T03:43:53.513Z"
+    },
+    "vocabulary:help": {
+      "id": "mistake_mtgp35488t4mxy",
+      "type": "vocabulary",
+      "patternId": "word_form_noun",
+      "original": "helpful",
+      "correction": "help",
+      "explanation": "Đây là vị trí chủ ngữ (subject) nên cần danh từ 'help', không dùng tính từ 'helpful'. Tính từ dùng để bổ nghĩa cho danh từ, không đứng làm chủ ngữ.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-31T03:44:53.672Z",
+      "lastSeen": "2026-08-31T03:44:53.672Z"
+    },
+    "tense:checked": {
+      "id": "mistake_mtgp42t4ys9ik8",
+      "type": "tense",
+      "original": "will check",
+      "correction": "checked",
+      "explanation": "'đã' = past tense → dùng 'checked'. 'will check' là tương lai.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-31T03:45:37.336Z",
+      "lastSeen": "2026-08-31T03:45:37.336Z"
+    },
+    "tense:finished": {
+      "id": "mistake_mtgp72soymgt5w",
+      "type": "tense",
+      "original": "finish",
+      "correction": "finished",
+      "explanation": "Câu diễn tả hành động đã xong → dùng quá khứ đơn: finished.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-31T03:47:57.288Z",
+      "lastSeen": "2026-08-31T03:47:57.288Z"
+    },
+    "article:the homework": {
+      "id": "mistake_mtgp72so5ta4nn",
+      "type": "article",
+      "original": "homework",
+      "correction": "the homework",
+      "explanation": "Cần 'the' vì nói đến bài tập cụ thể.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-31T03:47:57.288Z",
+      "lastSeen": "2026-08-31T03:47:57.288Z"
+    },
+    "word_order:successfully": {
+      "id": "mistake_mtgp72so1jkd5t",
+      "type": "word_order",
+      "original": "succeed",
+      "correction": "successfully",
+      "explanation": "Đây là vị trí bổ nghĩa cho động từ 'finished' nên dùng trạng từ 'successfully', không dùng động từ 'succeed'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-31T03:47:57.288Z",
+      "lastSeen": "2026-08-31T03:47:57.288Z"
+    },
+    "article:of my hometown": {
+      "id": "mistake_mtgp90dvtr3zl2",
+      "type": "article",
+      "original": "of hometown",
+      "correction": "of my hometown",
+      "explanation": "'Quê hương' ở đây là của bạn, cần dùng 'my hometown'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-31T03:49:27.475Z",
+      "lastSeen": "2026-08-31T03:49:27.475Z"
+    },
+    "vocabulary:decision": {
+      "id": "mistake_mtgpb4ozqbawma",
+      "type": "vocabulary",
+      "original": "decide",
+      "correction": "decision",
+      "explanation": "'Decide' là động từ. Vị trí sau tính từ 'important' cần danh từ, dùng 'decision' (noun form).",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-31T03:51:06.370Z",
+      "lastSeen": "2026-08-31T03:51:06.370Z"
+    },
+    "article:an important": {
+      "id": "mistake_mtgpb4ozttkh1e",
+      "type": "article",
+      "original": "a important",
+      "correction": "an important",
+      "explanation": "Dùng 'an' trước từ bắt đầu bằng nguyên âm (vowel sound): an important.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-31T03:51:06.370Z",
+      "lastSeen": "2026-08-31T03:51:06.370Z"
+    },
+    "grammar:need professional help": {
+      "id": "mistake_mtgpdjosb17j2v",
+      "type": "grammar",
+      "patternId": "need_to",
+      "original": "need to professional help",
+      "correction": "need professional help",
+      "explanation": "'need to + verb' (cần làm gì), nhưng 'need + noun' (cần cái gì). 'help' ở đây là danh từ nên không dùng 'to'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-31T03:52:59.115Z",
+      "lastSeen": "2026-08-31T03:52:59.115Z"
+    },
+    "grammar:happily": {
+      "id": "mistake_mtgvsemzf50vs0",
+      "type": "grammar",
+      "original": "happy",
+      "correction": "happily",
+      "explanation": "Vị trí bổ nghĩa cho động từ 'live' cần trạng từ (adverb) 'happily', không dùng tính từ 'happy'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-31T06:52:30.107Z",
+      "lastSeen": "2026-08-31T06:52:30.107Z"
+    },
+    "vocabulary:difference": {
+      "id": "mistake_mtgvtt8v4jrg38",
+      "type": "vocabulary",
+      "original": "different",
+      "correction": "difference",
+      "explanation": "Vị trí chủ ngữ (Subject) cần danh từ 'difference', không dùng tính từ 'different'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-31T06:53:35.695Z",
+      "lastSeen": "2026-08-31T06:53:35.695Z"
+    },
+    "article:between the two books": {
+      "id": "mistake_mtgvu7etmz18ba",
+      "type": "article",
+      "original": "between 2 books",
+      "correction": "between the two books",
+      "explanation": "Hai cuốn sách cụ thể nên cần 'the'. Nên viết 'two' thay vì '2' trong văn viết.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-31T06:53:54.053Z",
+      "lastSeen": "2026-08-31T06:53:54.053Z"
+    },
+    "article:an innovative": {
+      "id": "mistake_mtgvwkjup8l4rp",
+      "type": "article",
+      "original": "a innovative",
+      "correction": "an innovative",
+      "explanation": "Dùng 'an' trước từ bắt đầu bằng nguyên âm (a/e/i/o/u sound): 'an innovative'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-31T06:55:44.393Z",
+      "lastSeen": "2026-08-31T06:55:44.393Z"
+    },
+    "grammar:she is a creative singer.": {
+      "id": "mistake_mtgvx1yd5a82u0",
+      "type": "grammar",
+      "original": "She is an innovative singer",
+      "correction": "She is a creative singer.",
+      "explanation": "Compare your sentence with the corrected version.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-31T06:56:06.949Z",
+      "lastSeen": "2026-08-31T06:56:06.949Z"
+    },
+    "article:a creative": {
+      "id": "mistake_mtgvxetiul5cpb",
+      "type": "article",
+      "original": "an creative",
+      "correction": "a creative",
+      "explanation": "Dùng 'a' trước từ bắt đầu bằng phụ âm (creative → /kr/), 'an' chỉ dùng trước nguyên âm.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-08-31T06:56:23.622Z",
+      "lastSeen": "2026-08-31T06:56:23.622Z"
     }
   },
   "sessions": [
+    {
+      "id": "session_mth7dgbud2oud0",
+      "startedAt": "2026-08-31T03:24:43.365Z",
+      "endedAt": "2026-08-31T12:16:47.850Z",
+      "durationMin": 532,
+      "mode": "guided_translation",
+      "exercises": 43,
+      "correct": 20,
+      "newVocabulary": [
+        "monthly",
+        "happily"
+      ],
+      "patternsPracticed": [
+        "word_form_noun",
+        "word_form_adv",
+        "word_form_adj",
+        "need_to",
+        "S + will + V",
+        "verb_pattern",
+        "before_noun"
+      ]
+    },
     {
       "id": "session_mtfb398xwu8bsx",
       "startedAt": "2026-08-30T04:03:46.308Z",
@@ -5819,16 +6464,16 @@
     }
   ],
   "statistics": {
-    "totalExercises": 303,
-    "totalCorrect": 147,
-    "studyMinutes": 253,
-    "streakDays": 1,
-    "lastStudyDate": "2026-08-30",
-    "vocabularyScore": 0.31,
-    "patternScore": 0.39,
-    "thinkingScore": 0.52,
-    "writingScore": 0.45,
-    "guidedCompleted": 136
+    "totalExercises": 346,
+    "totalCorrect": 167,
+    "studyMinutes": 785,
+    "streakDays": 2,
+    "lastStudyDate": "2026-08-31",
+    "vocabularyScore": 0.29,
+    "patternScore": 0.45,
+    "thinkingScore": 0.51,
+    "writingScore": 0.47,
+    "guidedCompleted": 156
   },
   "settings": {
     "maxHintsBeforeAnswer": 4,
@@ -5973,9 +6618,505 @@
     "anh ấy đã nghỉ ngơi trên ghế sofa được hai giờ rồi.",
     "chúng tôi đã sống trong ngôi nhà này được năm năm rồi.",
     "tuần sau, anh ấy sẽ đạt được thành công lớn trong công việc mới.",
-    "chúng tôi sẽ nghỉ ngơi trong công viên vào buổi chiều mai."
+    "chúng tôi sẽ nghỉ ngơi trong công viên vào buổi chiều mai.",
+    "sự thành công của anh ấy rất lớn.",
+    "cô ấy làm việc chăm chỉ mỗi ngày.",
+    "đồ ăn ngon đang nằm trên bàn.",
+    "tiền thuê nhà hàng tháng rất đắt.",
+    "anh ấy cần tìm việc làm mới.",
+    "buổi tối yên tĩnh giúp tôi thư giãn.",
+    "quê hương của tôi rất đẹp.",
+    "chiếc laptop mới sẽ giúp tôi làm việc nhanh chóng.",
+    "sự giúp đỡ của gia đình rất quan trọng.",
+    "họ đã kiểm tra email cẩn thận.",
+    "sự thành công của anh ấy rất quan trọng.",
+    "cô ấy hoàn thành bài tập một cách thành công.",
+    "đồ ăn ở đây rất tự nhiên.",
+    "sự yên tĩnh của quê hương giúp tôi nghỉ ngơi.",
+    "anh ấy lái xe cẩn thận.",
+    "đó là một quyết định quan trọng.",
+    "chúng tôi cần sự giúp đỡ chuyên nghiệp.",
+    "gia đình tôi sống hạnh phúc.",
+    "sự khác biệt giữa hai cuốn sách rất rõ ràng.",
+    "cô ấy là một ca sĩ sáng tạo."
   ],
   "history": [
+    {
+      "id": "h_mtgwkpo35emxzt",
+      "at": "2026-08-31T07:14:30.771Z",
+      "mode": "guided_translation",
+      "title": "Cô ấy là một ca sĩ sáng tạo.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Cô ấy là một ca sĩ sáng tạo.",
+        "corrected": "She is a creative singer.",
+        "userSentence": "She is a creative singer",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "article",
+            "correction": "an innovative",
+            "explanation": "Dùng 'an' trước từ bắt đầu bằng nguyên âm (a/e/i/o/u sound): 'an innovative'."
+          },
+          {
+            "type": "grammar",
+            "correction": "She is a creative singer.",
+            "explanation": "Compare your sentence with the corrected version."
+          },
+          {
+            "type": "article",
+            "correction": "a creative",
+            "explanation": "Dùng 'a' trước từ bắt đầu bằng phụ âm (creative → /kr/), 'an' chỉ dùng trước nguyên âm."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtgvu7etvjomui",
+      "at": "2026-08-31T06:53:54.053Z",
+      "mode": "guided_translation",
+      "title": "Sự khác biệt giữa hai cuốn sách rất rõ ràng.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Sự khác biệt giữa hai cuốn sách rất rõ ràng.",
+        "corrected": "The difference between the two books is very clear.",
+        "userSentence": "The difference between 2 books is  very clear.",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "vocabulary",
+            "correction": "difference",
+            "explanation": "Vị trí chủ ngữ (Subject) cần danh từ 'difference', không dùng tính từ 'different'."
+          },
+          {
+            "type": "article",
+            "correction": "between the two books",
+            "explanation": "Hai cuốn sách cụ thể nên cần 'the'. Nên viết 'two' thay vì '2' trong văn viết."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtgvsol0723349",
+      "at": "2026-08-31T06:52:42.996Z",
+      "mode": "guided_translation",
+      "title": "Gia đình tôi sống hạnh phúc.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Gia đình tôi sống hạnh phúc.",
+        "corrected": "My family live happily.",
+        "userSentence": "My family live happily",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "happily",
+            "explanation": "Vị trí bổ nghĩa cho động từ 'live' cần trạng từ (adverb) 'happily', không dùng tính từ 'happy'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtgpemq8fxmoh6",
+      "at": "2026-08-31T03:53:49.712Z",
+      "mode": "guided_translation",
+      "title": "Chúng tôi cần sự giúp đỡ chuyên nghiệp.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Chúng tôi cần sự giúp đỡ chuyên nghiệp.",
+        "corrected": "We need professional help.",
+        "userSentence": "We need professional help",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "need professional help",
+            "explanation": "'need to + verb' (cần làm gì), nhưng 'need + noun' (cần cái gì). 'help' ở đây là danh từ nên không dùng 'to'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtgpbyiq8wz9zk",
+      "at": "2026-08-31T03:51:45.026Z",
+      "mode": "guided_translation",
+      "title": "Đó là một quyết định quan trọng.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Đó là một quyết định quan trọng.",
+        "corrected": "That is an important decision.",
+        "userSentence": "This is an important decision.",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "vocabulary",
+            "correction": "decision",
+            "explanation": "'Decide' là động từ. Vị trí sau tính từ 'important' cần danh từ, dùng 'decision' (noun form)."
+          },
+          {
+            "type": "article",
+            "correction": "an important",
+            "explanation": "Dùng 'an' trước từ bắt đầu bằng nguyên âm (vowel sound): an important."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtgpa9egutnmdm",
+      "at": "2026-08-31T03:50:25.816Z",
+      "mode": "guided_translation",
+      "title": "Anh ấy lái xe cẩn thận.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Anh ấy lái xe cẩn thận.",
+        "corrected": "He drives carefully.",
+        "userSentence": "He drives carefully.",
+        "status": "correct",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mtgp9pvte9okg2",
+      "at": "2026-08-31T03:50:00.521Z",
+      "mode": "guided_translation",
+      "title": "Sự yên tĩnh của quê hương giúp tôi nghỉ ngơi.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Sự yên tĩnh của quê hương giúp tôi nghỉ ngơi.",
+        "corrected": "The quiet of my hometown helps me rest.",
+        "userSentence": "The quiet of my hometown helps me relax.",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "article",
+            "correction": "of my hometown",
+            "explanation": "'Quê hương' ở đây là của bạn, cần dùng 'my hometown'."
+          },
+          {
+            "type": "grammar",
+            "correction": "helps",
+            "explanation": "Chủ ngữ 'The quiet of my hometown' là ngôi 3 số ít → động từ phải thêm -s."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtgp88go6hgim7",
+      "at": "2026-08-31T03:48:51.288Z",
+      "mode": "guided_translation",
+      "title": "Đồ ăn ở đây rất tự nhiên.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Đồ ăn ở đây rất tự nhiên.",
+        "corrected": "The food here is very natural.",
+        "userSentence": "The food here is very natural.",
+        "status": "correct",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mtgp7oasqkfxu4",
+      "at": "2026-08-31T03:48:25.156Z",
+      "mode": "guided_translation",
+      "title": "Cô ấy hoàn thành bài tập một cách thành công.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Cô ấy hoàn thành bài tập một cách thành công.",
+        "corrected": "She finished the homework successfully.",
+        "userSentence": "She finished the homework successfully.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "tense",
+            "correction": "finished",
+            "explanation": "Câu diễn tả hành động đã xong → dùng quá khứ đơn: finished."
+          },
+          {
+            "type": "article",
+            "correction": "the homework",
+            "explanation": "Cần 'the' vì nói đến bài tập cụ thể."
+          },
+          {
+            "type": "word_order",
+            "correction": "successfully",
+            "explanation": "Đây là vị trí bổ nghĩa cho động từ 'finished' nên dùng trạng từ 'successfully', không dùng động từ 'succeed'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtgp5zsvpu53bw",
+      "at": "2026-08-31T03:47:06.751Z",
+      "mode": "guided_translation",
+      "title": "Sự thành công của anh ấy rất quan trọng.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Sự thành công của anh ấy rất quan trọng.",
+        "corrected": "His success is very important.",
+        "userSentence": "His success is very important.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "His",
+            "explanation": "'His' đã là đại từ sở hữu, không thêm 's."
+          },
+          {
+            "type": "spelling",
+            "correction": "success"
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtgp4eo3y0ylzz",
+      "at": "2026-08-31T03:45:52.707Z",
+      "mode": "guided_translation",
+      "title": "Họ đã kiểm tra email cẩn thận.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Họ đã kiểm tra email cẩn thận.",
+        "corrected": "They checked the email carefully.",
+        "userSentence": "They checked emails carefully.",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "tense",
+            "correction": "checked",
+            "explanation": "'đã' = past tense → dùng 'checked'. 'will check' là tương lai."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtgp3e9gnyeqmz",
+      "at": "2026-08-31T03:45:05.524Z",
+      "mode": "guided_translation",
+      "title": "Sự giúp đỡ của gia đình rất quan trọng.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Sự giúp đỡ của gia đình rất quan trọng.",
+        "corrected": "The help of family is very important.",
+        "userSentence": "The help of family is very important.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "vocabulary",
+            "correction": "help",
+            "explanation": "Đây là vị trí chủ ngữ (subject) nên cần danh từ 'help', không dùng tính từ 'helpful'. Tính từ dùng để bổ nghĩa cho danh từ, không đứng làm chủ ngữ."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtgp25819278u7",
+      "at": "2026-08-31T03:44:07.153Z",
+      "mode": "guided_translation",
+      "title": "Chiếc laptop mới sẽ giúp tôi làm việc nhanh chóng.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Chiếc laptop mới sẽ giúp tôi làm việc nhanh chóng.",
+        "corrected": "The new laptop will help me work quickly.",
+        "userSentence": "The new laptop will help me work quickly.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "work",
+            "explanation": "Sau cấu trúc 'help + someone + V', động từ ở dạng nguyên mẫu không chia (bare infinitive)."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtgp09x6kgxv78",
+      "at": "2026-08-31T03:42:39.930Z",
+      "mode": "guided_translation",
+      "title": "Quê hương của tôi rất đẹp.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Quê hương của tôi rất đẹp.",
+        "corrected": "My hometown is very beautiful.",
+        "userSentence": "My hometown is so beautiful",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "My hometown is very beautiful.",
+            "explanation": "Compare your sentence with the corrected version."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtgoygdvb4rnn7",
+      "at": "2026-08-31T03:41:14.995Z",
+      "mode": "guided_translation",
+      "title": "Buổi tối yên tĩnh giúp tôi thư giãn.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Buổi tối yên tĩnh giúp tôi thư giãn.",
+        "corrected": "The quiet evening helps me relax.",
+        "userSentence": "The quiet evening helps me relax.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "spelling",
+            "correction": "quiet",
+            "explanation": "'quiet' (adj) = yên tĩnh, 'quite' (adv) = khá. Vị trí trước danh từ 'evening' cần tính từ 'quiet'."
+          },
+          {
+            "type": "grammar",
+            "correction": "helps",
+            "explanation": "Chủ ngữ số ít 'evening' → động từ thêm -s: 'helps'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtgox79mk91stx",
+      "at": "2026-08-31T03:40:16.522Z",
+      "mode": "guided_translation",
+      "title": "Anh ấy cần tìm việc làm mới.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Anh ấy cần tìm việc làm mới.",
+        "corrected": "He needs to find a new job.",
+        "userSentence": "He needs to find a new job.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "needs to",
+            "explanation": "'need' là động từ chính của câu, chia theo chủ ngữ 'He' → 'needs'. Không dùng 'is' trước động từ thường."
+          },
+          {
+            "type": "article",
+            "correction": "a new job",
+            "explanation": "Một việc làm mới → dùng 'a new job' (số ít, có mạo từ)."
+          },
+          {
+            "type": "grammar",
+            "correction": "He needs to",
+            "explanation": "'needs' là động từ chính đã chia, không dùng 'is' trước nó. 'Is' chỉ dùng khi là động từ chính hoặc trợ động từ cho V-ing."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtgov69hvx4zui",
+      "at": "2026-08-31T03:38:41.909Z",
+      "mode": "guided_translation",
+      "title": "Tiền thuê nhà hàng tháng rất đắt.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Tiền thuê nhà hàng tháng rất đắt.",
+        "corrected": "The monthly rent is very expensive.",
+        "userSentence": "The monthly rent is very expensive",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "vocabulary",
+            "correction": "rent",
+            "explanation": "'Tiền thuê nhà' = rent. 'Nhà hàng' (restaurant) khác với 'thuê nhà' (rent)."
+          },
+          {
+            "type": "word_order",
+            "correction": "monthly",
+            "explanation": "Vị trí trước danh từ 'rent' cần tính từ 'monthly', không dùng cụm trạng từ 'every month'."
+          },
+          {
+            "type": "word_order",
+            "correction": "monthly rent",
+            "explanation": "Tính từ bổ nghĩa cho danh từ phải đứng TRƯỚC danh từ: 'monthly rent', không phải 'rent monthly'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtgoso3kt0d8kk",
+      "at": "2026-08-31T03:36:45.056Z",
+      "mode": "guided_translation",
+      "title": "Đồ ăn ngon đang nằm trên bàn.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Đồ ăn ngon đang nằm trên bàn.",
+        "corrected": "The delicious food is on the table.",
+        "userSentence": "The delicious food lying on the table.",
+        "status": "acceptable",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mtgorqc16skhqq",
+      "at": "2026-08-31T03:36:01.297Z",
+      "mode": "guided_translation",
+      "title": "Cô ấy làm việc chăm chỉ mỗi ngày.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Cô ấy làm việc chăm chỉ mỗi ngày.",
+        "corrected": "She works hard every day.",
+        "userSentence": "She works hard every day.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "She works hard",
+            "explanation": "'Làm việc' = 'works' (động từ). 'Hard' ở đây là trạng từ bổ nghĩa cho động từ 'works', không phải tính từ/danh từ sau 'is'."
+          },
+          {
+            "type": "grammar",
+            "correction": "works",
+            "explanation": "Không dùng 'be' + động từ chia thì. 'is' dùng với V-ing (is working), hoặc bỏ 'is' và dùng 'works' cho thì hiện tại đơn."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtgoqb9z0x0ww2",
+      "at": "2026-08-31T03:34:55.127Z",
+      "mode": "guided_translation",
+      "title": "Sự thành công của anh ấy rất lớn.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Sự thành công của anh ấy rất lớn.",
+        "corrected": "His success is very great.",
+        "userSentence": "His success is very great",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "His",
+            "explanation": "Vị trí trước danh từ cần tính từ sở hữu (possessive adjective): 'His', không dùng đại từ tân ngữ 'Him'."
+          },
+          {
+            "type": "grammar",
+            "correction": "is very great",
+            "explanation": "Mỗi câu tiếng Anh cần động từ chính. Subject + BE + adjective: 'His success IS very great.'"
+          }
+        ]
+      }
+    },
     {
       "id": "h_mtfyzgau2uzknn",
       "at": "2026-08-30T15:34:11.526Z",
@@ -8915,5 +10056,5 @@
     }
   ],
   "createdAt": "2026-08-23T14:55:05.287Z",
-  "updatedAt": "2026-08-30T17:29:17.801Z"
+  "updatedAt": "2026-08-31T12:16:47.850Z"
 }
