@@ -6028,6 +6028,9 @@
       "lastSeen": "2026-08-31T06:56:23.622Z"
     }
   },
+  "wordFamilies": {},
+  "suggestedWords": [],
+  "wordFormPhases": [],
   "sessions": [
     {
       "id": "session_mth7dgbud2oud0",
@@ -10056,5 +10059,5 @@
     }
   ],
   "createdAt": "2026-08-23T14:55:05.287Z",
-  "updatedAt": "2026-08-31T12:16:47.850Z"
+  "updatedAt": "2026-09-02T18:05:27.580Z"
 }
