@@ -6030,7 +6030,117 @@
   },
   "wordFamilies": {},
   "suggestedWords": [],
-  "wordFormPhases": [],
+  "wordFormPhases": [
+    {
+      "id": "phase_mtkeq141m83msx",
+      "index": 1,
+      "startedAt": "2026-09-02T18:05:50.497Z",
+      "wordForms": [
+        {
+          "lemma": "succeed",
+          "meaning": "thành công",
+          "kind": "derivation"
+        },
+        {
+          "lemma": "finish",
+          "meaning": "hoàn thành",
+          "kind": "derivation"
+        },
+        {
+          "lemma": "clean",
+          "meaning": "sạch/dọn dẹp",
+          "kind": "derivation"
+        },
+        {
+          "lemma": "family",
+          "meaning": "gia đình",
+          "kind": "derivation"
+        },
+        {
+          "lemma": "hard",
+          "meaning": "chăm chỉ/khó",
+          "kind": "derivation"
+        },
+        {
+          "lemma": "cook",
+          "meaning": "nấu ăn",
+          "kind": "derivation"
+        },
+        {
+          "lemma": "produce",
+          "meaning": "sản xuất",
+          "kind": "derivation"
+        },
+        {
+          "lemma": "apply",
+          "meaning": "nộp đơn/áp dụng",
+          "kind": "derivation"
+        },
+        {
+          "lemma": "decide",
+          "meaning": "quyết định",
+          "kind": "derivation"
+        },
+        {
+          "lemma": "employ",
+          "meaning": "thuê/tuyển dụng",
+          "kind": "derivation"
+        }
+      ],
+      "irregulars": [
+        {
+          "lemma": "take",
+          "meaning": "lấy, mất (thời gian)",
+          "kind": "inflection"
+        },
+        {
+          "lemma": "see",
+          "meaning": "nhìn thấy",
+          "kind": "inflection"
+        },
+        {
+          "lemma": "eat",
+          "meaning": "ăn",
+          "kind": "inflection"
+        },
+        {
+          "lemma": "fall",
+          "meaning": "rơi, ngã",
+          "kind": "inflection"
+        },
+        {
+          "lemma": "forget",
+          "meaning": "quên",
+          "kind": "inflection"
+        },
+        {
+          "lemma": "wear",
+          "meaning": "mặc, đeo",
+          "kind": "inflection"
+        },
+        {
+          "lemma": "learn",
+          "meaning": "học",
+          "kind": "inflection"
+        },
+        {
+          "lemma": "dream",
+          "meaning": "mơ",
+          "kind": "inflection"
+        },
+        {
+          "lemma": "burn",
+          "meaning": "đốt, cháy",
+          "kind": "inflection"
+        },
+        {
+          "lemma": "spell",
+          "meaning": "đánh vần",
+          "kind": "inflection"
+        }
+      ]
+    }
+  ],
   "sessions": [
     {
       "id": "session_mth7dgbud2oud0",
@@ -10059,5 +10169,5 @@
     }
   ],
   "createdAt": "2026-08-23T14:55:05.287Z",
-  "updatedAt": "2026-09-02T18:05:27.580Z"
+  "updatedAt": "2026-09-02T18:07:06.261Z"
 }
