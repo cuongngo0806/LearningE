@@ -6402,7 +6402,7 @@
       "lastSweepAt": "2026-09-04T03:45:47.159Z",
       "usedInProduction": false,
       "firstSeen": "2026-09-04T03:44:34.705Z",
-      "lastSeen": "2026-09-04T03:45:47.159Z",
+      "lastSeen": "2026-09-04T16:14:21.866Z",
       "nextReview": "2026-09-08T03:45:47.159Z"
     },
     "take": {
@@ -7293,64 +7293,6 @@
       "firstSeen": "2026-09-04T16:13:25.842Z",
       "lastSeen": "2026-09-04T16:14:18.926Z",
       "nextReview": "2026-09-08T16:14:18.926Z"
-    },
-    "success": {
-      "id": "success",
-      "kind": "derivation",
-      "lemma": "success",
-      "meaning": "sự thành công",
-      "level": "A2",
-      "slots": [
-        {
-          "slot": "verb",
-          "forms": [
-            "succeed"
-          ],
-          "meaning": "thành công",
-          "mastery": 0,
-          "correctCount": 0,
-          "wrongCount": 0,
-          "nextReview": "2026-09-04T16:14:21.866Z"
-        },
-        {
-          "slot": "noun",
-          "forms": [
-            "success"
-          ],
-          "meaning": "sự thành công",
-          "mastery": 0,
-          "correctCount": 0,
-          "wrongCount": 0,
-          "nextReview": "2026-09-04T16:14:21.866Z"
-        },
-        {
-          "slot": "adjective",
-          "forms": [
-            "successful"
-          ],
-          "meaning": "thành công",
-          "mastery": 0,
-          "correctCount": 0,
-          "wrongCount": 0,
-          "nextReview": "2026-09-04T16:14:21.866Z"
-        },
-        {
-          "slot": "adverb",
-          "forms": [
-            "successfully"
-          ],
-          "meaning": "một cách thành công",
-          "mastery": 0,
-          "correctCount": 0,
-          "wrongCount": 0,
-          "nextReview": "2026-09-04T16:14:21.866Z"
-        }
-      ],
-      "sweepsPassed": 0,
-      "usedInProduction": false,
-      "firstSeen": "2026-09-04T16:14:21.866Z",
-      "lastSeen": "2026-09-04T16:14:21.866Z",
-      "nextReview": "2026-09-04T16:14:21.866Z"
     }
   },
   "suggestedWords": [],
