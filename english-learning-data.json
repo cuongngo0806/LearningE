@@ -6737,7 +6737,7 @@
       "id": "hard",
       "kind": "derivation",
       "lemma": "hard",
-      "meaning": "khó; cứng; chăm chỉ",
+      "meaning": "khó, cứng",
       "level": "A2",
       "slots": [
         {
@@ -6745,51 +6745,612 @@
           "forms": [
             "hard"
           ],
-          "meaning": "khó; cứng",
-          "mastery": 0,
-          "correctCount": 0,
+          "meaning": "khó, cứng",
+          "mastery": 0.6,
+          "correctCount": 1,
           "wrongCount": 0,
-          "nextReview": "2026-09-04T07:51:30.837Z"
+          "nextReview": "2026-09-08T14:35:46.784Z"
         },
         {
           "slot": "adverb",
           "forms": [
             "hard"
           ],
-          "meaning": "một cách chăm chỉ",
-          "mastery": 0,
-          "correctCount": 0,
+          "meaning": "chăm chỉ, mạnh",
+          "mastery": 0.6,
+          "correctCount": 1,
           "wrongCount": 0,
-          "nextReview": "2026-09-04T07:51:30.837Z"
+          "nextReview": "2026-09-08T14:35:46.784Z"
+        }
+      ],
+      "sweepsPassed": 1,
+      "lastSweepAt": "2026-09-04T14:35:46.784Z",
+      "usedInProduction": false,
+      "firstSeen": "2026-09-04T07:51:30.837Z",
+      "lastSeen": "2026-09-04T14:35:46.784Z",
+      "nextReview": "2026-09-08T14:35:46.784Z"
+    },
+    "forget": {
+      "id": "forget",
+      "kind": "inflection",
+      "lemma": "forget",
+      "meaning": "quên",
+      "level": "A2",
+      "group": "aw_een",
+      "slots": [
+        {
+          "slot": "v1",
+          "forms": [
+            "forget"
+          ],
+          "mastery": 0.6,
+          "correctCount": 3,
+          "wrongCount": 0,
+          "nextReview": "2026-09-08T15:45:51.520Z"
         },
+        {
+          "slot": "v2",
+          "forms": [
+            "forgot"
+          ],
+          "mastery": 0.6,
+          "correctCount": 3,
+          "wrongCount": 0,
+          "nextReview": "2026-09-08T15:45:51.520Z"
+        },
+        {
+          "slot": "v3",
+          "forms": [
+            "forgotten"
+          ],
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 2,
+          "nextReview": "2026-09-08T15:45:51.520Z"
+        }
+      ],
+      "sweepsPassed": 1,
+      "lastSweepAt": "2026-09-04T15:45:51.520Z",
+      "usedInProduction": false,
+      "firstSeen": "2026-09-04T14:35:53.339Z",
+      "lastSeen": "2026-09-04T15:45:51.520Z",
+      "nextReview": "2026-09-08T15:45:51.520Z"
+    },
+    "cook": {
+      "id": "cook",
+      "kind": "derivation",
+      "lemma": "cook",
+      "meaning": "nấu ăn",
+      "level": "A2",
+      "slots": [
         {
           "slot": "verb",
           "forms": [
-            "harden"
+            "cook"
           ],
-          "meaning": "làm cứng lại",
-          "mastery": 0,
-          "correctCount": 0,
+          "meaning": "nấu ăn",
+          "mastery": 0.6,
+          "correctCount": 1,
           "wrongCount": 0,
-          "nextReview": "2026-09-04T07:51:30.837Z"
+          "nextReview": "2026-09-08T15:47:11.959Z"
         },
         {
           "slot": "noun",
           "forms": [
-            "hardness"
+            "cook"
           ],
-          "meaning": "độ cứng",
+          "meaning": "người nấu ăn, đầu bếp",
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReview": "2026-09-08T15:47:11.959Z"
+        },
+        {
+          "slot": "adjective",
+          "forms": [
+            "cooked"
+          ],
+          "meaning": "đã được nấu chín",
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReview": "2026-09-08T15:47:11.959Z"
+        }
+      ],
+      "sweepsPassed": 1,
+      "lastSweepAt": "2026-09-04T15:47:11.959Z",
+      "usedInProduction": false,
+      "firstSeen": "2026-09-04T15:45:54.763Z",
+      "lastSeen": "2026-09-04T15:47:11.959Z",
+      "nextReview": "2026-09-08T15:47:11.959Z"
+    },
+    "wear": {
+      "id": "wear",
+      "kind": "inflection",
+      "lemma": "wear",
+      "meaning": "mặc, đeo",
+      "level": "A2",
+      "group": "aw_een",
+      "slots": [
+        {
+          "slot": "v1",
+          "forms": [
+            "wear"
+          ],
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 1,
+          "nextReview": "2026-09-08T16:00:35.777Z"
+        },
+        {
+          "slot": "v2",
+          "forms": [
+            "wore"
+          ],
+          "mastery": 0.6,
+          "correctCount": 2,
+          "wrongCount": 0,
+          "nextReview": "2026-09-08T16:00:35.777Z"
+        },
+        {
+          "slot": "v3",
+          "forms": [
+            "worn"
+          ],
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 1,
+          "nextReview": "2026-09-08T16:00:35.777Z"
+        }
+      ],
+      "sweepsPassed": 1,
+      "lastSweepAt": "2026-09-04T16:00:35.777Z",
+      "usedInProduction": false,
+      "firstSeen": "2026-09-04T15:58:42.102Z",
+      "lastSeen": "2026-09-04T16:00:35.777Z",
+      "nextReview": "2026-09-08T16:00:35.777Z"
+    },
+    "produce": {
+      "id": "produce",
+      "kind": "derivation",
+      "lemma": "produce",
+      "meaning": "sản xuất",
+      "level": "A2",
+      "slots": [
+        {
+          "slot": "verb",
+          "forms": [
+            "produce"
+          ],
+          "meaning": "sản xuất",
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReview": "2026-09-08T16:02:01.871Z"
+        },
+        {
+          "slot": "noun",
+          "forms": [
+            "production"
+          ],
+          "meaning": "sự sản xuất",
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReview": "2026-09-08T16:02:01.871Z"
+        },
+        {
+          "slot": "adjective",
+          "forms": [
+            "productive"
+          ],
+          "meaning": "có năng suất",
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReview": "2026-09-08T16:02:01.871Z"
+        }
+      ],
+      "sweepsPassed": 1,
+      "lastSweepAt": "2026-09-04T16:02:01.871Z",
+      "usedInProduction": false,
+      "firstSeen": "2026-09-04T16:00:38.802Z",
+      "lastSeen": "2026-09-04T16:02:01.871Z",
+      "nextReview": "2026-09-08T16:02:01.871Z"
+    },
+    "learn": {
+      "id": "learn",
+      "kind": "inflection",
+      "lemma": "learn",
+      "meaning": "học",
+      "level": "A1",
+      "group": "dual",
+      "slots": [
+        {
+          "slot": "v1",
+          "forms": [
+            "learn"
+          ],
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReview": "2026-09-08T16:03:06.777Z"
+        },
+        {
+          "slot": "v2",
+          "forms": [
+            "learned",
+            "learnt"
+          ],
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReview": "2026-09-08T16:03:06.777Z"
+        },
+        {
+          "slot": "v3",
+          "forms": [
+            "learned",
+            "learnt"
+          ],
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReview": "2026-09-08T16:03:06.777Z"
+        }
+      ],
+      "sweepsPassed": 1,
+      "lastSweepAt": "2026-09-04T16:03:06.777Z",
+      "usedInProduction": false,
+      "firstSeen": "2026-09-04T16:02:02.775Z",
+      "lastSeen": "2026-09-04T16:03:06.777Z",
+      "nextReview": "2026-09-08T16:03:06.777Z"
+    },
+    "apply": {
+      "id": "apply",
+      "kind": "derivation",
+      "lemma": "apply",
+      "meaning": "nộp đơn/áp dụng",
+      "level": "A2",
+      "slots": [
+        {
+          "slot": "verb",
+          "forms": [
+            "apply"
+          ],
+          "meaning": "nộp đơn/áp dụng",
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReview": "2026-09-08T16:04:09.221Z"
+        },
+        {
+          "slot": "noun",
+          "forms": [
+            "application"
+          ],
+          "meaning": "đơn xin/sự áp dụng",
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReview": "2026-09-08T16:04:09.221Z"
+        },
+        {
+          "slot": "adjective",
+          "forms": [
+            "applicable"
+          ],
+          "meaning": "có thể áp dụng",
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReview": "2026-09-08T16:04:09.221Z"
+        }
+      ],
+      "sweepsPassed": 1,
+      "lastSweepAt": "2026-09-04T16:04:09.221Z",
+      "usedInProduction": false,
+      "firstSeen": "2026-09-04T16:03:17.956Z",
+      "lastSeen": "2026-09-04T16:04:09.221Z",
+      "nextReview": "2026-09-08T16:04:09.221Z"
+    },
+    "dream": {
+      "id": "dream",
+      "kind": "inflection",
+      "lemma": "dream",
+      "meaning": "mơ",
+      "level": "A2",
+      "group": "dual",
+      "slots": [
+        {
+          "slot": "v1",
+          "forms": [
+            "dream"
+          ],
+          "mastery": 0.6,
+          "correctCount": 2,
+          "wrongCount": 0,
+          "nextReview": "2026-09-08T16:05:23.419Z"
+        },
+        {
+          "slot": "v2",
+          "forms": [
+            "dreamed",
+            "dreamt"
+          ],
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 1,
+          "nextReview": "2026-09-08T16:05:23.419Z"
+        },
+        {
+          "slot": "v3",
+          "forms": [
+            "dreamed",
+            "dreamt"
+          ],
+          "mastery": 0.6,
+          "correctCount": 2,
+          "wrongCount": 0,
+          "nextReview": "2026-09-08T16:05:23.419Z"
+        }
+      ],
+      "sweepsPassed": 1,
+      "lastSweepAt": "2026-09-04T16:05:23.419Z",
+      "usedInProduction": false,
+      "firstSeen": "2026-09-04T16:04:09.914Z",
+      "lastSeen": "2026-09-04T16:05:23.419Z",
+      "nextReview": "2026-09-08T16:05:23.419Z"
+    },
+    "decide": {
+      "id": "decide",
+      "kind": "derivation",
+      "lemma": "decide",
+      "meaning": "quyết định",
+      "level": "A2",
+      "slots": [
+        {
+          "slot": "verb",
+          "forms": [
+            "decide"
+          ],
+          "meaning": "quyết định",
+          "mastery": 0.6,
+          "correctCount": 3,
+          "wrongCount": 0,
+          "nextReview": "2026-09-08T16:07:18.863Z"
+        },
+        {
+          "slot": "noun",
+          "forms": [
+            "decision"
+          ],
+          "meaning": "quyết định (danh từ)",
+          "mastery": 0.6,
+          "correctCount": 3,
+          "wrongCount": 0,
+          "nextReview": "2026-09-08T16:07:18.863Z"
+        },
+        {
+          "slot": "adjective",
+          "forms": [
+            "decisive"
+          ],
+          "meaning": "quyết đoán, dứt khoát",
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 2,
+          "nextReview": "2026-09-08T16:07:18.863Z"
+        }
+      ],
+      "sweepsPassed": 1,
+      "lastSweepAt": "2026-09-04T16:07:18.863Z",
+      "usedInProduction": false,
+      "firstSeen": "2026-09-04T16:05:26.334Z",
+      "lastSeen": "2026-09-04T16:07:18.863Z",
+      "nextReview": "2026-09-08T16:07:18.863Z"
+    },
+    "burn": {
+      "id": "burn",
+      "kind": "inflection",
+      "lemma": "burn",
+      "meaning": "đốt, cháy",
+      "level": "A2",
+      "group": "dual",
+      "slots": [
+        {
+          "slot": "v1",
+          "forms": [
+            "burn"
+          ],
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReview": "2026-09-08T16:09:06.622Z"
+        },
+        {
+          "slot": "v2",
+          "forms": [
+            "burned",
+            "burnt"
+          ],
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReview": "2026-09-08T16:09:06.622Z"
+        },
+        {
+          "slot": "v3",
+          "forms": [
+            "burned",
+            "burnt"
+          ],
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReview": "2026-09-08T16:09:06.622Z"
+        }
+      ],
+      "sweepsPassed": 1,
+      "lastSweepAt": "2026-09-04T16:09:06.622Z",
+      "usedInProduction": false,
+      "firstSeen": "2026-09-04T16:07:19.612Z",
+      "lastSeen": "2026-09-04T16:09:06.622Z",
+      "nextReview": "2026-09-08T16:09:06.622Z"
+    },
+    "employ": {
+      "id": "employ",
+      "kind": "derivation",
+      "lemma": "employ",
+      "meaning": "thuê, sử dụng (lao động)",
+      "level": "A2",
+      "slots": [
+        {
+          "slot": "verb",
+          "forms": [
+            "employ"
+          ],
+          "meaning": "thuê ai đó làm việc",
+          "mastery": 0.6,
+          "correctCount": 3,
+          "wrongCount": 0,
+          "nextReview": "2026-09-08T16:13:25.092Z"
+        },
+        {
+          "slot": "noun",
+          "forms": [
+            "employment"
+          ],
+          "meaning": "việc làm, sự tuyển dụng",
+          "mastery": 0.6,
+          "correctCount": 3,
+          "wrongCount": 0,
+          "nextReview": "2026-09-08T16:13:25.092Z"
+        },
+        {
+          "slot": "adjective",
+          "forms": [
+            "employed"
+          ],
+          "meaning": "đang có việc làm",
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 2,
+          "nextReview": "2026-09-08T16:13:25.092Z"
+        }
+      ],
+      "sweepsPassed": 1,
+      "lastSweepAt": "2026-09-04T16:13:25.092Z",
+      "usedInProduction": false,
+      "firstSeen": "2026-09-04T16:09:10.384Z",
+      "lastSeen": "2026-09-04T16:13:25.092Z",
+      "nextReview": "2026-09-08T16:13:25.092Z"
+    },
+    "spell": {
+      "id": "spell",
+      "kind": "inflection",
+      "lemma": "spell",
+      "meaning": "đánh vần",
+      "level": "A2",
+      "group": "dual",
+      "slots": [
+        {
+          "slot": "v1",
+          "forms": [
+            "spell"
+          ],
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReview": "2026-09-08T16:14:18.926Z"
+        },
+        {
+          "slot": "v2",
+          "forms": [
+            "spelled",
+            "spelt"
+          ],
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReview": "2026-09-08T16:14:18.926Z"
+        },
+        {
+          "slot": "v3",
+          "forms": [
+            "spelled",
+            "spelt"
+          ],
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReview": "2026-09-08T16:14:18.926Z"
+        }
+      ],
+      "sweepsPassed": 1,
+      "lastSweepAt": "2026-09-04T16:14:18.926Z",
+      "usedInProduction": false,
+      "firstSeen": "2026-09-04T16:13:25.842Z",
+      "lastSeen": "2026-09-04T16:14:18.926Z",
+      "nextReview": "2026-09-08T16:14:18.926Z"
+    },
+    "success": {
+      "id": "success",
+      "kind": "derivation",
+      "lemma": "success",
+      "meaning": "sự thành công",
+      "level": "A2",
+      "slots": [
+        {
+          "slot": "verb",
+          "forms": [
+            "succeed"
+          ],
+          "meaning": "thành công",
           "mastery": 0,
           "correctCount": 0,
           "wrongCount": 0,
-          "nextReview": "2026-09-04T07:51:30.837Z"
+          "nextReview": "2026-09-04T16:14:21.866Z"
+        },
+        {
+          "slot": "noun",
+          "forms": [
+            "success"
+          ],
+          "meaning": "sự thành công",
+          "mastery": 0,
+          "correctCount": 0,
+          "wrongCount": 0,
+          "nextReview": "2026-09-04T16:14:21.866Z"
+        },
+        {
+          "slot": "adjective",
+          "forms": [
+            "successful"
+          ],
+          "meaning": "thành công",
+          "mastery": 0,
+          "correctCount": 0,
+          "wrongCount": 0,
+          "nextReview": "2026-09-04T16:14:21.866Z"
+        },
+        {
+          "slot": "adverb",
+          "forms": [
+            "successfully"
+          ],
+          "meaning": "một cách thành công",
+          "mastery": 0,
+          "correctCount": 0,
+          "wrongCount": 0,
+          "nextReview": "2026-09-04T16:14:21.866Z"
         }
       ],
       "sweepsPassed": 0,
       "usedInProduction": false,
-      "firstSeen": "2026-09-04T07:51:30.837Z",
-      "lastSeen": "2026-09-04T07:51:30.837Z",
-      "nextReview": "2026-09-04T07:51:30.837Z"
+      "firstSeen": "2026-09-04T16:14:21.866Z",
+      "lastSeen": "2026-09-04T16:14:21.866Z",
+      "nextReview": "2026-09-04T16:14:21.866Z"
     }
   },
   "suggestedWords": [],
@@ -6826,32 +7387,38 @@
         {
           "lemma": "hard",
           "meaning": "chăm chỉ/khó",
-          "kind": "derivation"
+          "kind": "derivation",
+          "doneAt": "2026-09-04T14:35:46.785Z"
         },
         {
           "lemma": "cook",
           "meaning": "nấu ăn",
-          "kind": "derivation"
+          "kind": "derivation",
+          "doneAt": "2026-09-04T15:47:11.959Z"
         },
         {
           "lemma": "produce",
           "meaning": "sản xuất",
-          "kind": "derivation"
+          "kind": "derivation",
+          "doneAt": "2026-09-04T16:02:01.871Z"
         },
         {
           "lemma": "apply",
           "meaning": "nộp đơn/áp dụng",
-          "kind": "derivation"
+          "kind": "derivation",
+          "doneAt": "2026-09-04T16:04:09.221Z"
         },
         {
           "lemma": "decide",
           "meaning": "quyết định",
-          "kind": "derivation"
+          "kind": "derivation",
+          "doneAt": "2026-09-04T16:07:18.863Z"
         },
         {
           "lemma": "employ",
           "meaning": "thuê/tuyển dụng",
-          "kind": "derivation"
+          "kind": "derivation",
+          "doneAt": "2026-09-04T16:13:25.092Z"
         }
       ],
       "irregulars": [
@@ -6882,31 +7449,147 @@
         {
           "lemma": "forget",
           "meaning": "quên",
-          "kind": "inflection"
+          "kind": "inflection",
+          "doneAt": "2026-09-04T15:45:51.520Z"
         },
         {
           "lemma": "wear",
           "meaning": "mặc, đeo",
-          "kind": "inflection"
+          "kind": "inflection",
+          "doneAt": "2026-09-04T16:00:35.777Z"
         },
         {
           "lemma": "learn",
           "meaning": "học",
-          "kind": "inflection"
+          "kind": "inflection",
+          "doneAt": "2026-09-04T16:03:06.777Z"
         },
         {
           "lemma": "dream",
           "meaning": "mơ",
-          "kind": "inflection"
+          "kind": "inflection",
+          "doneAt": "2026-09-04T16:05:23.419Z"
         },
         {
           "lemma": "burn",
           "meaning": "đốt, cháy",
-          "kind": "inflection"
+          "kind": "inflection",
+          "doneAt": "2026-09-04T16:09:06.622Z"
         },
         {
           "lemma": "spell",
           "meaning": "đánh vần",
+          "kind": "inflection",
+          "doneAt": "2026-09-04T16:14:18.926Z"
+        }
+      ],
+      "completedAt": "2026-09-04T16:14:18.926Z"
+    },
+    {
+      "id": "phase_mtn5nouu0d5fyd",
+      "index": 2,
+      "startedAt": "2026-09-04T16:15:23.286Z",
+      "wordForms": [
+        {
+          "lemma": "success",
+          "meaning": "sự thành công",
+          "kind": "derivation"
+        },
+        {
+          "lemma": "carry",
+          "meaning": "mang, vác",
+          "kind": "derivation"
+        },
+        {
+          "lemma": "company",
+          "meaning": "công ty",
+          "kind": "derivation"
+        },
+        {
+          "lemma": "usually",
+          "meaning": "thường thường",
+          "kind": "derivation"
+        },
+        {
+          "lemma": "work",
+          "meaning": "công việc, làm việc",
+          "kind": "derivation"
+        },
+        {
+          "lemma": "rest",
+          "meaning": "nghỉ ngơi, phần còn lại",
+          "kind": "derivation"
+        },
+        {
+          "lemma": "help",
+          "meaning": "giúp đỡ",
+          "kind": "derivation"
+        },
+        {
+          "lemma": "differ",
+          "meaning": "khác nhau",
+          "kind": "derivation"
+        },
+        {
+          "lemma": "depend",
+          "meaning": "phụ thuộc",
+          "kind": "derivation"
+        },
+        {
+          "lemma": "require",
+          "meaning": "yêu cầu",
+          "kind": "derivation"
+        }
+      ],
+      "irregulars": [
+        {
+          "lemma": "smell",
+          "meaning": "ngửi, có mùi",
+          "kind": "inflection"
+        },
+        {
+          "lemma": "get",
+          "meaning": "lấy, trở nên",
+          "kind": "inflection"
+        },
+        {
+          "lemma": "show",
+          "meaning": "cho xem",
+          "kind": "inflection"
+        },
+        {
+          "lemma": "keep",
+          "meaning": "giữ",
+          "kind": "inflection"
+        },
+        {
+          "lemma": "sleep",
+          "meaning": "ngủ",
+          "kind": "inflection"
+        },
+        {
+          "lemma": "feel",
+          "meaning": "cảm thấy",
+          "kind": "inflection"
+        },
+        {
+          "lemma": "leave",
+          "meaning": "rời đi, để lại",
+          "kind": "inflection"
+        },
+        {
+          "lemma": "mean",
+          "meaning": "có nghĩa là",
+          "kind": "inflection"
+        },
+        {
+          "lemma": "meet",
+          "meaning": "gặp",
+          "kind": "inflection"
+        },
+        {
+          "lemma": "lose",
+          "meaning": "mất, thua",
           "kind": "inflection"
         }
       ]
@@ -7371,8 +8054,8 @@
     }
   ],
   "statistics": {
-    "totalExercises": 380,
-    "totalCorrect": 185,
+    "totalExercises": 400,
+    "totalCorrect": 197,
     "studyMinutes": 815,
     "streakDays": 1,
     "lastStudyDate": "2026-09-04",
@@ -7558,6 +8241,1006 @@
     "cuộc họp hôm qua rất hữu ích."
   ],
   "history": [
+    {
+      "id": "h_mtn5mb72993mxp",
+      "at": "2026-09-04T16:14:18.926Z",
+      "mode": "word_form",
+      "title": "spell · đúng cả lượt",
+      "correct": true,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "spell",
+        "familyKind": "inflection",
+        "cleanSweep": true,
+        "blanks": [
+          {
+            "sentence": "Can you ___ your name for me?",
+            "slot": "v1",
+            "expected": "spell",
+            "answer": "spell",
+            "correct": true
+          },
+          {
+            "sentence": "She ___ the word wrong yesterday.",
+            "slot": "v2",
+            "expected": "spelled",
+            "answer": "spelt",
+            "correct": true
+          },
+          {
+            "sentence": "This word has ___ correctly.",
+            "slot": "v3",
+            "expected": "spelled",
+            "answer": "spelt",
+            "correct": true
+          },
+          {
+            "sentence": "He ___ his address slowly last week.",
+            "slot": "v2",
+            "expected": "spelled",
+            "answer": "spelt",
+            "correct": true
+          },
+          {
+            "sentence": "My name was ___ wrong on the ticket.",
+            "slot": "v3",
+            "expected": "spelled",
+            "answer": "spelt",
+            "correct": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtn5l5nobajdzi",
+      "at": "2026-09-04T16:13:25.092Z",
+      "mode": "word_form",
+      "title": "employ · đúng cả lượt",
+      "correct": true,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "employ",
+        "familyKind": "derivation",
+        "cleanSweep": true,
+        "blanks": [
+          {
+            "sentence": "This factory ___ two hundred workers.",
+            "slot": "verb",
+            "expected": "employ",
+            "answer": "employ",
+            "correct": true
+          },
+          {
+            "sentence": "She is a well-paid ___ worker.",
+            "slot": "adjective",
+            "expected": "employed",
+            "answer": "employed",
+            "correct": true
+          },
+          {
+            "sentence": "He seems fully ___ this month.",
+            "slot": "adjective",
+            "expected": "employed",
+            "answer": "employed",
+            "correct": true
+          },
+          {
+            "sentence": "They are looking for ___.",
+            "slot": "noun",
+            "expected": "employment",
+            "answer": "employment",
+            "correct": true
+          },
+          {
+            "sentence": "The company will ___ more staff next year.",
+            "slot": "verb",
+            "expected": "employ",
+            "answer": "employ",
+            "correct": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtn5jwkg6qxh86",
+      "at": "2026-09-04T16:12:26.656Z",
+      "mode": "word_form",
+      "title": "employ · còn sai",
+      "correct": false,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "employ",
+        "familyKind": "derivation",
+        "cleanSweep": false,
+        "blanks": [
+          {
+            "sentence": "This factory ___ two hundred workers.",
+            "slot": "verb",
+            "expected": "employ",
+            "answer": "employ",
+            "correct": true
+          },
+          {
+            "sentence": "She is a fully ___ worker at the bank.",
+            "slot": "adjective",
+            "expected": "employed",
+            "answer": "employed",
+            "correct": true
+          },
+          {
+            "sentence": "He seems ___ at a big company now.",
+            "slot": "adjective",
+            "expected": "employed",
+            "answer": "employment",
+            "correct": false
+          },
+          {
+            "sentence": "He finally found ___ after two months.",
+            "slot": "noun",
+            "expected": "employment",
+            "answer": "employment",
+            "correct": true
+          },
+          {
+            "sentence": "They will ___ more staff next year.",
+            "slot": "verb",
+            "expected": "employ",
+            "answer": "employ",
+            "correct": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtn5hpaz2belie",
+      "at": "2026-09-04T16:10:43.931Z",
+      "mode": "word_form",
+      "title": "employ · còn sai",
+      "correct": false,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "employ",
+        "familyKind": "derivation",
+        "cleanSweep": false,
+        "blanks": [
+          {
+            "sentence": "This factory ___ two hundred workers.",
+            "slot": "verb",
+            "expected": "employ",
+            "answer": "employ",
+            "correct": true
+          },
+          {
+            "sentence": "She feels lucky to be ___ at a big company.",
+            "slot": "adjective",
+            "expected": "employed",
+            "answer": "employment",
+            "correct": false
+          },
+          {
+            "sentence": "My brother is an ___ engineer at that factory.",
+            "slot": "adjective",
+            "expected": "employed",
+            "answer": "employed",
+            "correct": true
+          },
+          {
+            "sentence": "He found ___ at a new hospital.",
+            "slot": "noun",
+            "expected": "employment",
+            "answer": "employment",
+            "correct": true
+          },
+          {
+            "sentence": "They will ___ more staff next month.",
+            "slot": "verb",
+            "expected": "employ",
+            "answer": "employ",
+            "correct": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtn5fm7y5sqrxd",
+      "at": "2026-09-04T16:09:06.622Z",
+      "mode": "word_form",
+      "title": "burn · đúng cả lượt",
+      "correct": true,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "burn",
+        "familyKind": "inflection",
+        "cleanSweep": true,
+        "blanks": [
+          {
+            "sentence": "The toast has ___ in the oven.",
+            "slot": "v3",
+            "expected": "burned",
+            "answer": "burnt",
+            "correct": true
+          },
+          {
+            "sentence": "She ___ her hand yesterday.",
+            "slot": "v2",
+            "expected": "burned",
+            "answer": "burnt",
+            "correct": true
+          },
+          {
+            "sentence": "Dry leaves ___ very quickly.",
+            "slot": "v1",
+            "expected": "burn",
+            "answer": "burn",
+            "correct": true
+          },
+          {
+            "sentence": "The house ___ down last week.",
+            "slot": "v2",
+            "expected": "burned",
+            "answer": "burnt",
+            "correct": true
+          },
+          {
+            "sentence": "The old letters were ___ by my grandfather.",
+            "slot": "v3",
+            "expected": "burned",
+            "answer": "burnt",
+            "correct": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtn5db2n5phhyc",
+      "at": "2026-09-04T16:07:18.863Z",
+      "mode": "word_form",
+      "title": "decide · đúng cả lượt",
+      "correct": true,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "decide",
+        "familyKind": "derivation",
+        "cleanSweep": true,
+        "blanks": [
+          {
+            "sentence": "I need to ___ what to eat for dinner.",
+            "slot": "verb",
+            "expected": "decide",
+            "answer": "decide",
+            "correct": true
+          },
+          {
+            "sentence": "She is a ___ leader who acts fast.",
+            "slot": "adjective",
+            "expected": "decisive",
+            "answer": "decisive",
+            "correct": true
+          },
+          {
+            "sentence": "They will ___ tomorrow morning.",
+            "slot": "verb",
+            "expected": "decide",
+            "answer": "decide",
+            "correct": true
+          },
+          {
+            "sentence": "His answer was very ___.",
+            "slot": "adjective",
+            "expected": "decisive",
+            "answer": "decisive",
+            "correct": true
+          },
+          {
+            "sentence": "We must make a ___ soon.",
+            "slot": "noun",
+            "expected": "decision",
+            "answer": "decision",
+            "correct": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtn5cja2mg6qsj",
+      "at": "2026-09-04T16:06:42.842Z",
+      "mode": "word_form",
+      "title": "decide · còn sai",
+      "correct": false,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "decide",
+        "familyKind": "derivation",
+        "cleanSweep": false,
+        "blanks": [
+          {
+            "sentence": "I need to ___ what to eat for lunch.",
+            "slot": "verb",
+            "expected": "decide",
+            "answer": "decide",
+            "correct": true
+          },
+          {
+            "sentence": "She is a ___ leader who acts fast.",
+            "slot": "adjective",
+            "expected": "decisive",
+            "answer": "decision",
+            "correct": false
+          },
+          {
+            "sentence": "We will ___ tomorrow morning.",
+            "slot": "verb",
+            "expected": "decide",
+            "answer": "decide",
+            "correct": true
+          },
+          {
+            "sentence": "His answer was clear and ___.",
+            "slot": "adjective",
+            "expected": "decisive",
+            "answer": "decisive",
+            "correct": true
+          },
+          {
+            "sentence": "He made a ___ about his new job.",
+            "slot": "noun",
+            "expected": "decision",
+            "answer": "decision",
+            "correct": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtn5btpe4edued",
+      "at": "2026-09-04T16:06:09.698Z",
+      "mode": "word_form",
+      "title": "decide · còn sai",
+      "correct": false,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "decide",
+        "familyKind": "derivation",
+        "cleanSweep": false,
+        "blanks": [
+          {
+            "sentence": "She is a ___ leader who acts fast.",
+            "slot": "adjective",
+            "expected": "decisive",
+            "answer": "dicision",
+            "correct": false
+          },
+          {
+            "sentence": "I need to ___ what to eat for lunch.",
+            "slot": "verb",
+            "expected": "decide",
+            "answer": "decide",
+            "correct": true
+          },
+          {
+            "sentence": "They will ___ tomorrow morning.",
+            "slot": "verb",
+            "expected": "decide",
+            "answer": "decide",
+            "correct": true
+          },
+          {
+            "sentence": "His answer was quick and ___.",
+            "slot": "adjective",
+            "expected": "decisive",
+            "answer": "decisive",
+            "correct": true
+          },
+          {
+            "sentence": "He made a ___ about his job.",
+            "slot": "noun",
+            "expected": "decision",
+            "answer": "decision",
+            "correct": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtn5atzvat2uer",
+      "at": "2026-09-04T16:05:23.419Z",
+      "mode": "word_form",
+      "title": "dream · đúng cả lượt",
+      "correct": true,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "dream",
+        "familyKind": "inflection",
+        "cleanSweep": true,
+        "blanks": [
+          {
+            "sentence": "I often ___ about my future.",
+            "slot": "v1",
+            "expected": "dream",
+            "answer": "dream",
+            "correct": true
+          },
+          {
+            "sentence": "She has ___ about that trip since she was young.",
+            "slot": "v3",
+            "expected": "dreamed",
+            "answer": "dreamt",
+            "correct": true
+          },
+          {
+            "sentence": "He ___ about flying last night.",
+            "slot": "v2",
+            "expected": "dreamed",
+            "answer": "dreamt",
+            "correct": true
+          },
+          {
+            "sentence": "This song was ___ up by a famous singer.",
+            "slot": "v3",
+            "expected": "dreamed",
+            "answer": "dreamt",
+            "correct": true
+          },
+          {
+            "sentence": "They ___ about winning the game in 2019.",
+            "slot": "v2",
+            "expected": "dreamed",
+            "answer": "dreamt",
+            "correct": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtn5achi83ykn1",
+      "at": "2026-09-04T16:05:00.726Z",
+      "mode": "word_form",
+      "title": "dream · còn sai",
+      "correct": false,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "dream",
+        "familyKind": "inflection",
+        "cleanSweep": false,
+        "blanks": [
+          {
+            "sentence": "I always ___ about my future when I sleep.",
+            "slot": "v1",
+            "expected": "dream",
+            "answer": "dream",
+            "correct": true
+          },
+          {
+            "sentence": "She has ___ about that trip since last year.",
+            "slot": "v3",
+            "expected": "dreamed",
+            "answer": "dreamt",
+            "correct": true
+          },
+          {
+            "sentence": "He had never ___ about flying before that night.",
+            "slot": "v3",
+            "expected": "dreamed",
+            "answer": "dreamt",
+            "correct": true
+          },
+          {
+            "sentence": "I ___ about my old school last night.",
+            "slot": "v2",
+            "expected": "dreamed",
+            "answer": "dreamt",
+            "correct": true
+          },
+          {
+            "sentence": "We ___ about winning the game in 2019.",
+            "slot": "v2",
+            "expected": "dreamed",
+            "answer": "dream",
+            "correct": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtn598qtsgcnem",
+      "at": "2026-09-04T16:04:09.221Z",
+      "mode": "word_form",
+      "title": "apply · đúng cả lượt",
+      "correct": true,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "apply",
+        "familyKind": "derivation",
+        "cleanSweep": true,
+        "blanks": [
+          {
+            "sentence": "I want to ___ for this job.",
+            "slot": "verb",
+            "expected": "apply",
+            "answer": "apply",
+            "correct": true
+          },
+          {
+            "sentence": "She sent her ___ yesterday.",
+            "slot": "noun",
+            "expected": "application",
+            "answer": "application",
+            "correct": true
+          },
+          {
+            "sentence": "The ___ is on the table.",
+            "slot": "noun",
+            "expected": "application",
+            "answer": "application",
+            "correct": true
+          },
+          {
+            "sentence": "This rule is not ___ here.",
+            "slot": "adjective",
+            "expected": "applicable",
+            "answer": "applicable",
+            "correct": true
+          },
+          {
+            "sentence": "They will ___ new taxes next year.",
+            "slot": "verb",
+            "expected": "apply",
+            "answer": "apply",
+            "correct": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtn57wk90vrjmb",
+      "at": "2026-09-04T16:03:06.777Z",
+      "mode": "word_form",
+      "title": "learn · đúng cả lượt",
+      "correct": true,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "learn",
+        "familyKind": "inflection",
+        "cleanSweep": true,
+        "blanks": [
+          {
+            "sentence": "She ___ English last year.",
+            "slot": "v2",
+            "expected": "learned",
+            "answer": "learnt",
+            "correct": true
+          },
+          {
+            "sentence": "He has ___ three languages.",
+            "slot": "v3",
+            "expected": "learned",
+            "answer": "learnt",
+            "correct": true
+          },
+          {
+            "sentence": "This song is easily ___ by children.",
+            "slot": "v3",
+            "expected": "learned",
+            "answer": "learnt",
+            "correct": true
+          },
+          {
+            "sentence": "They do not ___ grammar on Sundays.",
+            "slot": "v1",
+            "expected": "learn",
+            "answer": "learn",
+            "correct": true
+          },
+          {
+            "sentence": "We ___ a new word yesterday.",
+            "slot": "v2",
+            "expected": "learned",
+            "answer": "learnt",
+            "correct": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtn56ihb01mvwt",
+      "at": "2026-09-04T16:02:01.871Z",
+      "mode": "word_form",
+      "title": "produce · đúng cả lượt",
+      "correct": true,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "produce",
+        "familyKind": "derivation",
+        "cleanSweep": true,
+        "blanks": [
+          {
+            "sentence": "The ___ of this factory is very high.",
+            "slot": "noun",
+            "expected": "production",
+            "answer": "production",
+            "correct": true
+          },
+          {
+            "sentence": "She is a very ___ worker.",
+            "slot": "adjective",
+            "expected": "productive",
+            "answer": "productive",
+            "correct": true
+          },
+          {
+            "sentence": "Our meeting today was really ___.",
+            "slot": "adjective",
+            "expected": "productive",
+            "answer": "productive",
+            "correct": true
+          },
+          {
+            "sentence": "This farm can ___ a lot of rice.",
+            "slot": "verb",
+            "expected": "produce",
+            "answer": "produce",
+            "correct": true
+          },
+          {
+            "sentence": "They ___ cars in this factory every day.",
+            "slot": "verb",
+            "expected": "produce",
+            "answer": "produce",
+            "correct": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtn54o1tozfw9m",
+      "at": "2026-09-04T16:00:35.777Z",
+      "mode": "word_form",
+      "title": "wear · đúng cả lượt",
+      "correct": true,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "wear",
+        "familyKind": "inflection",
+        "cleanSweep": true,
+        "blanks": [
+          {
+            "sentence": "This shirt has been ___ many times.",
+            "slot": "v3",
+            "expected": "worn",
+            "answer": "worn",
+            "correct": true
+          },
+          {
+            "sentence": "Do you ___ glasses every day?",
+            "slot": "v1",
+            "expected": "wear",
+            "answer": "wear",
+            "correct": true
+          },
+          {
+            "sentence": "You should ___ a coat today.",
+            "slot": "v1",
+            "expected": "wear",
+            "answer": "wear",
+            "correct": true
+          },
+          {
+            "sentence": "That hat was ___ by my father.",
+            "slot": "v3",
+            "expected": "worn",
+            "answer": "worn",
+            "correct": true
+          },
+          {
+            "sentence": "She ___ a red dress yesterday.",
+            "slot": "v2",
+            "expected": "wore",
+            "answer": "wore",
+            "correct": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtn53e47kdpf82",
+      "at": "2026-09-04T15:59:36.246Z",
+      "mode": "word_form",
+      "title": "wear · còn sai",
+      "correct": false,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "wear",
+        "familyKind": "inflection",
+        "cleanSweep": false,
+        "blanks": [
+          {
+            "sentence": "This shirt has been ___ many times.",
+            "slot": "v3",
+            "expected": "worn",
+            "answer": "worn ",
+            "correct": true
+          },
+          {
+            "sentence": "Do you ___ glasses every day?",
+            "slot": "v1",
+            "expected": "wear",
+            "answer": "ware",
+            "correct": false
+          },
+          {
+            "sentence": "You should ___ a helmet.",
+            "slot": "v1",
+            "expected": "wear",
+            "answer": "ware",
+            "correct": false
+          },
+          {
+            "sentence": "That hat is often ___ in winter.",
+            "slot": "v3",
+            "expected": "worn",
+            "answer": "ware",
+            "correct": false
+          },
+          {
+            "sentence": "She ___ a red dress yesterday.",
+            "slot": "v2",
+            "expected": "wore",
+            "answer": "wore",
+            "correct": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtn4nftjgx8fqk",
+      "at": "2026-09-04T15:47:11.959Z",
+      "mode": "word_form",
+      "title": "cook · đúng cả lượt",
+      "correct": true,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "cook",
+        "familyKind": "derivation",
+        "cleanSweep": true,
+        "blanks": [
+          {
+            "sentence": "The ___ rice smells very good.",
+            "slot": "adjective",
+            "expected": "cooked",
+            "answer": "cooked",
+            "correct": true
+          },
+          {
+            "sentence": "She works as a ___ in a big hotel.",
+            "slot": "noun",
+            "expected": "cook",
+            "answer": "cook",
+            "correct": true
+          },
+          {
+            "sentence": "My father is a good ___.",
+            "slot": "noun",
+            "expected": "cook",
+            "answer": "cook",
+            "correct": true
+          },
+          {
+            "sentence": "I usually ___ dinner at 7 pm.",
+            "slot": "verb",
+            "expected": "cook",
+            "answer": "cook",
+            "correct": true
+          },
+          {
+            "sentence": "The vegetables are already ___.",
+            "slot": "adjective",
+            "expected": "cooked",
+            "answer": "cooked",
+            "correct": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtn4lpr4vu6wvj",
+      "at": "2026-09-04T15:45:51.520Z",
+      "mode": "word_form",
+      "title": "forget · đúng cả lượt",
+      "correct": true,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "forget",
+        "familyKind": "inflection",
+        "cleanSweep": true,
+        "blanks": [
+          {
+            "sentence": "I ___ my keys at home yesterday.",
+            "slot": "v2",
+            "expected": "forgot",
+            "answer": "forgot",
+            "correct": true
+          },
+          {
+            "sentence": "She ___ her umbrella last week.",
+            "slot": "v2",
+            "expected": "forgot",
+            "answer": "forgot",
+            "correct": true
+          },
+          {
+            "sentence": "He has ___ her phone number.",
+            "slot": "v3",
+            "expected": "forgotten",
+            "answer": "forgotten",
+            "correct": true
+          },
+          {
+            "sentence": "The meeting was ___ by everyone.",
+            "slot": "v3",
+            "expected": "forgotten",
+            "answer": "forgotten",
+            "correct": true
+          },
+          {
+            "sentence": "Please don't ___ your homework.",
+            "slot": "v1",
+            "expected": "forget",
+            "answer": "forget",
+            "correct": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtn4kw5pdpzpe8",
+      "at": "2026-09-04T15:45:13.165Z",
+      "mode": "word_form",
+      "title": "forget · còn sai",
+      "correct": false,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "forget",
+        "familyKind": "inflection",
+        "cleanSweep": false,
+        "blanks": [
+          {
+            "sentence": "I ___ my keys at home yesterday.",
+            "slot": "v2",
+            "expected": "forgot",
+            "answer": "forgot",
+            "correct": true
+          },
+          {
+            "sentence": "She ___ her umbrella last week.",
+            "slot": "v2",
+            "expected": "forgot",
+            "answer": "forgot",
+            "correct": true
+          },
+          {
+            "sentence": "He has ___ her phone number.",
+            "slot": "v3",
+            "expected": "forgotten",
+            "answer": "forgotten",
+            "correct": true
+          },
+          {
+            "sentence": "The meeting was ___ by everyone.",
+            "slot": "v3",
+            "expected": "forgotten",
+            "answer": "forgot",
+            "correct": false
+          },
+          {
+            "sentence": "Please do not ___ your homework.",
+            "slot": "v1",
+            "expected": "forget",
+            "answer": "forget",
+            "correct": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtn4jnbxcd4bvv",
+      "at": "2026-09-04T15:44:15.069Z",
+      "mode": "word_form",
+      "title": "forget · còn sai",
+      "correct": false,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "forget",
+        "familyKind": "inflection",
+        "cleanSweep": false,
+        "blanks": [
+          {
+            "sentence": "She ___ her umbrella yesterday.",
+            "slot": "v2",
+            "expected": "forgot",
+            "answer": "forgot",
+            "correct": true
+          },
+          {
+            "sentence": "I have ___ his name.",
+            "slot": "v3",
+            "expected": "forgotten",
+            "answer": "forgetten",
+            "correct": false
+          },
+          {
+            "sentence": "We ___ to call her last week.",
+            "slot": "v2",
+            "expected": "forgot",
+            "answer": "forgot",
+            "correct": true
+          },
+          {
+            "sentence": "The password had been ___ by the user.",
+            "slot": "v3",
+            "expected": "forgotten",
+            "answer": "forgotten",
+            "correct": true
+          },
+          {
+            "sentence": "Please do not ___ your keys.",
+            "slot": "v1",
+            "expected": "forget",
+            "answer": "forget",
+            "correct": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtn23lcxfz4ecx",
+      "at": "2026-09-04T14:35:46.785Z",
+      "mode": "word_form",
+      "title": "hard · đúng cả lượt",
+      "correct": true,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "hard",
+        "familyKind": "derivation",
+        "cleanSweep": true,
+        "blanks": [
+          {
+            "sentence": "She studies ___ every day.",
+            "slot": "adverb",
+            "expected": "hard",
+            "answer": "hard",
+            "correct": true
+          },
+          {
+            "sentence": "This is a ___ question.",
+            "slot": "adjective",
+            "expected": "hard",
+            "answer": "hard",
+            "correct": true
+          },
+          {
+            "sentence": "He works ___ to pass the exam.",
+            "slot": "adverb",
+            "expected": "hard",
+            "answer": "hard",
+            "correct": true
+          },
+          {
+            "sentence": "The chair feels very ___.",
+            "slot": "adjective",
+            "expected": "hard",
+            "answer": "hard",
+            "correct": true
+          },
+          {
+            "sentence": "My job is really ___ this week.",
+            "slot": "adjective",
+            "expected": "hard",
+            "answer": "hard",
+            "correct": true
+          }
+        ]
+      }
+    },
     {
       "id": "h_mtmnnkc83vm7z8",
       "at": "2026-09-04T07:51:24.344Z",
@@ -11969,5 +13652,5 @@
     }
   ],
   "createdAt": "2026-08-23T14:55:05.287Z",
-  "updatedAt": "2026-09-04T07:51:30.837Z"
+  "updatedAt": "2026-09-04T16:15:23.286Z"
 }
