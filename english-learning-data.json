@@ -27,24 +27,26 @@
       "collocations": [
         "help me",
         "help someone with something",
-        "help me + verb"
+        "help me + verb",
+        "help someone + V(base)"
       ],
-      "mastery": 0.5499999999999999,
-      "encounters": 12,
-      "correctUses": 11,
+      "mastery": 0.6,
+      "encounters": 13,
+      "correctUses": 12,
       "wrongUses": 1,
-      "recognitionMastery": 0.6600000000000001,
+      "recognitionMastery": 0.7200000000000002,
       "productionMastery": 1,
       "firstSeen": "2026-08-23T15:04:24.333Z",
-      "lastSeen": "2026-08-31T03:53:49.711Z",
-      "nextReview": "2026-09-04T03:53:49.711Z",
+      "lastSeen": "2026-09-05T05:12:40.472Z",
+      "nextReview": "2026-09-09T05:12:40.472Z",
       "contexts": [
         "Bạn có thể giúp tôi không?",
         "Bạn có thể giúp tôi nấu ăn tối nay không?",
         "Anh có thể giúp tôi dọn dẹp nhà cửa không?",
         "Bạn có thể giúp tôi mang túi này không?",
         "Sự giúp đỡ của gia đình rất quan trọng.",
-        "Chúng tôi cần sự giúp đỡ chuyên nghiệp."
+        "Chúng tôi cần sự giúp đỡ chuyên nghiệp.",
+        "Chúng tôi sẽ giúp bạn hoàn thành dự án vào tuần tới."
       ]
     },
     "wake up": {
@@ -351,22 +353,23 @@
         "live together",
         "study together"
       ],
-      "mastery": 0.65,
-      "encounters": 12,
-      "correctUses": 12,
+      "mastery": 0.7500000000000001,
+      "encounters": 14,
+      "correctUses": 14,
       "wrongUses": 0,
-      "recognitionMastery": 0.7200000000000002,
+      "recognitionMastery": 0.8400000000000003,
       "productionMastery": 1,
       "firstSeen": "2026-08-23T15:26:23.326Z",
-      "lastSeen": "2026-08-28T10:51:09.141Z",
-      "nextReview": "2026-09-01T10:51:09.141Z",
+      "lastSeen": "2026-09-05T05:11:20.306Z",
+      "nextReview": "2026-09-12T05:11:20.306Z",
       "contexts": [
         "Chúng tôi ăn sáng cùng nhau mỗi ngày.",
         "Ngay bây giờ, cả gia đình tôi đang chuẩn bị bữa tối cùng nhau.",
         "Chúng tôi đã làm việc cùng nhau từ năm 2020.",
         "Tuần trước, chúng tôi đã làm việc cùng nhau để hoàn thành dự án.",
         "Tuần tới, chúng tôi sẽ gọi món mới cùng nhau.",
-        "Tuần tới, gia đình tôi sẽ đến nhà hàng cùng nhau."
+        "Tuần tới, gia đình tôi sẽ đến nhà hàng cùng nhau.",
+        "Tối qua, cả gia đình ăn tối cùng nhau tại một nhà hàng."
       ]
     },
     "clean": {
@@ -711,14 +714,14 @@
         "start a family"
       ],
       "mastery": 1,
-      "encounters": 36,
-      "correctUses": 34,
+      "encounters": 38,
+      "correctUses": 36,
       "wrongUses": 0,
       "recognitionMastery": 1,
       "productionMastery": 1,
       "firstSeen": "2026-08-23T15:34:07.316Z",
-      "lastSeen": "2026-08-31T06:52:42.995Z",
-      "nextReview": "2026-09-30T06:52:42.995Z",
+      "lastSeen": "2026-09-05T05:11:20.306Z",
+      "nextReview": "2026-10-05T05:11:20.306Z",
       "contexts": [
         "Cuối tuần, gia đình tôi thường đi dạo trong công viên.",
         "Thành công của cô ấy luôn luôn phụ thuộc vào gia đình cô ấy.",
@@ -1239,7 +1242,7 @@
       "word": "hard",
       "meaning": "chăm chỉ",
       "partOfSpeech": "adverb",
-      "level": "A2",
+      "level": "B1",
       "examples": [
         "a hard exam",
         "a hard question",
@@ -1255,14 +1258,14 @@
         "try hard"
       ],
       "mastery": 1,
-      "encounters": 29,
-      "correctUses": 26,
+      "encounters": 31,
+      "correctUses": 28,
       "wrongUses": 3,
       "recognitionMastery": 1,
       "productionMastery": 1,
       "firstSeen": "2026-08-25T16:10:14.341Z",
-      "lastSeen": "2026-08-31T03:36:01.297Z",
-      "nextReview": "2026-09-30T03:36:01.297Z",
+      "lastSeen": "2026-09-05T05:16:49.463Z",
+      "nextReview": "2026-10-05T05:16:49.463Z",
       "contexts": [
         "Năm sau, công ty sẽ thành công nếu mọi người làm việc chăm chỉ.",
         "Hôm qua, anh ấy đã thành công trong kỳ thi khó.",
@@ -1539,15 +1542,15 @@
         "at the restaurant",
         "book a restaurant"
       ],
-      "mastery": 0.65,
-      "encounters": 13,
-      "correctUses": 12,
+      "mastery": 0.7500000000000001,
+      "encounters": 15,
+      "correctUses": 14,
       "wrongUses": 1,
-      "recognitionMastery": 0.7200000000000002,
+      "recognitionMastery": 0.8400000000000003,
       "productionMastery": 1,
       "firstSeen": "2026-08-28T10:40:09.141Z",
-      "lastSeen": "2026-08-30T15:21:58.052Z",
-      "nextReview": "2026-09-03T15:21:58.052Z",
+      "lastSeen": "2026-09-05T05:11:20.306Z",
+      "nextReview": "2026-09-12T05:11:20.306Z",
       "contexts": [
         "Anh ấy đã làm việc chăm chỉ ở nhà hàng này được 5 năm rồi.",
         "Hôm qua, cô ấy uống nước tại nhà hàng.",
@@ -1563,22 +1566,26 @@
       "word": "food",
       "meaning": "thức ăn",
       "partOfSpeech": "noun",
-      "level": "A1",
-      "examples": [],
+      "level": "A2",
+      "examples": [
+        "delicious food",
+        "healthy food"
+      ],
       "collocations": [],
-      "mastery": 0.15000000000000002,
-      "encounters": 3,
-      "correctUses": 2,
+      "mastery": 0.2,
+      "encounters": 4,
+      "correctUses": 3,
       "wrongUses": 1,
-      "recognitionMastery": 0.12,
-      "productionMastery": 0.24,
+      "recognitionMastery": 0.18,
+      "productionMastery": 0.36,
       "firstSeen": "2026-08-28T10:57:45.690Z",
-      "lastSeen": "2026-08-31T03:48:51.287Z",
-      "nextReview": "2026-08-31T03:48:51.287Z",
+      "lastSeen": "2026-09-05T05:10:04.299Z",
+      "nextReview": "2026-09-06T05:10:04.299Z",
       "contexts": [
         "Tuần tới, mọi người sẽ mang thức ăn đến công viên.",
         "Đồ ăn ngon đang nằm trên bàn.",
-        "Đồ ăn ở đây rất tự nhiên."
+        "Đồ ăn ở đây rất tự nhiên.",
+        "Chúng tôi đang nấu những món ăn ngon trong bếp bây giờ."
       ]
     },
     "hometown": {
@@ -1719,72 +1726,75 @@
       "word": "pencils",
       "meaning": "bút chì (số nhiều)",
       "partOfSpeech": "noun",
-      "level": "A2",
+      "level": "A1",
       "examples": [
         "He put the pencils on the desk."
       ],
       "collocations": [],
-      "mastery": 0.15000000000000002,
-      "encounters": 4,
-      "correctUses": 3,
+      "mastery": 0.25,
+      "encounters": 6,
+      "correctUses": 5,
       "wrongUses": 1,
-      "recognitionMastery": 0.18,
-      "productionMastery": 0.31,
+      "recognitionMastery": 0.3,
+      "productionMastery": 0.55,
       "firstSeen": "2026-08-28T11:06:51.909Z",
-      "lastSeen": "2026-08-30T09:51:31.178Z",
-      "nextReview": "2026-08-30T09:51:31.178Z",
+      "lastSeen": "2026-09-05T05:14:39.910Z",
+      "nextReview": "2026-09-06T05:14:39.910Z",
       "contexts": [
         "A desk with a laptop, books, a phone and stationery.",
-        "Anh ấy đặt bút chì lên bàn hôm qua."
+        "Anh ấy đặt bút chì lên bàn hôm qua.",
+        "Những cây bút chì đang nằm mở trên bàn bây giờ."
       ]
     },
     "lying open": {
       "word": "lying open",
       "meaning": "nằm mở ra",
       "partOfSpeech": "verb phrase",
-      "level": "A2+",
+      "level": "A2",
       "examples": [
         "The book is lying open on the table.",
         "The door is lying open."
       ],
       "collocations": [],
-      "mastery": 0.15000000000000002,
-      "encounters": 4,
-      "correctUses": 2,
+      "mastery": 0.25,
+      "encounters": 6,
+      "correctUses": 4,
       "wrongUses": 1,
-      "recognitionMastery": 0.16999999999999998,
-      "productionMastery": 0.24,
+      "recognitionMastery": 0.29,
+      "productionMastery": 0.48,
       "firstSeen": "2026-08-28T11:07:55.227Z",
-      "lastSeen": "2026-08-30T10:05:25.252Z",
-      "nextReview": "2026-08-30T10:05:25.252Z",
+      "lastSeen": "2026-09-05T05:14:39.910Z",
+      "nextReview": "2026-09-06T05:14:39.910Z",
       "contexts": [
         "A desk with a laptop, books, a phone and stationery.",
         "Ngay bây giờ, quyển sách đang nằm mở trên bàn.",
-        "Chiếc laptop đang nằm mở trên bàn ngay bây giờ."
+        "Chiếc laptop đang nằm mở trên bàn ngay bây giờ.",
+        "Những cây bút chì đang nằm mở trên bàn bây giờ."
       ]
     },
     "resting on": {
       "word": "resting on",
       "meaning": "nằm trên, đặt trên",
       "partOfSpeech": "verb phrase",
-      "level": "A2+",
+      "level": "A2",
       "examples": [
         "The cat is resting on the sofa."
       ],
       "collocations": [],
-      "mastery": 0,
-      "encounters": 3,
-      "correctUses": 0,
+      "mastery": 0.15000000000000002,
+      "encounters": 5,
+      "correctUses": 2,
       "wrongUses": 1,
-      "recognitionMastery": 0.1,
-      "productionMastery": 0,
+      "recognitionMastery": 0.22,
+      "productionMastery": 0.24,
       "firstSeen": "2026-08-28T11:07:55.227Z",
-      "lastSeen": "2026-08-31T03:36:45.056Z",
-      "nextReview": "2026-08-31T03:36:45.056Z",
+      "lastSeen": "2026-09-05T05:17:48.976Z",
+      "nextReview": "2026-09-05T05:17:48.976Z",
       "contexts": [
         "A desk with a laptop, books, a phone and stationery.",
         "Cuốn sách đang nằm trên bàn làm việc lúc này.",
-        "Đồ ăn ngon đang nằm trên bàn."
+        "Đồ ăn ngon đang nằm trên bàn.",
+        "Anh ấy sẽ nghỉ ngơi trên ghế sofa vào cuối tuần này."
       ]
     },
     "check": {
@@ -1793,7 +1803,8 @@
       "partOfSpeech": "verb",
       "level": "A2",
       "examples": [
-        "Please check the report."
+        "Please check the report.",
+        "She checks her email every day."
       ],
       "collocations": [
         "check email",
@@ -1801,19 +1812,21 @@
         "check your phone"
       ],
       "mastery": 1,
-      "encounters": 19,
-      "correctUses": 19,
+      "encounters": 22,
+      "correctUses": 22,
       "wrongUses": 0,
       "recognitionMastery": 1,
       "productionMastery": 1,
       "firstSeen": "2026-08-30T03:20:09.105Z",
-      "lastSeen": "2026-08-31T03:45:52.705Z",
-      "nextReview": "2026-09-30T03:45:52.705Z",
+      "lastSeen": "2026-09-05T05:13:37.235Z",
+      "nextReview": "2026-10-05T05:13:37.235Z",
       "contexts": [
         "Tôi cần kiểm tra email.",
         "Bạn có thường xuyên kiểm tra email vào mỗi buổi sáng không?",
         "Anh ấy có kiểm tra email mỗi sáng không?",
-        "Họ đã kiểm tra email cẩn thận."
+        "Họ đã kiểm tra email cẩn thận.",
+        "Cô ấy kiểm tra email của cô ấy mỗi ngày.",
+        "Mọi người cần kiểm tra bài tập của họ mỗi tuần."
       ]
     },
     "email": {
@@ -1828,21 +1841,25 @@
         "check his email",
         "check emails"
       ],
-      "collocations": [],
+      "collocations": [
+        "check email",
+        "send an email"
+      ],
       "mastery": 1,
-      "encounters": 21,
-      "correctUses": 21,
+      "encounters": 22,
+      "correctUses": 22,
       "wrongUses": 0,
       "recognitionMastery": 1,
       "productionMastery": 1,
       "firstSeen": "2026-08-30T03:20:09.105Z",
-      "lastSeen": "2026-08-31T03:45:52.705Z",
-      "nextReview": "2026-09-30T03:45:52.705Z",
+      "lastSeen": "2026-09-05T05:09:14.401Z",
+      "nextReview": "2026-10-05T05:09:14.401Z",
       "contexts": [
         "Tôi cần kiểm tra email.",
         "Bạn có thường xuyên kiểm tra email vào mỗi buổi sáng không?",
         "Anh ấy có kiểm tra email mỗi sáng không?",
-        "Họ đã kiểm tra email cẩn thận."
+        "Họ đã kiểm tra email cẩn thận.",
+        "Cô ấy kiểm tra email của cô ấy mỗi ngày."
       ]
     },
     "finish": {
@@ -1854,18 +1871,20 @@
         "I finish work at 6 PM."
       ],
       "collocations": [],
-      "mastery": 0.15000000000000002,
-      "encounters": 4,
-      "correctUses": 3,
+      "mastery": 0.3,
+      "encounters": 7,
+      "correctUses": 6,
       "wrongUses": 1,
-      "recognitionMastery": 0.18,
-      "productionMastery": 0.31,
+      "recognitionMastery": 0.36,
+      "productionMastery": 0.67,
       "firstSeen": "2026-08-30T03:21:42.856Z",
-      "lastSeen": "2026-08-31T03:48:25.155Z",
-      "nextReview": "2026-08-31T03:48:25.155Z",
+      "lastSeen": "2026-09-05T05:15:47.915Z",
+      "nextReview": "2026-09-06T05:15:47.915Z",
       "contexts": [
         "Tôi cần hoàn thành công việc này trước cuộc họp.",
-        "Cô ấy hoàn thành bài tập một cách thành công."
+        "Cô ấy hoàn thành bài tập một cách thành công.",
+        "Chúng tôi sẽ giúp bạn hoàn thành dự án vào tuần tới.",
+        "Cô ấy đã hoàn thành công việc một cách đẹp đẽ vào tuần trước."
       ]
     },
     "meeting": {
@@ -1954,15 +1973,15 @@
         "rest on",
         "rest for"
       ],
-      "mastery": 0.2,
-      "encounters": 11,
-      "correctUses": 7,
+      "mastery": 0.3,
+      "encounters": 13,
+      "correctUses": 9,
       "wrongUses": 4,
-      "recognitionMastery": 0.42,
-      "productionMastery": 0.64,
+      "recognitionMastery": 0.54,
+      "productionMastery": 0.88,
       "firstSeen": "2026-08-30T04:53:43.882Z",
-      "lastSeen": "2026-08-30T15:34:11.526Z",
-      "nextReview": "2026-08-31T15:34:11.526Z",
+      "lastSeen": "2026-09-05T05:07:45.028Z",
+      "nextReview": "2026-09-06T05:07:45.028Z",
       "contexts": [
         "Ngày mai, cô ấy sẽ nghỉ ngơi lúc 6 giờ sáng trước khi đi làm.",
         "Cô ấy đã nghỉ ngơi được hai giờ rồi.",
@@ -2032,24 +2051,28 @@
       "meaning": "bát đĩa",
       "partOfSpeech": "noun",
       "level": "A2",
-      "examples": [],
+      "examples": [
+        "She cooked several delicious dishes.",
+        "tasty dishes"
+      ],
       "collocations": [
         "wash the dishes",
         "do the dishes"
       ],
-      "mastery": 0.25,
-      "encounters": 4,
-      "correctUses": 4,
+      "mastery": 0.3,
+      "encounters": 6,
+      "correctUses": 5,
       "wrongUses": 0,
-      "recognitionMastery": 0.24,
-      "productionMastery": 0.48,
+      "recognitionMastery": 0.35,
+      "productionMastery": 0.6,
       "firstSeen": "2026-08-30T10:04:44.291Z",
-      "lastSeen": "2026-08-30T15:20:58.481Z",
-      "nextReview": "2026-08-31T15:20:58.481Z",
+      "lastSeen": "2026-09-05T05:10:04.299Z",
+      "nextReview": "2026-09-06T05:10:04.299Z",
       "contexts": [
         "Cô ấy nấu những món ăn ngon mỗi ngày.",
         "Cô ấy rửa bát đĩa mỗi ngày sau bữa tối.",
-        "Chúng tôi đang dọn dẹp bát đĩa trong bếp lúc này."
+        "Chúng tôi đang dọn dẹp bát đĩa trong bếp lúc này.",
+        "Chúng tôi đang nấu những món ăn ngon trong bếp bây giờ."
       ]
     },
     "evening": {
@@ -2429,22 +2452,25 @@
     },
     "beautifully": {
       "word": "beautifully",
-      "meaning": "",
+      "meaning": "một cách đẹp đẽ",
       "partOfSpeech": "adverb",
       "level": "A2",
-      "examples": [],
+      "examples": [
+        "She finished the work beautifully."
+      ],
       "collocations": [],
-      "mastery": 0,
-      "encounters": 1,
-      "correctUses": 0,
-      "wrongUses": 0,
-      "recognitionMastery": 0.05,
-      "productionMastery": 0,
+      "mastery": 0.1,
+      "encounters": 3,
+      "correctUses": 1,
+      "wrongUses": 1,
+      "recognitionMastery": 0.11,
+      "productionMastery": 0.12,
       "firstSeen": "2026-09-04T03:37:50.933Z",
-      "lastSeen": "2026-09-04T03:37:50.933Z",
-      "nextReview": "2026-09-04T03:37:50.933Z",
+      "lastSeen": "2026-09-05T05:15:47.915Z",
+      "nextReview": "2026-09-05T05:15:47.915Z",
       "contexts": [
-        "Cô ấy hát rất hay."
+        "Cô ấy hát rất hay.",
+        "Cô ấy đã hoàn thành công việc một cách đẹp đẽ vào tuần trước."
       ]
     },
     "well": {
@@ -2631,12 +2657,12 @@
         "He works every day."
       ],
       "mastery": 1,
-      "correctUses": 28,
-      "incorrectUses": 2,
+      "correctUses": 32,
+      "incorrectUses": 3,
       "commonErrors": [],
       "firstSeen": "2026-08-25T15:51:39.395Z",
-      "lastSeen": "2026-08-30T15:20:00.323Z",
-      "nextReview": "2026-09-29T15:20:00.323Z"
+      "lastSeen": "2026-09-05T05:13:37.237Z",
+      "nextReview": "2026-10-05T05:13:37.237Z"
     },
     "present_continuous": {
       "id": "present_continuous",
@@ -2647,12 +2673,12 @@
         "She is working now."
       ],
       "mastery": 1,
-      "correctUses": 42,
+      "correctUses": 48,
       "incorrectUses": 5,
       "commonErrors": [],
       "firstSeen": "2026-08-25T15:53:05.760Z",
-      "lastSeen": "2026-08-30T15:20:58.481Z",
-      "nextReview": "2026-09-29T15:20:58.481Z"
+      "lastSeen": "2026-09-05T05:14:39.911Z",
+      "nextReview": "2026-10-05T05:14:39.911Z"
     },
     "past_simple": {
       "id": "past_simple",
@@ -2663,12 +2689,12 @@
         "I went home."
       ],
       "mastery": 1,
-      "correctUses": 24,
-      "incorrectUses": 2,
+      "correctUses": 29,
+      "incorrectUses": 3,
       "commonErrors": [],
       "firstSeen": "2026-08-25T15:55:40.113Z",
-      "lastSeen": "2026-08-30T15:23:59.824Z",
-      "nextReview": "2026-09-29T15:23:59.824Z"
+      "lastSeen": "2026-09-05T05:15:47.915Z",
+      "nextReview": "2026-10-05T05:15:47.915Z"
     },
     "present_perfect_duration": {
       "id": "present_perfect_duration",
@@ -2679,12 +2705,12 @@
         "I have worked here for 5 years."
       ],
       "mastery": 1,
-      "correctUses": 37,
+      "correctUses": 42,
       "incorrectUses": 11,
       "commonErrors": [],
       "firstSeen": "2026-08-25T15:57:12.360Z",
-      "lastSeen": "2026-08-30T15:27:31.618Z",
-      "nextReview": "2026-09-29T15:27:31.618Z"
+      "lastSeen": "2026-09-05T05:16:49.463Z",
+      "nextReview": "2026-10-05T05:16:49.463Z"
     },
     "future_will": {
       "id": "future_will",
@@ -2695,12 +2721,12 @@
         "I will call you."
       ],
       "mastery": 1,
-      "correctUses": 51,
+      "correctUses": 59,
       "incorrectUses": 3,
       "commonErrors": [],
       "firstSeen": "2026-08-25T16:01:02.792Z",
-      "lastSeen": "2026-08-30T15:34:11.526Z",
-      "nextReview": "2026-09-29T15:34:11.526Z"
+      "lastSeen": "2026-09-05T05:17:48.977Z",
+      "nextReview": "2026-10-05T05:17:48.977Z"
     },
     "S + V(s)": {
       "id": "S + V(s)",
@@ -2806,17 +2832,17 @@
     },
     "need_to": {
       "id": "need_to",
-      "pattern": "need + noun",
+      "pattern": "needs to + verb",
       "meaning": "cần làm gì",
       "usage": "",
       "examples": [],
       "mastery": 0.05000000000000002,
-      "correctUses": 4,
-      "incorrectUses": 18,
+      "correctUses": 5,
+      "incorrectUses": 19,
       "commonErrors": [],
       "firstSeen": "2026-08-30T03:20:09.105Z",
-      "lastSeen": "2026-08-31T03:53:49.711Z",
-      "nextReview": "2026-08-31T03:53:49.711Z"
+      "lastSeen": "2026-09-05T05:13:37.235Z",
+      "nextReview": "2026-09-05T05:13:37.235Z"
     },
     "before_noun": {
       "id": "before_noun",
@@ -3030,17 +3056,17 @@
     },
     "adj_noun": {
       "id": "adj_noun",
-      "pattern": "ADJECTIVE + noun",
-      "meaning": "",
+      "pattern": "adjective + noun",
+      "meaning": "tính từ đứng trước danh từ",
       "usage": "",
       "examples": [],
-      "mastery": 0.1,
-      "correctUses": 1,
+      "mastery": 0.2,
+      "correctUses": 3,
       "incorrectUses": 0,
       "commonErrors": [],
       "firstSeen": "2026-09-04T03:37:13.827Z",
-      "lastSeen": "2026-09-04T03:37:13.827Z",
-      "nextReview": "2026-09-04T03:37:13.827Z"
+      "lastSeen": "2026-09-05T05:10:04.299Z",
+      "nextReview": "2026-09-06T05:10:04.299Z"
     },
     "article + NOUN": {
       "id": "article + NOUN",
@@ -4384,10 +4410,10 @@
       "original": "3 years",
       "correction": "three years",
       "explanation": "Trong văn viết trang trọng, nên viết số nhỏ bằng chữ.",
-      "count": 1,
-      "mastery": 0.2,
+      "count": 2,
+      "mastery": 0.15000000000000002,
       "firstSeen": "2026-08-25T16:22:21.139Z",
-      "lastSeen": "2026-08-25T16:22:21.139Z"
+      "lastSeen": "2026-09-05T05:16:49.463Z"
     },
     "grammar:if he continues to work hard / if he keeps working hard": {
       "id": "mistake_mt8vl4eu9h6ypf",
@@ -6296,10 +6322,10 @@
       "original": "at the park",
       "correction": "in the park",
       "explanation": "'In' dùng cho không gian bao quanh; 'at' chỉ điểm cụ thể.",
-      "count": 1,
-      "mastery": 0.2,
+      "count": 2,
+      "mastery": 0.15000000000000002,
       "firstSeen": "2026-09-04T03:41:26.587Z",
-      "lastSeen": "2026-09-04T03:41:26.587Z"
+      "lastSeen": "2026-09-05T05:07:22.061Z"
     },
     "spelling:proud": {
       "id": "mistake_mtmerdomd1d3hh",
@@ -6343,6 +6369,116 @@
       "mastery": 0.2,
       "firstSeen": "2026-09-04T03:44:08.209Z",
       "lastSeen": "2026-09-04T03:44:08.209Z"
+    },
+    "spelling:kitchen": {
+      "id": "mistake_mtnxbms5l10d4s",
+      "type": "spelling",
+      "original": "chicken",
+      "correction": "kitchen",
+      "explanation": "Lỗi chính tả, không liên quan cấu trúc câu.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-09-05T05:09:49.973Z",
+      "lastSeen": "2026-09-05T05:09:49.973Z"
+    },
+    "word_order:the whole family": {
+      "id": "mistake_mtnxd7ia4drhre",
+      "type": "word_order",
+      "original": "whole my family",
+      "correction": "the whole family",
+      "explanation": "Slot bổ nghĩa danh từ 'family': mạo từ 'the' đứng đầu, tính từ 'whole' đứng ngay trước danh từ. Không dùng sở hữu 'my' cùng lúc với 'the'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-09-05T05:11:03.489Z",
+      "lastSeen": "2026-09-05T05:11:03.489Z"
+    },
+    "tense:ate/had": {
+      "id": "mistake_mtnxd7iada3ktd",
+      "type": "tense",
+      "original": "eats",
+      "correction": "ate/had",
+      "explanation": "Vị trí động từ chính cần chia quá khứ đơn (V2) vì câu kể chuyện đã xảy ra 'Tối qua', không dùng hiện tại 'eats'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-09-05T05:11:03.489Z",
+      "lastSeen": "2026-09-05T05:11:03.489Z"
+    },
+    "grammar:needs to check": {
+      "id": "mistake_mtnxg5rgjtgo9m",
+      "type": "grammar",
+      "patternId": "need_to",
+      "original": "need to check",
+      "correction": "needs to check",
+      "explanation": "Chủ ngữ 'Everyone' là số ít ngôi 3, động từ chính trong mệnh đề phải thêm 's/es': needs.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-09-05T05:13:21.195Z",
+      "lastSeen": "2026-09-05T05:13:21.195Z"
+    },
+    "grammar:their homework": {
+      "id": "mistake_mtnxg5rgppqbsj",
+      "type": "grammar",
+      "original": "them homework",
+      "correction": "their homework",
+      "explanation": "Vị trí trước danh từ 'homework' cần tính từ sở hữu (their) để chỉ sự sở hữu, không dùng đại từ tân ngữ 'them'.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-09-05T05:13:21.195Z",
+      "lastSeen": "2026-09-05T05:13:21.195Z"
+    },
+    "article:the pencils are lying": {
+      "id": "mistake_mtnxhit5m2lqzw",
+      "type": "article",
+      "original": "Pencils are lying",
+      "correction": "The pencils are lying",
+      "explanation": "Slot chủ ngữ chỉ vật cụ thể, xác định → cần 'the' trước danh từ số nhiều.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-09-05T05:14:24.761Z",
+      "lastSeen": "2026-09-05T05:14:24.761Z"
+    },
+    "article:the work": {
+      "id": "mistake_mtnxixxtt0r2rd",
+      "type": "article",
+      "original": "work",
+      "correction": "the work",
+      "explanation": "Danh từ 'work' ở đây chỉ công việc cụ thể đã biết, nên cần mạo từ xác định 'the' trước nó.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-09-05T05:15:31.024Z",
+      "lastSeen": "2026-09-05T05:15:31.024Z"
+    },
+    "spelling:beautifully": {
+      "id": "mistake_mtnxixxuc2aqn0",
+      "type": "spelling",
+      "original": "beatifully",
+      "correction": "beautifully",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-09-05T05:15:31.024Z",
+      "lastSeen": "2026-09-05T05:15:31.024Z"
+    },
+    "preposition:on this project": {
+      "id": "mistake_mtnxk9qcwq7vob",
+      "type": "preposition",
+      "original": "for this project",
+      "correction": "on this project",
+      "explanation": "Slot bổ nghĩa cho động từ 'worked' chỉ đối tượng công việc dùng giới từ 'on', còn 'for' đã dùng để chỉ thời gian 'for three years' nên không lặp lại.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-09-05T05:16:32.963Z",
+      "lastSeen": "2026-09-05T05:16:32.963Z"
+    },
+    "preposition:this weekend": {
+      "id": "mistake_mtnxlkacq7puya",
+      "type": "preposition",
+      "original": "in the weekend",
+      "correction": "this weekend",
+      "explanation": "'this weekend' là cụm chỉ thời gian xác định, không cần giới từ đứng trước.",
+      "count": 1,
+      "mastery": 0.2,
+      "firstSeen": "2026-09-05T05:17:33.300Z",
+      "lastSeen": "2026-09-05T05:17:33.300Z"
     }
   },
   "wordFamilies": {
@@ -6358,11 +6494,11 @@
           "forms": [
             "succeed"
           ],
-          "meaning": "thành công",
+          "meaning": "thành công (động từ)",
           "mastery": 0.6,
-          "correctCount": 1,
-          "wrongCount": 0,
-          "nextReview": "2026-09-08T03:45:47.159Z"
+          "correctCount": 2,
+          "wrongCount": 1,
+          "nextReview": "2026-09-09T05:39:09.735Z"
         },
         {
           "slot": "noun",
@@ -6370,21 +6506,21 @@
             "success"
           ],
           "meaning": "sự thành công",
-          "mastery": 0.6,
-          "correctCount": 1,
+          "mastery": 0.7000000000000001,
+          "correctCount": 3,
           "wrongCount": 0,
-          "nextReview": "2026-09-08T03:45:47.159Z"
+          "nextReview": "2026-09-12T05:39:09.735Z"
         },
         {
           "slot": "adjective",
           "forms": [
             "successful"
           ],
-          "meaning": "thành công",
-          "mastery": 0.6,
-          "correctCount": 1,
+          "meaning": "thành công (tính từ)",
+          "mastery": 0.7000000000000001,
+          "correctCount": 3,
           "wrongCount": 0,
-          "nextReview": "2026-09-08T03:45:47.159Z"
+          "nextReview": "2026-09-12T05:39:09.735Z"
         },
         {
           "slot": "adverb",
@@ -6393,17 +6529,17 @@
           ],
           "meaning": "một cách thành công",
           "mastery": 0.6,
-          "correctCount": 1,
-          "wrongCount": 0,
-          "nextReview": "2026-09-08T03:45:47.159Z"
+          "correctCount": 2,
+          "wrongCount": 1,
+          "nextReview": "2026-09-09T05:39:09.735Z"
         }
       ],
-      "sweepsPassed": 1,
-      "lastSweepAt": "2026-09-04T03:45:47.159Z",
+      "sweepsPassed": 2,
+      "lastSweepAt": "2026-09-05T05:39:09.735Z",
       "usedInProduction": false,
       "firstSeen": "2026-09-04T03:44:34.705Z",
-      "lastSeen": "2026-09-04T16:14:21.866Z",
-      "nextReview": "2026-09-08T03:45:47.159Z"
+      "lastSeen": "2026-09-05T05:39:09.735Z",
+      "nextReview": "2026-09-09T05:39:09.735Z"
     },
     "take": {
       "id": "take",
@@ -6464,10 +6600,10 @@
             "finish"
           ],
           "meaning": "kết thúc, hoàn thành",
-          "mastery": 0.6,
+          "mastery": 0.95,
           "correctCount": 3,
           "wrongCount": 0,
-          "nextReview": "2026-09-08T03:52:55.404Z"
+          "nextReview": "2026-09-19T05:12:40.472Z"
         },
         {
           "slot": "noun",
@@ -6475,10 +6611,10 @@
             "finish"
           ],
           "meaning": "sự kết thúc, phần cuối",
-          "mastery": 0.6,
+          "mastery": 0.95,
           "correctCount": 3,
           "wrongCount": 0,
-          "nextReview": "2026-09-08T03:52:55.404Z"
+          "nextReview": "2026-09-19T05:12:40.472Z"
         },
         {
           "slot": "adjective",
@@ -6486,18 +6622,18 @@
             "finished"
           ],
           "meaning": "đã xong, hoàn thành",
-          "mastery": 0.6,
+          "mastery": 0.95,
           "correctCount": 1,
           "wrongCount": 2,
-          "nextReview": "2026-09-08T03:52:55.404Z"
+          "nextReview": "2026-09-19T05:15:47.915Z"
         }
       ],
       "sweepsPassed": 1,
       "lastSweepAt": "2026-09-04T03:52:55.404Z",
-      "usedInProduction": false,
+      "usedInProduction": true,
       "firstSeen": "2026-09-04T03:47:59.364Z",
-      "lastSeen": "2026-09-04T03:52:55.404Z",
-      "nextReview": "2026-09-08T03:52:55.404Z"
+      "lastSeen": "2026-09-05T05:15:47.915Z",
+      "nextReview": "2026-09-19T05:15:47.915Z"
     },
     "see": {
       "id": "see",
@@ -6627,10 +6763,10 @@
           "forms": [
             "ate"
           ],
-          "mastery": 0.6,
+          "mastery": 0.95,
           "correctCount": 1,
           "wrongCount": 0,
-          "nextReview": "2026-09-08T04:41:53.554Z"
+          "nextReview": "2026-09-19T05:11:20.306Z"
         },
         {
           "slot": "v3",
@@ -6645,10 +6781,10 @@
       ],
       "sweepsPassed": 1,
       "lastSweepAt": "2026-09-04T04:41:53.554Z",
-      "usedInProduction": false,
+      "usedInProduction": true,
       "firstSeen": "2026-09-04T04:07:20.053Z",
-      "lastSeen": "2026-09-04T04:41:53.554Z",
-      "nextReview": "2026-09-08T04:41:53.554Z"
+      "lastSeen": "2026-09-05T05:11:20.306Z",
+      "nextReview": "2026-09-09T05:11:20.306Z"
     },
     "family": {
       "id": "family",
@@ -6663,10 +6799,10 @@
             "family"
           ],
           "meaning": "gia đình",
-          "mastery": 0.6,
+          "mastery": 0.95,
           "correctCount": 2,
           "wrongCount": 0,
-          "nextReview": "2026-09-08T07:49:43.584Z"
+          "nextReview": "2026-09-19T05:11:20.306Z"
         },
         {
           "slot": "adjective",
@@ -6682,10 +6818,10 @@
       ],
       "sweepsPassed": 1,
       "lastSweepAt": "2026-09-04T07:49:43.584Z",
-      "usedInProduction": false,
+      "usedInProduction": true,
       "firstSeen": "2026-09-04T04:41:58.250Z",
-      "lastSeen": "2026-09-04T07:49:43.584Z",
-      "nextReview": "2026-09-08T07:49:43.584Z"
+      "lastSeen": "2026-09-05T05:11:20.306Z",
+      "nextReview": "2026-09-09T05:11:20.306Z"
     },
     "fall": {
       "id": "fall",
@@ -6746,10 +6882,10 @@
             "hard"
           ],
           "meaning": "khó, cứng",
-          "mastery": 0.6,
+          "mastery": 0.95,
           "correctCount": 1,
           "wrongCount": 0,
-          "nextReview": "2026-09-08T14:35:46.784Z"
+          "nextReview": "2026-09-19T05:16:49.463Z"
         },
         {
           "slot": "adverb",
@@ -6757,18 +6893,18 @@
             "hard"
           ],
           "meaning": "chăm chỉ, mạnh",
-          "mastery": 0.6,
+          "mastery": 0.95,
           "correctCount": 1,
           "wrongCount": 0,
-          "nextReview": "2026-09-08T14:35:46.784Z"
+          "nextReview": "2026-09-19T05:16:49.463Z"
         }
       ],
       "sweepsPassed": 1,
       "lastSweepAt": "2026-09-04T14:35:46.784Z",
-      "usedInProduction": false,
+      "usedInProduction": true,
       "firstSeen": "2026-09-04T07:51:30.837Z",
-      "lastSeen": "2026-09-04T14:35:46.784Z",
-      "nextReview": "2026-09-08T14:35:46.784Z"
+      "lastSeen": "2026-09-05T05:16:49.463Z",
+      "nextReview": "2026-09-19T05:16:49.463Z"
     },
     "forget": {
       "id": "forget",
@@ -7115,21 +7251,21 @@
             "decide"
           ],
           "meaning": "quyết định",
-          "mastery": 0.6,
-          "correctCount": 3,
+          "mastery": 0.7000000000000001,
+          "correctCount": 5,
           "wrongCount": 0,
-          "nextReview": "2026-09-08T16:07:18.863Z"
+          "nextReview": "2026-09-12T14:57:51.846Z"
         },
         {
           "slot": "noun",
           "forms": [
             "decision"
           ],
-          "meaning": "quyết định (danh từ)",
+          "meaning": "quyết định",
           "mastery": 0.6,
-          "correctCount": 3,
-          "wrongCount": 0,
-          "nextReview": "2026-09-08T16:07:18.863Z"
+          "correctCount": 4,
+          "wrongCount": 1,
+          "nextReview": "2026-09-09T14:57:51.846Z"
         },
         {
           "slot": "adjective",
@@ -7138,17 +7274,28 @@
           ],
           "meaning": "quyết đoán, dứt khoát",
           "mastery": 0.6,
-          "correctCount": 1,
-          "wrongCount": 2,
-          "nextReview": "2026-09-08T16:07:18.863Z"
+          "correctCount": 2,
+          "wrongCount": 3,
+          "nextReview": "2026-09-09T14:57:51.846Z"
+        },
+        {
+          "slot": "adverb",
+          "forms": [
+            "decisively"
+          ],
+          "meaning": "một cách dứt khoát",
+          "mastery": 0.6,
+          "correctCount": 2,
+          "wrongCount": 0,
+          "nextReview": "2026-09-09T14:57:51.846Z"
         }
       ],
-      "sweepsPassed": 1,
-      "lastSweepAt": "2026-09-04T16:07:18.863Z",
+      "sweepsPassed": 2,
+      "lastSweepAt": "2026-09-05T14:57:51.846Z",
       "usedInProduction": false,
       "firstSeen": "2026-09-04T16:05:26.334Z",
-      "lastSeen": "2026-09-04T16:07:18.863Z",
-      "nextReview": "2026-09-08T16:07:18.863Z"
+      "lastSeen": "2026-09-05T14:57:51.846Z",
+      "nextReview": "2026-09-09T14:57:51.846Z"
     },
     "burn": {
       "id": "burn",
@@ -7293,6 +7440,199 @@
       "firstSeen": "2026-09-04T16:13:25.842Z",
       "lastSeen": "2026-09-04T16:14:18.926Z",
       "nextReview": "2026-09-08T16:14:18.926Z"
+    },
+    "rent": {
+      "id": "rent",
+      "kind": "derivation",
+      "lemma": "rent",
+      "meaning": "thuê/cho thuê",
+      "level": "A2",
+      "slots": [
+        {
+          "slot": "verb",
+          "forms": [
+            "rent"
+          ],
+          "meaning": "thuê hoặc cho thuê",
+          "mastery": 0.6,
+          "correctCount": 2,
+          "wrongCount": 0,
+          "nextReview": "2026-09-09T14:52:56.843Z"
+        },
+        {
+          "slot": "noun",
+          "forms": [
+            "rent"
+          ],
+          "meaning": "tiền thuê",
+          "mastery": 0.6,
+          "correctCount": 2,
+          "wrongCount": 0,
+          "nextReview": "2026-09-09T14:52:56.843Z"
+        },
+        {
+          "slot": "adjective",
+          "forms": [
+            "rented"
+          ],
+          "meaning": "được thuê",
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 1,
+          "nextReview": "2026-09-09T14:52:56.843Z"
+        }
+      ],
+      "sweepsPassed": 1,
+      "lastSweepAt": "2026-09-05T14:52:56.843Z",
+      "usedInProduction": false,
+      "firstSeen": "2026-09-05T05:39:12.792Z",
+      "lastSeen": "2026-09-05T14:52:56.843Z",
+      "nextReview": "2026-09-09T14:52:56.843Z"
+    },
+    "helpful": {
+      "id": "helpful",
+      "kind": "derivation",
+      "lemma": "helpful",
+      "meaning": "có ích, hữu ích",
+      "level": "A2",
+      "slots": [
+        {
+          "slot": "verb",
+          "forms": [
+            "help"
+          ],
+          "meaning": "giúp đỡ",
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReview": "2026-09-09T14:53:44.337Z"
+        },
+        {
+          "slot": "noun",
+          "forms": [
+            "help"
+          ],
+          "meaning": "sự giúp đỡ",
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReview": "2026-09-09T14:53:44.337Z"
+        },
+        {
+          "slot": "adjective",
+          "forms": [
+            "helpful"
+          ],
+          "meaning": "có ích, hữu ích",
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReview": "2026-09-09T14:53:44.337Z"
+        },
+        {
+          "slot": "adverb",
+          "forms": [
+            "helpfully"
+          ],
+          "meaning": "một cách hữu ích",
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReview": "2026-09-09T14:53:44.337Z"
+        }
+      ],
+      "sweepsPassed": 1,
+      "lastSweepAt": "2026-09-05T14:53:44.337Z",
+      "usedInProduction": false,
+      "firstSeen": "2026-09-05T14:53:01.102Z",
+      "lastSeen": "2026-09-05T14:53:44.337Z",
+      "nextReview": "2026-09-09T14:53:44.337Z"
+    },
+    "check": {
+      "id": "check",
+      "kind": "derivation",
+      "lemma": "check",
+      "meaning": "kiểm tra",
+      "level": "A2",
+      "slots": [
+        {
+          "slot": "verb",
+          "forms": [
+            "check"
+          ],
+          "meaning": "kiểm tra",
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReview": "2026-09-09T14:54:37.988Z"
+        },
+        {
+          "slot": "noun",
+          "forms": [
+            "check",
+            "check-up"
+          ],
+          "meaning": "sự kiểm tra",
+          "mastery": 0.6,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReview": "2026-09-09T14:54:37.988Z"
+        }
+      ],
+      "sweepsPassed": 1,
+      "lastSweepAt": "2026-09-05T14:54:37.988Z",
+      "usedInProduction": false,
+      "firstSeen": "2026-09-05T14:53:48.065Z",
+      "lastSeen": "2026-09-05T14:54:37.988Z",
+      "nextReview": "2026-09-09T14:54:37.988Z"
+    },
+    "manage": {
+      "id": "manage",
+      "kind": "derivation",
+      "lemma": "manage",
+      "meaning": "quản lý, xoay xở",
+      "level": "A2",
+      "slots": [
+        {
+          "slot": "verb",
+          "forms": [
+            "manage"
+          ],
+          "meaning": "quản lý, xoay xở",
+          "mastery": 0.1,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReview": "2026-09-05T15:00:04.900Z"
+        },
+        {
+          "slot": "noun",
+          "forms": [
+            "management"
+          ],
+          "meaning": "sự quản lý",
+          "mastery": 0.1,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReview": "2026-09-05T15:00:04.900Z"
+        },
+        {
+          "slot": "adjective",
+          "forms": [
+            "manageable"
+          ],
+          "meaning": "có thể quản lý được",
+          "mastery": 0,
+          "correctCount": 0,
+          "wrongCount": 1,
+          "nextReview": "2026-09-05T15:00:04.900Z"
+        }
+      ],
+      "sweepsPassed": 0,
+      "lastSweepAt": "2026-09-05T15:00:04.900Z",
+      "usedInProduction": false,
+      "firstSeen": "2026-09-05T14:57:55.765Z",
+      "lastSeen": "2026-09-05T15:00:04.900Z",
+      "nextReview": "2026-09-05T15:00:04.900Z"
     }
   },
   "suggestedWords": [],
@@ -7433,111 +7773,150 @@
       "startedAt": "2026-09-04T16:15:23.286Z",
       "wordForms": [
         {
-          "lemma": "success",
-          "meaning": "sự thành công",
+          "lemma": "successful",
+          "meaning": "thành công",
+          "kind": "derivation",
+          "doneAt": "2026-09-05T05:39:09.735Z"
+        },
+        {
+          "lemma": "rent",
+          "meaning": "tiền thuê",
+          "kind": "derivation",
+          "doneAt": "2026-09-05T14:52:56.843Z"
+        },
+        {
+          "lemma": "helpful",
+          "meaning": "hữu ích",
+          "kind": "derivation",
+          "doneAt": "2026-09-05T14:53:44.337Z"
+        },
+        {
+          "lemma": "check",
+          "meaning": "kiểm tra",
+          "kind": "derivation",
+          "doneAt": "2026-09-05T14:54:37.988Z"
+        },
+        {
+          "lemma": "decision",
+          "meaning": "quyết định",
+          "kind": "derivation",
+          "doneAt": "2026-09-05T14:57:51.846Z"
+        },
+        {
+          "lemma": "manage",
+          "meaning": "quản lý",
           "kind": "derivation"
         },
         {
-          "lemma": "carry",
-          "meaning": "mang, vác",
+          "lemma": "confirm",
+          "meaning": "xác nhận",
           "kind": "derivation"
         },
         {
-          "lemma": "company",
-          "meaning": "công ty",
+          "lemma": "benefit",
+          "meaning": "lợi ích",
           "kind": "derivation"
         },
         {
-          "lemma": "usually",
-          "meaning": "thường thường",
+          "lemma": "notify",
+          "meaning": "thông báo",
           "kind": "derivation"
         },
         {
-          "lemma": "work",
-          "meaning": "công việc, làm việc",
-          "kind": "derivation"
-        },
-        {
-          "lemma": "rest",
-          "meaning": "nghỉ ngơi, phần còn lại",
-          "kind": "derivation"
-        },
-        {
-          "lemma": "help",
-          "meaning": "giúp đỡ",
-          "kind": "derivation"
-        },
-        {
-          "lemma": "differ",
-          "meaning": "khác nhau",
-          "kind": "derivation"
-        },
-        {
-          "lemma": "depend",
-          "meaning": "phụ thuộc",
-          "kind": "derivation"
-        },
-        {
-          "lemma": "require",
-          "meaning": "yêu cầu",
+          "lemma": "reliable",
+          "meaning": "đáng tin cậy",
           "kind": "derivation"
         }
       ],
       "irregulars": [
         {
-          "lemma": "smell",
-          "meaning": "ngửi, có mùi",
+          "lemma": "build",
+          "meaning": "xây dựng",
           "kind": "inflection"
         },
         {
-          "lemma": "get",
-          "meaning": "lấy, trở nên",
+          "lemma": "send",
+          "meaning": "gửi",
           "kind": "inflection"
         },
         {
-          "lemma": "show",
-          "meaning": "cho xem",
+          "lemma": "spend",
+          "meaning": "tiêu, dành (thời gian)",
           "kind": "inflection"
         },
         {
-          "lemma": "keep",
-          "meaning": "giữ",
+          "lemma": "hold",
+          "meaning": "giữ, tổ chức",
           "kind": "inflection"
         },
         {
-          "lemma": "sleep",
-          "meaning": "ngủ",
+          "lemma": "sell",
+          "meaning": "bán",
           "kind": "inflection"
         },
         {
-          "lemma": "feel",
-          "meaning": "cảm thấy",
+          "lemma": "tell",
+          "meaning": "kể, bảo",
           "kind": "inflection"
         },
         {
-          "lemma": "leave",
-          "meaning": "rời đi, để lại",
+          "lemma": "begin",
+          "meaning": "bắt đầu",
           "kind": "inflection"
         },
         {
-          "lemma": "mean",
-          "meaning": "có nghĩa là",
+          "lemma": "drink",
+          "meaning": "uống",
           "kind": "inflection"
         },
         {
-          "lemma": "meet",
-          "meaning": "gặp",
+          "lemma": "sing",
+          "meaning": "hát",
           "kind": "inflection"
         },
         {
-          "lemma": "lose",
-          "meaning": "mất, thua",
+          "lemma": "swim",
+          "meaning": "bơi",
           "kind": "inflection"
         }
       ]
     }
   ],
   "sessions": [
+    {
+      "id": "session_mtnxm0c6kz7ehe",
+      "startedAt": "2026-09-05T05:08:03.417Z",
+      "endedAt": "2026-09-05T05:17:54.102Z",
+      "durationMin": 10,
+      "mode": "guided_translation",
+      "exercises": 17,
+      "correct": 10,
+      "newVocabulary": [
+        "dishes"
+      ],
+      "patternsPracticed": [
+        "present_simple",
+        "present_continuous",
+        "adj_noun",
+        "past_simple",
+        "present_perfect_duration",
+        "future_will",
+        "need_to"
+      ]
+    },
+    {
+      "id": "session_mtnx983qzju5nk",
+      "startedAt": "2026-09-05T05:02:18.721Z",
+      "endedAt": "2026-09-05T05:07:57.638Z",
+      "durationMin": 6,
+      "mode": "guided_translation",
+      "exercises": 2,
+      "correct": 1,
+      "newVocabulary": [],
+      "patternsPracticed": [
+        "future_will"
+      ]
+    },
     {
       "id": "session_mtmeu1ixea4egy",
       "startedAt": "2026-09-04T03:14:37.644Z",
@@ -7996,16 +8375,16 @@
     }
   ],
   "statistics": {
-    "totalExercises": 400,
-    "totalCorrect": 197,
-    "studyMinutes": 815,
-    "streakDays": 1,
-    "lastStudyDate": "2026-09-04",
-    "vocabularyScore": 0.29,
-    "patternScore": 0.4,
-    "thinkingScore": 0.51,
-    "writingScore": 0.45,
-    "guidedCompleted": 166
+    "totalExercises": 428,
+    "totalCorrect": 213,
+    "studyMinutes": 831,
+    "streakDays": 2,
+    "lastStudyDate": "2026-09-05",
+    "vocabularyScore": 0.3,
+    "patternScore": 0.41,
+    "thinkingScore": 0.52,
+    "writingScore": 0.46,
+    "guidedCompleted": 176
   },
   "settings": {
     "maxHintsBeforeAnswer": 4,
@@ -8180,9 +8559,736 @@
     "các em bé chơi vui vẻ trong công viên.",
     "thành công của anh ấy làm gia đình tự hào.",
     "cô ấy lái xe cẩn thận.",
-    "cuộc họp hôm qua rất hữu ích."
+    "cuộc họp hôm qua rất hữu ích.",
+    "cô ấy kiểm tra email của cô ấy mỗi ngày.",
+    "chúng tôi đang nấu những món ăn ngon trong bếp bây giờ.",
+    "tối qua, cả gia đình ăn tối cùng nhau tại một nhà hàng.",
+    "cô ấy đã sống ở thành phố này từ năm 2020.",
+    "chúng tôi sẽ giúp bạn hoàn thành dự án vào tuần tới.",
+    "mọi người cần kiểm tra bài tập của họ mỗi tuần.",
+    "những cây bút chì đang nằm mở trên bàn bây giờ.",
+    "cô ấy đã hoàn thành công việc một cách đẹp đẽ vào tuần trước.",
+    "chúng tôi đã làm việc chăm chỉ cho dự án này trong ba năm.",
+    "anh ấy sẽ nghỉ ngơi trên ghế sofa vào cuối tuần này."
   ],
   "history": [
+    {
+      "id": "h_mtoiep44uc8i93",
+      "at": "2026-09-05T15:00:04.900Z",
+      "mode": "word_form",
+      "title": "manage · còn sai",
+      "correct": false,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "manage",
+        "familyKind": "derivation",
+        "cleanSweep": false,
+        "blanks": [
+          {
+            "sentence": "With her help, the workload became ___.",
+            "slot": "adjective",
+            "expected": "manageable",
+            "answer": "management",
+            "correct": false
+          },
+          {
+            "sentence": "This is a ___ task; you can finish it today.",
+            "slot": "adjective",
+            "expected": "manageable",
+            "answer": "manageable",
+            "correct": true
+          },
+          {
+            "sentence": "I need to ___ my time better this week.",
+            "slot": "verb",
+            "expected": "manage",
+            "answer": "manage",
+            "correct": true
+          },
+          {
+            "sentence": "The company's ___ made a quick decision.",
+            "slot": "noun",
+            "expected": "management",
+            "answer": "management",
+            "correct": true
+          },
+          {
+            "sentence": "Even with little money, they ___ to buy food.",
+            "slot": "verb",
+            "expected": "manage",
+            "answer": "manage",
+            "correct": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtoibug6e2sn09",
+      "at": "2026-09-05T14:57:51.846Z",
+      "mode": "word_form",
+      "title": "decide · đúng cả lượt",
+      "correct": true,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "decide",
+        "familyKind": "derivation",
+        "cleanSweep": true,
+        "blanks": [
+          {
+            "sentence": "I need to ___ what to eat for lunch.",
+            "slot": "verb",
+            "expected": "decide",
+            "answer": "decide",
+            "correct": true
+          },
+          {
+            "sentence": "She is a ___ leader who never wastes time.",
+            "slot": "adjective",
+            "expected": "decisive",
+            "answer": "decisive",
+            "correct": true
+          },
+          {
+            "sentence": "He answered the question ___, without any doubt.",
+            "slot": "adverb",
+            "expected": "decisively",
+            "answer": "decisively",
+            "correct": true
+          },
+          {
+            "sentence": "Her tone was very ___ during the meeting.",
+            "slot": "adjective",
+            "expected": "decisive",
+            "answer": "decisive",
+            "correct": true
+          },
+          {
+            "sentence": "The manager acted ___ to solve the problem fast.",
+            "slot": "adverb",
+            "expected": "decisively",
+            "answer": "decisively",
+            "correct": true
+          },
+          {
+            "sentence": "He made a big ___ about his future.",
+            "slot": "noun",
+            "expected": "decision",
+            "answer": "decision",
+            "correct": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtoia65p00cejq",
+      "at": "2026-09-05T14:56:33.709Z",
+      "mode": "word_form",
+      "title": "decide · còn sai",
+      "correct": false,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "decide",
+        "familyKind": "derivation",
+        "cleanSweep": false,
+        "blanks": [
+          {
+            "sentence": "We need to ___ today.",
+            "slot": "verb",
+            "expected": "decide",
+            "answer": "decide",
+            "correct": true
+          },
+          {
+            "sentence": "She is a ___ leader.",
+            "slot": "adjective",
+            "expected": "decisive",
+            "answer": "decisive",
+            "correct": true
+          },
+          {
+            "sentence": "He answered the question ___.",
+            "slot": "adverb",
+            "expected": "decisively",
+            "answer": "decisively",
+            "correct": true
+          },
+          {
+            "sentence": "Her tone sounded ___ during the meeting.",
+            "slot": "adjective",
+            "expected": "decisive",
+            "answer": "decisively",
+            "correct": false
+          },
+          {
+            "sentence": "The team acted ___ to fix the problem.",
+            "slot": "adverb",
+            "expected": "decisively",
+            "answer": "decisively",
+            "correct": true
+          },
+          {
+            "sentence": "He made a big ___ last night.",
+            "slot": "noun",
+            "expected": "decision",
+            "answer": "decide",
+            "correct": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtoi7ov84fvewr",
+      "at": "2026-09-05T14:54:37.988Z",
+      "mode": "word_form",
+      "title": "check · đúng cả lượt",
+      "correct": true,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "check",
+        "familyKind": "derivation",
+        "cleanSweep": true,
+        "blanks": [
+          {
+            "sentence": "Can I have the ___, please?",
+            "slot": "noun",
+            "expected": "check",
+            "answer": "check",
+            "correct": true
+          },
+          {
+            "sentence": "Please ___ your email every morning.",
+            "slot": "verb",
+            "expected": "check",
+            "answer": "check",
+            "correct": true
+          },
+          {
+            "sentence": "The doctor gave me a ___ last week.",
+            "slot": "noun",
+            "expected": "check",
+            "answer": "check",
+            "correct": true
+          },
+          {
+            "sentence": "I always ___ my bag before I leave home.",
+            "slot": "verb",
+            "expected": "check",
+            "answer": "check",
+            "correct": true
+          },
+          {
+            "sentence": "We need to do a final ___ before the flight.",
+            "slot": "noun",
+            "expected": "check",
+            "answer": "checked",
+            "correct": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtoi6jgxjy1swx",
+      "at": "2026-09-05T14:53:44.337Z",
+      "mode": "word_form",
+      "title": "helpful · đúng cả lượt",
+      "correct": true,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "helpful",
+        "familyKind": "derivation",
+        "cleanSweep": true,
+        "blanks": [
+          {
+            "sentence": "Thank you for your ___.",
+            "slot": "noun",
+            "expected": "help",
+            "answer": "help",
+            "correct": true
+          },
+          {
+            "sentence": "My teacher is very ___.",
+            "slot": "adjective",
+            "expected": "helpful",
+            "answer": "helpful",
+            "correct": true
+          },
+          {
+            "sentence": "This is a ___ book for students.",
+            "slot": "adjective",
+            "expected": "helpful",
+            "answer": "helpful",
+            "correct": true
+          },
+          {
+            "sentence": "I need your ___ with this box.",
+            "slot": "noun",
+            "expected": "help",
+            "answer": "help",
+            "correct": true
+          },
+          {
+            "sentence": "Can you ___ me with my homework?",
+            "slot": "verb",
+            "expected": "help",
+            "answer": "help",
+            "correct": true
+          },
+          {
+            "sentence": "She ___ answered all my questions.",
+            "slot": "adverb",
+            "expected": "helpfully",
+            "answer": "helpfully",
+            "correct": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtoi5itnmd1tgt",
+      "at": "2026-09-05T14:52:56.843Z",
+      "mode": "word_form",
+      "title": "rent · đúng cả lượt",
+      "correct": true,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "rent",
+        "familyKind": "derivation",
+        "cleanSweep": true,
+        "blanks": [
+          {
+            "sentence": "We live in a ___ apartment.",
+            "slot": "adjective",
+            "expected": "rented",
+            "answer": "rented",
+            "correct": true
+          },
+          {
+            "sentence": "They ___ a car every summer.",
+            "slot": "verb",
+            "expected": "rent",
+            "answer": "rent",
+            "correct": true
+          },
+          {
+            "sentence": "The ___ is due on the first day of the month.",
+            "slot": "noun",
+            "expected": "rent",
+            "answer": "rent",
+            "correct": true
+          },
+          {
+            "sentence": "He pays his ___ in cash.",
+            "slot": "noun",
+            "expected": "rent",
+            "answer": "rent",
+            "correct": true
+          },
+          {
+            "sentence": "This bike is ___, not mine.",
+            "slot": "adjective",
+            "expected": "rented",
+            "answer": "rented",
+            "correct": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtnyfgkhauvpmz",
+      "at": "2026-09-05T05:40:48.161Z",
+      "mode": "word_form",
+      "title": "rent · còn sai",
+      "correct": false,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "rent",
+        "familyKind": "derivation",
+        "cleanSweep": false,
+        "blanks": [
+          {
+            "sentence": "We live in a ___ house near the city.",
+            "slot": "adjective",
+            "expected": "rented",
+            "answer": "rent",
+            "correct": false
+          },
+          {
+            "sentence": "Every summer, they ___ a small boat.",
+            "slot": "verb",
+            "expected": "rent",
+            "answer": "rent",
+            "correct": true
+          },
+          {
+            "sentence": "My monthly ___ is due on the first day.",
+            "slot": "noun",
+            "expected": "rent",
+            "answer": "rent",
+            "correct": true
+          },
+          {
+            "sentence": "He paid the ___ in cash yesterday.",
+            "slot": "noun",
+            "expected": "rent",
+            "answer": "rent",
+            "correct": true
+          },
+          {
+            "sentence": "Our ___ car broke down on the highway.",
+            "slot": "adjective",
+            "expected": "rented",
+            "answer": "rented",
+            "correct": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtnydcmf94zhwq",
+      "at": "2026-09-05T05:39:09.735Z",
+      "mode": "word_form",
+      "title": "succeed · đúng cả lượt",
+      "correct": true,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "succeed",
+        "familyKind": "derivation",
+        "cleanSweep": true,
+        "blanks": [
+          {
+            "sentence": "Her ___ made her family proud.",
+            "slot": "noun",
+            "expected": "success",
+            "answer": "success",
+            "correct": true
+          },
+          {
+            "sentence": "He ___ finished the difficult project.",
+            "slot": "adverb",
+            "expected": "successfully",
+            "answer": "successfully",
+            "correct": true
+          },
+          {
+            "sentence": "If you study hard, you will ___ in the exam.",
+            "slot": "verb",
+            "expected": "succeed",
+            "answer": "succeed",
+            "correct": true
+          },
+          {
+            "sentence": "She ___ passed her driving test.",
+            "slot": "adverb",
+            "expected": "successfully",
+            "answer": "successfully",
+            "correct": true
+          },
+          {
+            "sentence": "Many students ___ in learning English.",
+            "slot": "verb",
+            "expected": "succeed",
+            "answer": "succeed",
+            "correct": true
+          },
+          {
+            "sentence": "He is a very ___ businessman.",
+            "slot": "adjective",
+            "expected": "successful",
+            "answer": "successful",
+            "correct": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtnyazabg7b97q",
+      "at": "2026-09-05T05:37:19.139Z",
+      "mode": "word_form",
+      "title": "succeed · còn sai",
+      "correct": false,
+      "detail": {
+        "kind": "word_form",
+        "lemma": "succeed",
+        "familyKind": "derivation",
+        "cleanSweep": false,
+        "blanks": [
+          {
+            "sentence": "Her ___ made her parents very happy.",
+            "slot": "noun",
+            "expected": "success",
+            "answer": "success",
+            "correct": true
+          },
+          {
+            "sentence": "He finished the race ___.",
+            "slot": "adverb",
+            "expected": "successfully",
+            "answer": "successfully",
+            "correct": true
+          },
+          {
+            "sentence": "They celebrated the ___ of the new shop.",
+            "slot": "noun",
+            "expected": "success",
+            "answer": "success",
+            "correct": true
+          },
+          {
+            "sentence": "She ___ passed her driving test.",
+            "slot": "adverb",
+            "expected": "successfully",
+            "answer": "succeed",
+            "correct": false
+          },
+          {
+            "sentence": "I hope you ___ in your new job.",
+            "slot": "verb",
+            "expected": "succeed",
+            "answer": "successfully",
+            "correct": false
+          },
+          {
+            "sentence": "He is a very ___ writer.",
+            "slot": "adjective",
+            "expected": "successful",
+            "answer": "successful",
+            "correct": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtnxlwdte808kh",
+      "at": "2026-09-05T05:17:48.976Z",
+      "mode": "guided_translation",
+      "title": "Anh ấy sẽ nghỉ ngơi trên ghế sofa vào cuối tuần này.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Anh ấy sẽ nghỉ ngơi trên ghế sofa vào cuối tuần này.",
+        "corrected": "He will rest on the sofa this weekend.",
+        "userSentence": "He will rest on the sofa this weekend",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "preposition",
+            "correction": "this weekend",
+            "explanation": "'this weekend' là cụm chỉ thời gian xác định, không cần giới từ đứng trước."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtnxkmgnnx5a2q",
+      "at": "2026-09-05T05:16:49.463Z",
+      "mode": "guided_translation",
+      "title": "Chúng tôi đã làm việc chăm chỉ cho dự án này trong ba năm.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Chúng tôi đã làm việc chăm chỉ cho dự án này trong ba năm.",
+        "corrected": "We have worked hard on this project for three years.",
+        "userSentence": "We have worked hard on this project for 3 years.",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "preposition",
+            "correction": "on this project",
+            "explanation": "Slot bổ nghĩa cho động từ 'worked' chỉ đối tượng công việc dùng giới từ 'on', còn 'for' đã dùng để chỉ thời gian 'for three years' nên không lặp lại."
+          },
+          {
+            "type": "naturalness",
+            "correction": "three years",
+            "explanation": "Văn viết trang trọng nên viết số nhỏ bằng chữ."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtnxjayz895bga",
+      "at": "2026-09-05T05:15:47.915Z",
+      "mode": "guided_translation",
+      "title": "Cô ấy đã hoàn thành công việc một cách đẹp đẽ vào tuần trước.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Cô ấy đã hoàn thành công việc một cách đẹp đẽ vào tuần trước.",
+        "corrected": "She finished the work beautifully last week.",
+        "userSentence": "She finished the work beautifully last week.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "article",
+            "correction": "the work",
+            "explanation": "Danh từ 'work' ở đây chỉ công việc cụ thể đã biết, nên cần mạo từ xác định 'the' trước nó."
+          },
+          {
+            "type": "spelling",
+            "correction": "beautifully"
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtnxhuhzymggz2",
+      "at": "2026-09-05T05:14:39.911Z",
+      "mode": "guided_translation",
+      "title": "Những cây bút chì đang nằm mở trên bàn bây giờ.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Những cây bút chì đang nằm mở trên bàn bây giờ.",
+        "corrected": "The pencils are lying open on the table now.",
+        "userSentence": "The pencils are lying open on the desk right now.",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "article",
+            "correction": "The pencils are lying",
+            "explanation": "Slot chủ ngữ chỉ vật cụ thể, xác định → cần 'the' trước danh từ số nhiều."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtnxgi5037f5dp",
+      "at": "2026-09-05T05:13:37.236Z",
+      "mode": "guided_translation",
+      "title": "Mọi người cần kiểm tra bài tập của họ mỗi tuần.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Mọi người cần kiểm tra bài tập của họ mỗi tuần.",
+        "corrected": "Everyone needs to check their homework every week.",
+        "userSentence": "Everyone needs to check their homework every week.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "grammar",
+            "correction": "needs to check",
+            "explanation": "Chủ ngữ 'Everyone' là số ít ngôi 3, động từ chính trong mệnh đề phải thêm 's/es': needs."
+          },
+          {
+            "type": "grammar",
+            "correction": "their homework",
+            "explanation": "Vị trí trước danh từ 'homework' cần tính từ sở hữu (their) để chỉ sự sở hữu, không dùng đại từ tân ngữ 'them'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtnxfac9joeh8k",
+      "at": "2026-09-05T05:12:40.472Z",
+      "mode": "guided_translation",
+      "title": "Chúng tôi sẽ giúp bạn hoàn thành dự án vào tuần tới.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Chúng tôi sẽ giúp bạn hoàn thành dự án vào tuần tới.",
+        "corrected": "We will help you finish the project next week.",
+        "userSentence": "We will help you finish the project next week.",
+        "status": "correct",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mtnxed0gad5epl",
+      "at": "2026-09-05T05:11:57.280Z",
+      "mode": "guided_translation",
+      "title": "Cô ấy đã sống ở thành phố này từ năm 2020.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Cô ấy đã sống ở thành phố này từ năm 2020.",
+        "corrected": "She has lived in this city since 2020.",
+        "userSentence": "She has lived in this city since 2020.",
+        "status": "correct",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mtnxdkhi0fcsf5",
+      "at": "2026-09-05T05:11:20.310Z",
+      "mode": "guided_translation",
+      "title": "Tối qua, cả gia đình ăn tối cùng nhau tại một nhà hàng.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Tối qua, cả gia đình ăn tối cùng nhau tại một nhà hàng.",
+        "corrected": "Last night, my whole family ate dinner together at a restaurant.",
+        "userSentence": "Last night, my whole family ate dinner together at a restaurant.",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "word_order",
+            "correction": "the whole family",
+            "explanation": "Slot bổ nghĩa danh từ 'family': mạo từ 'the' đứng đầu, tính từ 'whole' đứng ngay trước danh từ. Không dùng sở hữu 'my' cùng lúc với 'the'."
+          },
+          {
+            "type": "tense",
+            "correction": "ate/had",
+            "explanation": "Vị trí động từ chính cần chia quá khứ đơn (V2) vì câu kể chuyện đã xảy ra 'Tối qua', không dùng hiện tại 'eats'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtnxbxu3thbh71",
+      "at": "2026-09-05T05:10:04.299Z",
+      "mode": "guided_translation",
+      "title": "Chúng tôi đang nấu những món ăn ngon trong bếp bây giờ.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Chúng tôi đang nấu những món ăn ngon trong bếp bây giờ.",
+        "corrected": "We are cooking delicious food in the kitchen now.",
+        "userSentence": "We are cooking delicious dishes in the kitchen right now.",
+        "status": "acceptable",
+        "mistakes": [
+          {
+            "type": "spelling",
+            "correction": "kitchen",
+            "explanation": "Lỗi chính tả, không liên quan cấu trúc câu."
+          }
+        ]
+      }
+    },
+    {
+      "id": "h_mtnxavc1xbpa70",
+      "at": "2026-09-05T05:09:14.401Z",
+      "mode": "guided_translation",
+      "title": "Cô ấy kiểm tra email của cô ấy mỗi ngày.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Cô ấy kiểm tra email của cô ấy mỗi ngày.",
+        "corrected": "She checks her email every day.",
+        "userSentence": "She checks her emails every day.",
+        "status": "acceptable",
+        "mistakes": []
+      }
+    },
+    {
+      "id": "h_mtnx8ydgotsuu7",
+      "at": "2026-09-05T05:07:45.028Z",
+      "mode": "guided_translation",
+      "title": "Chúng tôi sẽ nghỉ ngơi trong công viên vào buổi chiều mai.",
+      "correct": true,
+      "detail": {
+        "kind": "guided",
+        "source": "Chúng tôi sẽ nghỉ ngơi trong công viên vào buổi chiều mai.",
+        "corrected": "We will rest in the park tomorrow afternoon.",
+        "userSentence": "We will rest in the park tomorrow afternoon",
+        "status": "correct",
+        "mistakes": [
+          {
+            "type": "preposition",
+            "correction": "in the park",
+            "explanation": "'park' là không gian có ranh giới nên dùng 'in', không dùng 'at'."
+          }
+        ]
+      }
+    },
     {
       "id": "h_mtn5mb72993mxp",
       "at": "2026-09-04T16:14:18.926Z",
@@ -13594,5 +14700,5 @@
     }
   ],
   "createdAt": "2026-08-23T14:55:05.287Z",
-  "updatedAt": "2026-09-04T16:15:23.286Z"
+  "updatedAt": "2026-09-05T15:00:04.900Z"
 }
