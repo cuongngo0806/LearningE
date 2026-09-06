@@ -7,5 +7,13 @@
 !app/
 !english-learning-data.json
 
+# The Obsidian vault projection (derived from the data, synced with it)
+!english-vault/
+
+# ...but not Obsidian's per-machine state, which would churn and conflict
+english-vault/.obsidian/workspace.json
+english-vault/.obsidian/workspace-mobile.json
+english-vault/.obsidian/cache/
+
 # Never commit real config (endpoints, keys, machine paths)
 app/.env
