@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "text": "## confirm\n*xác nhận*",
+      "x": -110,
+      "y": -60,
+      "width": 220,
+      "height": 120,
+      "color": "5"
+    },
+    {
+      "id": "slot-verb",
+      "type": "text",
+      "text": "**verb**\nconfirm\n60%",
+      "x": -90,
+      "y": -365,
+      "width": 180,
+      "height": 90,
+      "color": "3"
+    },
+    {
+      "id": "slot-noun",
+      "type": "text",
+      "text": "**noun**\nconfirmation\n60%",
+      "x": 187,
+      "y": 115,
+      "width": 180,
+      "height": 90,
+      "color": "3"
+    },
+    {
+      "id": "slot-adjective",
+      "type": "text",
+      "text": "**adjective**\nconfirmed\n60%",
+      "x": -367,
+      "y": 115,
+      "width": 180,
+      "height": 90,
+      "color": "3"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "fromNode": "center",
+      "toNode": "slot-verb"
+    },
+    {
+      "id": "e-1",
+      "fromNode": "center",
+      "toNode": "slot-noun"
+    },
+    {
+      "id": "e-2",
+      "fromNode": "center",
+      "toNode": "slot-adjective"
+    }
+  ]
+}

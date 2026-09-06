@@ -1,0 +1,70 @@
+filters:
+  or:
+    - 'type == "vocab"'
+    - 'type == "word-family"'
+
+formulas:
+  due_in: 'if(next_review, (next_review - today()).days, "")'
+
+properties:
+  file.name:
+    displayName: "Từ / họ từ"
+  type:
+    displayName: "Loại"
+  level:
+    displayName: "Cấp"
+  mastery:
+    displayName: "Thành thạo"
+  next_review:
+    displayName: "Ôn lại"
+  pos:
+    displayName: "Từ loại"
+  formula.due_in:
+    displayName: "Còn (ngày)"
+
+views:
+  - type: table
+    name: "Đến hạn hôm nay"
+    filters:
+      and:
+        - 'if(next_review, next_review <= today(), false)'
+    order:
+      - file.name
+      - type
+      - level
+      - mastery
+      - next_review
+      - formula.due_in
+  - type: table
+    name: "Sắp tới hạn (7 ngày)"
+    filters:
+      and:
+        - 'if(next_review, next_review > today() && next_review <= today() + "7d", false)'
+    order:
+      - file.name
+      - type
+      - next_review
+      - formula.due_in
+  - type: table
+    name: "Yếu nhất trước"
+    filters:
+      and:
+        - 'mastery < 0.5'
+    order:
+      - file.name
+      - type
+      - level
+      - mastery
+  - type: table
+    name: "Tất cả từ vựng"
+    filters:
+      and:
+        - 'type == "vocab"'
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - file.name
+      - pos
+      - mastery
+      - next_review

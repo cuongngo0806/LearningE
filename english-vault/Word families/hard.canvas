@@ -1,0 +1,46 @@
+{
+  "nodes": [
+    {
+      "id": "center",
+      "type": "text",
+      "text": "## hard\n*khó, cứng*",
+      "x": -110,
+      "y": -60,
+      "width": 220,
+      "height": 120,
+      "color": "5"
+    },
+    {
+      "id": "slot-adjective",
+      "type": "text",
+      "text": "**adjective**\nhard\n95%",
+      "x": -90,
+      "y": -365,
+      "width": 180,
+      "height": 90,
+      "color": "4"
+    },
+    {
+      "id": "slot-adverb",
+      "type": "text",
+      "text": "**adverb**\nhard\n95%",
+      "x": -90,
+      "y": 275,
+      "width": 180,
+      "height": 90,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-0",
+      "fromNode": "center",
+      "toNode": "slot-adjective"
+    },
+    {
+      "id": "e-1",
+      "fromNode": "center",
+      "toNode": "slot-adverb"
+    }
+  ]
+}
